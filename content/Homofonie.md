@@ -1,0 +1,1 @@
+Een muzikale[[Textuur]] waarin alle stemmen (nagenoeg) hetzelfde ritme aanhouden, zoals bijvoorbeeld in een psalmzetting (Goudimel) of een (vroege) koraalzetting (Crüger) Elke melodietoon wordt voorzien van een akkoord.

@@ -1,0 +1,1 @@
+Een term die in 1810 gemunt is door Choron (1771-1834), dienend om de verhouding van melodie en harmonie ten aanzien van een centrale referentietoon (grondtoon) of referentieakkoord (tonika) aan te geven.

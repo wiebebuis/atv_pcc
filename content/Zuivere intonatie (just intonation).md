@@ -1,0 +1,1 @@
+Een manier van intoneren die gericht op het realiseren van zwevingsvrije samenklanken; dit zijn samenklanken die frekwentieverhoudingen van de boventoonrij weerspiegelen.

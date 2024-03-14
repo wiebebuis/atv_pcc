@@ -1,0 +1,2 @@
+Een (contrapuntische) techniek die toegepast kan worden in de [[Fuga]].  Er is sprake van een stretto als thema-inzetten elkaar zo snel opvolgen dat ze elkaar overlappen. Daar duidt de oorspronkelijke betekenis van het woord ook op: samendrukken, comprimeren.
+Een stretto (het groepje van thema-inzetten) wordt beschouwd als één thema-inzet (Czaczkes).

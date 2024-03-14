@@ -1,0 +1,1 @@
+Muzikaal idee dat aan de basis ligt van een muziekwerk. De term werd gebruikt door o.a. Gioseffo Zarlino in relatie tot (door)imiterende muziekwerken, zoals een [[Ricercare]].

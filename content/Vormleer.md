@@ -1,0 +1,1 @@
+Een onderdeel van [[ANALYSE]] dat zich richt op herkennen en  beschrijven van [[Vormtypen]].

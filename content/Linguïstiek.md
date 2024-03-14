@@ -1,0 +1,1 @@
+De wetenschappelijke studie van taal. De linguïstiek kent een aantal deelgebieden zoals o.a. syntaxis, semantiek, morfologie, fonetiek.

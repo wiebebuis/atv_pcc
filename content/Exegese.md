@@ -1,0 +1,1 @@
+Term gelieerd aan de filologie en theologie. Wordt ook wel aangeduid met schriftverklaring en maakt deel uit van de [[Hermeneutiek]]. 

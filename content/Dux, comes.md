@@ -1,0 +1,3 @@
+Deze termen verwijzen naar de originele versie van het thema (1e inzet) en de beantwoording ervan. De termen zijn afkomstig van Sethus Calvisius (Melopoeia 1592), direct vertaald vanuit Zarlino die spreekt van Guida en Consequente. Bij Zarlino en Calvisius wordt de eerste inzet van doorimitatie dux genoemd en de daaropvolgende comes. Werckmeister gebruikt de termen in een weer iets andere vorm in zijn _Musicae mathematicae hodegus curiosus_ of *Richtiger Musicalischer Weg-Weiser* (1686).
+Het gebruik van de termen dux en comes vinden we tegenwoordig met name in Duitstalige literatuur over de [[Fuga]]. 
+In het werk van Ludwig Czaczkes over de Bachfuga wordt het belang van het onderscheid tussen dux en comes gerelativeerd.

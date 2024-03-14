@@ -1,0 +1,1 @@
+Een muzikale [[textuur]] waarbij een gegeven stem kan worden vergezeld van een versierde versie. Gebruikelijk in veel vocale muziek uit het Midden-Oosten en Oost-Azië, waarbij een gezongen partij wordt vergezeld van een instrumentale versierde versie.
