@@ -4,7 +4,7 @@ Niet te verwarren met de solistencadens of [[Cadenza]].
 
 [[ANALYSE]]
 [[HARMONIE]]
-[[Harmonieleer]]
+[[HARMONIELEER]]
 [[Cadens-typen]]
 
 http://www.earlymusicsources.com/youtube/cadences
