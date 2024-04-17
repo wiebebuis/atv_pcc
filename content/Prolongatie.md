@@ -1,0 +1,3 @@
+De term is gemunt door Heinrich Schenker en is een kernbegrip uit de [[Schenker-analyse]]. Prolongatie is gerelateerd aan het begrip [[Uitcomponeren (Auskomponieren)]] 
+Schenker gaat uit van de gedachte dat een compositie is gebaseerd op een harmonisch-contrapuntisch plan. De structurele componenten daarvan vormen het raamwerk voor de compositie. De meest abstracte vorm van dat plan wordt gevormd door de **Ursatz**, bestaande uit een bovenstem met de naam Urlinie (3-2-1) en een bas met de naam Grundbrechung (1-5-1). Het componeren bestaat in zijn visie uit het "Auskomponieren" of prolongeren van deze structurele componenten. 
+Schenkeranalyses zijn gelaagd: er wordt een onderscheid gemaakt tussen Vordergrund (de partituur), Mittelgrund en Hintergrund. 

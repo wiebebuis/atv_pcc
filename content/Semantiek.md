@@ -1,0 +1,1 @@
+De wetenschappelijke studie van de betekenis van taal.

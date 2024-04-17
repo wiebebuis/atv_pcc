@@ -1,0 +1,1 @@
+Verkleinwoord van Coda. Voornamelijk gebruikt in de context van vormanalyse. Een passage of segment dat voor een tijdelijke of voorlopige afronding zorgt. Bijvoorbeeld aan het eind van de expositie van een klassieke sonatevorm.

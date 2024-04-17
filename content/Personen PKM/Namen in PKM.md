@@ -1,0 +1,7 @@
+- Niklas Luhmann
+- Sönke Ahrens 
+- Nick Milo
+- Zsolt Viczian
+- Tiago Forte
+- Martin Adams
+- Cal Newport

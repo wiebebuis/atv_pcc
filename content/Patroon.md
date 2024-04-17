@@ -1,0 +1,1 @@
+Zie [[Patronen en principes]] en [[Concept]].

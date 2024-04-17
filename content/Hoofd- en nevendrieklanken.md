@@ -1,0 +1,5 @@
+Vanaf Rameau wordt er in de discipline harmonieleer een nadrukkelijke verbinding gelegd tussen de toonladder en mogelijke akkoorden in een toonsoort. Akkoorden worden a.h.w. "afgeleid" uit de toonsoort. De hoofdfuncties Tonika, Subdominant en Dominant worden daarbij gekoppeld aan drieklanken op de "sterke" bastonen (1), (4) en (5) van de toonladder. De functies van nevendrieklanken (II, III, VI,VII) worden toegekend op basis van gemeenschappelijke tonen met de hoofddrieklanken. Deze denkwijze leidt in de praktijk tot het "vervangingsdenken": IV kan als subdominant worden vervangen door II, I door VI, V door VII.
+
+III is in de benadering vooral in mineur een "lastig verschijnsel", door Gottfried Weber zelfs "ein Unding" genoemd. 
+
+[[Harmonieleer]]

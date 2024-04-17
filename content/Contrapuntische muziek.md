@@ -1,0 +1,1 @@
+Muziek die kenmerken vertoont van [[Polyfonie]]. Gebruik makend van technieken die afkomstig zijn uit het [[CONTRAPUNT]].

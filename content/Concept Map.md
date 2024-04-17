@@ -1,0 +1,1 @@
+Een kaart die concepten en hun onderlinge relaties representeert. De term lijkt afkomstig te zijn van [[John D. Novak]], die ook betrokken was bij de ontwikkeling van CMapTools. De term wordt ook toegeschreven aan het **constructivisme**, een stroming uit de onderwijskunde/leerpsychologie.

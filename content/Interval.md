@@ -1,0 +1,3 @@
+De afstand tussen twee tonen.
+Intervallen hebben hoofdnamen: prime, sekonde, .. etc
+en bijnamen: groot, klein, verminderd, overmatig, ...

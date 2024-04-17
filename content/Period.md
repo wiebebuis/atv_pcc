@@ -1,0 +1,1 @@
+Een van de frasemodellen van Capellen. Zijn terminologie gaat terug op de Duitse termen Satz en Periode.

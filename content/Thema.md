@@ -1,0 +1,2 @@
+Verschijningsgedaante van een muzikaal idee dat aan de basis ligt van een muziekwerk, meestal in de vorm van een afgerond melodisch-harmonisch idee, dat zodanige karakteristieke kenmerken heeft dat herkenning mogelijk maakt. In die herkenning speelt het [[Motief]] een belangrijke rol.
+Zie ook [[Soggetto]] (Josquin/Zarlino).

@@ -1,0 +1,1 @@
+Term uit de [[Prototype theory]]: Een prototype bestaat uit een aantal "characteristic features" i.p.v. "defining properties". Een gevolg van deze zienswijze is dat concepten dus vage grenzen kunnen hebben.

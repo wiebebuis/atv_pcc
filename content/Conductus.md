@@ -1,0 +1,3 @@
+Een middeleeuws lied met een serieus/ernstig en religieus onderwerp in Latijnse poëzie. Het genre is waarschijnlijk ontstaan aan het einde van de 12e eeuw in Zuid-Frankrijk. Het werd geadopteerd door de Parijse componisten van de Notre Dame school. Het kende een bloeiperiode van ongeveer 1160-1240. Daarna trad in de tweede helft van de 13e eeuw het  [[Motet]] meer op de voorgrond.
+
+A medieval song with a serious, usually sacred, text in Latin verse. The genre seems to have originated in the south of France near the end of the 12th century. Taken up by the Parisian composers of Notre Dame, it flourished with great brilliance from about 1160 to about 1240. It was superseded in the second half of the 13th century by the motet.

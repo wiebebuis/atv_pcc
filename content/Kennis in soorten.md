@@ -1,0 +1,4 @@
+declaratief
+procedureel
+tacit knowledge
+...

@@ -1,0 +1,1 @@
+Een muzikale textuur waarin het klankbeeld wordt bepaald door horizontale lijnen in de stemvoering, waarbij het lastig of niet mogelijk is om de gebruikte harmonieën functioneel te verklaren. Een voorbeeld: het tweede gedeelte van het 1e thema uit de vierde symfonie van Brahms, of de Mazurka in F# mineur van Chopin (dalende chromatische sequens).

@@ -1,0 +1,2 @@
+Herhaling van een muzikaal fragment of vormdeel, vaak met gebruik van (||: :||).
+In de context van een [[Sonatevorm]] is het de terugkeer van het eerste vormdeel de [[Expositie]], waarbij harmonisch gezien de thema's worden gepresenteerd in de hoofdtoonsoort (en dus niet in verschillende toonsoorten zoals in de expositie wel gebruikelijk is).

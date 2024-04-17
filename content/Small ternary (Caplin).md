@@ -1,0 +1,1 @@
+Kleine driedelige liedvorm A-B-A.
