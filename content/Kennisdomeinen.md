@@ -1,7 +1,7 @@
 In deze vault zijn de volgende kennisdomeinen onderscheiden:
 [[ANALYSE]]
 [[HARMONIE]]
-[[HARMONIELEER]]
+[[XHARMONIELEER]]
 [[AKOESTIEK]]
 [[CONTRAPUNT]]
 [[GESCHIEDENIS]]

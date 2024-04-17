@@ -1,4 +1,4 @@
-Gebruikt in de [[HARMONIELEER]] voor tonen die akkoordtonen soms "versieren". 
+Gebruikt in de [[XHARMONIELEER]] voor tonen die akkoordtonen soms "versieren". 
 De meest voorkomende zijn:
 doorgangstoon
 voorhouding (voorbereid) 
