@@ -1,1 +1,0 @@
-![[content/Betekenisdriehoek Tekst en Muziek.excalidraw.png]]
