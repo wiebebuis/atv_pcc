@@ -2,4 +2,4 @@ Vanaf Rameau wordt er in de discipline harmonieleer een nadrukkelijke verbinding
 
 III is in de benadering vooral in mineur een "lastig verschijnsel", door Gottfried Weber zelfs "ein Unding" genoemd. 
 
-[[XHARMONIELEER]]
+[[HARMONIELEER]]

@@ -12,6 +12,6 @@ Stembewegingen in renaissance/vroeg barok slotformules:
 Zie video earlymusicsources.com: https://youtu.be/jaCRUdxTRSM
 
 [[HARMONIE]]
-[[XHARMONIELEER]]
+[[HARMONIELEER]]
 [[Cadens]]
 
