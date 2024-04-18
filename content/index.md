@@ -14,6 +14,6 @@ Belangrijke inspiratiebronnen zijn
 
 **Dank aan**: 
 - Nicole van der Hoeven: voor haar duidelijke YT-video om Obsidian, Quartz, Git en Github aan de praat te krijgen. 
-- Zsolt Viczian: voor zijn geweldige video's op het terrein van PKM (Personal Knowledgemanagement) en het gebruik van Obsidian en aanvullende tools daarbij.
+- Zsolt Viczian: voor zijn geweldige YT-video's op het terrein van PKM (Personal Knowledge Management) en het gebruik van Obsidian en aanvullende tools daarbij.
 
 
