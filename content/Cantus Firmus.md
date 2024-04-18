@@ -1,2 +1,2 @@
 Een term die vooral wordt gebruikt in relatie tot muziek uit de middeleeuwen en renaissance. Het gaat om een reeds bestaande melodie die aan de  basis ligt van een nieuwe polyfone compositie.
-Deze melodie kan afkomstig zijn uit het gregoriaans of uit monofone wereldlijke muziek. Ook kan het één stem uit een bestaand (polyfoon) werk zijn, of nieuw gecomponeerde melodie zijn.
+Deze melodie kan afkomstig zijn uit het gregoriaans of uit monofone wereldlijke muziek. Ook kan het één stem uit een bestaand (polyfoon) werk zijn, of een nieuw gecomponeerde melodie.
