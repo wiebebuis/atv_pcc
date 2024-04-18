@@ -1,4 +1,7 @@
 Boventonen zijn tonen die als het ware "opgesloten" zijn in de totaalklank van een instrument en die met een (basis)toon meeklinken of resoneren. Ook de tonen die hoorbaar worden door "overblazen" op bijvoorbeeld een koperblaasinstrument noemen we boventonen of harmonischen. Van een dergelijke reeks verhouden de frekwenties zich tot elkaar als 1:2:3:4 enz.
-Deze reeks wordt [[Boventoonreeks]] genoemd
+Deze reeks wordt [[Boventoonreeks]] genoemd.
+
+![[Afbeeldingen/boventoonreeks.jpeg]]
+
 De manier waarop dat meeklinken gebeurt bepaalt voor een groot deel het **timbre** van een instrument. Je kunt dit verschijnsel voor jezelf simpel demonstreren door op een piano (zonder het rechter pedaal te gebruiken) de toetsen van de tonen 4, 5 en 6 van de besproken reeks ingedrukt te houden en de C luid aan te slaan. Je hoort dan de drieklank meeklinken. De snaren gaan "meeklinken" met frequenties die besloten zitten in de lage snaar. Probeer je hetzelfde met bijvoorbeeld de drieklank d'-fis'-a' dan krijg je dat effect niet. Hoe meer de boventonen van samenklinkende tonen, intervallen, akkoorden instrumenten, etc. met elkaar in "conflict" zijn, des te nadrukkelijker doet zich het fenomeen van zweving gelden. Overigens geldt dit "meeklinken" ook in neerwaartse richting; speel bijvoorbeeld op een viool g' op de d-snaar en je kunt de open g-snaar zien meetrillen.
 [[AKOESTIEK]]
