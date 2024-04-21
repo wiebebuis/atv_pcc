@@ -1,1 +1,1 @@
-![[public/Afbeeldingen/Cheat_sheet_analyse_2.jpg]]
+![[Afbeeldingen/Cheat_sheet_analyse_2.jpg]]

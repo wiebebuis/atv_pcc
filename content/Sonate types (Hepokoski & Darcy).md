@@ -14,7 +14,10 @@ H. & D. onderscheiden **5 typen sonatevormen** die verschillen al naar gelang 
 
 De typen lijken het meest op elkaar wat de betreft de expositie, wat er na de expositie gebeurt is bepalend voor het onderscheid.
 
-In vergelijking met gangbare analysebenaderingen van muziek in sonate-stijl voegen zij enkele labels toe die in het schema van de generic layout van de sonatevorm terug zijn te vinden.![[content/Hepokoski & Darcy generic scheme.jpg]]
+In vergelijking met gangbare analysebenaderingen van muziek in sonate-stijl voegen zij enkele labels toe die in het schema van de generic layout van de sonatevorm terug zijn te vinden.
+
+![[Afbeeldingen/Hepokoski & Darcy generic scheme.jpg]]
+
 - **P**: primary theme zone
 - **TR**: transition
 - **S**: secondary theme zone
@@ -24,5 +27,4 @@ In vergelijking met gangbare analysebenaderingen van muziek in sonate-stijl voeg
 - **ESC**: essential structural closure
 
 **Rotation:** benoemd als large scale recurrence. In termen van Erpf komt dit overeen met "herhaling op afstand".
-[[Sonate]]
-[[Sonatevorm]]
+Zie ook [[Sonate]] en [[Sonatevorm]].
