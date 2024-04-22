@@ -1,0 +1,8 @@
+- Kernopgave Onderzoek 1: Het stellen van contextuele vragen over een onderwerp
+- Kernopgave Onderzoek 2: Het verkennen van een gekozen onderwerp
+- Kernopgave Onderzoek 3: Het maken van een Concept Map
+- Kernopgave Onderzoek 4: Take Smart Notes (Sönke Ahrens)
+- Kernopgave Onderzoek 5: Het (stap voor stap) schrijven een paper, essay, werkstuk, ... (aansluitend bij de methodiek van Sönke Ahrens)
+- Kernopgave Analyse en interpretatie van muziek
+- Kernopgave (Auditieve) Analyse met behulp van Audacity
+- Kernopgave 
