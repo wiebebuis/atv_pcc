@@ -1,2 +1,2 @@
 In de vierstemmige klassieke harmonieleer een zodanige zetting van een akkoord dat tussen de bovenste drie stemmen nog een akkoordtoon te plaatsen is. Zie ook [[Enge ligging (close position)]].
-![[content/spacing in four-part harmony.gif]]
+![[Afbeeldingen/spacing in four-part harmony.gif]]

@@ -40,22 +40,24 @@ We zien daarbij zaken optreden als:
 
 4#-5 en 7-8 als bastonen in majeur en mineur;
 
-![[+ IV7 en VII7 .jpeg]]
+![[+ IV7 en VII7 .jpeg|250]]
 
 Tussendominanten (V7) voor II, III, IV, VI in majeur; leidtoon in een van de bovenstemmen:
 
-![[major ascending leadingtones with applied dominants.jpeg]]
+![[major ascending leadingtones with applied dominants.jpeg|500]]
 
 Op vergelijkbare wijze met de chromatisch stijgende lijn in de bas (steeds een 65-akkoord als tussendominant).
 
-![[ascending chromatic line in bass (v65).jpeg]]
+![[ascending chromatic line in bass (v65).jpeg|500]]
 
-b2-1 in majeur en mineur (Np. 6) chromatische omspeling van de tonicatoon in een van de bovenstemmen.![[Neapolitan_Sixth02.jpeg]]
+b2-1 in majeur en mineur (Np. 6) chromatische omspeling van de tonicatoon in een van de bovenstemmen.
+
+![[Neapolitan_Sixth02.jpeg|300]]
 
 Dalende leidtoon in de bas van (b)6-5: de akkoorden met een "overmatige sext":
 German 6th, French 6th, Italian 6th.
 
-![[Afbeeldingen/german_french_italian_sixth.jpeg]]
+![[Afbeeldingen/german_french_italian_sixth.jpeg|350]]
 
 Zie ook: [[Overmatige sext, akkoorden met]]
 
