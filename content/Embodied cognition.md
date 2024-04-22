@@ -4,5 +4,5 @@ Om cognitieve processen te kunnen begrijpen is het belangrijk hun relatie met ps
 
 Daarom is embodied cognition verbonden met de [[Fenomenologie]].
 
-Belangrijke naam:
+Belangrijke namen:
 Lawrence Shapiro: Embodied Cognition (2010-2019).
