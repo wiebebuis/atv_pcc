@@ -7,4 +7,4 @@ Maurice Merleau-Ponty (1908-1961)
 Voor fenomenologie in relatie tot muziek
 The Oxford Handbook of the Phenomenology of Music (in progress dd march 2024)
 Bruce Ellis Benson - Phenomenology of Music in: Routledge Companion to Philosophy and Music
-(pdf aanwezig)
+(beschikbaar op kb.nl).

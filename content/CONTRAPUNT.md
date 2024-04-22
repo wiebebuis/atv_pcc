@@ -9,3 +9,8 @@ Het onderricht in contrapunt richt zich in het algemeen op twee benaderingen:
 
 Contrapuntische muziek kan gezien worden als onderdeel van het ruimere begrip **polyfonie**.
 [[Polyfonie]]
+
+Overzichtsartikel OMO
+[https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.06690](https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.06690) KB)
+
+[https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.06690](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.06690) (Hanze)

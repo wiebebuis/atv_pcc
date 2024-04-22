@@ -9,4 +9,7 @@ In de praktijk vaak onderverdeeld in deelgebieden:
 5. Slaginstrumenten
 6. De stem
 
-OMO: https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.00134
+OMO: 
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.00134 (KB)
+
+https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.00134 (Hanze)

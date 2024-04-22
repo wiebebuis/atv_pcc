@@ -5,4 +5,5 @@ Aanvankelijk met het etiket caccia of chace voor muziek met toepassing van canon
 Tussen de middeleeuwen en de late barok ontstaat er een groot aantal genres dat van deze techniek gebruik maakt: [[Ricercare]], canzona, capriccio, fantasia, motet...
 De eerste stemmenronden van thema-inzetten wordt in het algemeen [[Expositie ]] genoemd. Dezelfde term die gebruikt wordt voor het eerste vormdeel van de sonatevorm.
 
+Hoe een fuga "moet" verlopen wordt (voorzover mij bekend) alleen voorgeschreven in de zogenaamde schoolfuga (Fugue d'école) zoals die onderwezen werd (wordt?) aan het Parijse Conservatorium.
 

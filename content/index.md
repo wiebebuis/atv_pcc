@@ -8,9 +8,11 @@ Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor 
 
 Het opbouwen en delen van een *evoluerend semantisch netwerk*, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle).
 
+Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
+
 Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een beslissing.
 
-Het is een (noodzakelijke) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies.
+Het is een (voor mij noodzakelijke) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies.
 
 Het is een uitvloeisel van dingen die ik geleerd heb op het gebied van PKM (Personal Knowledge Management).
 Belangrijke inspiratiebronnen zijn
@@ -22,6 +24,6 @@ Belangrijke inspiratiebronnen zijn
 **Dank aan**: 
 - Jan Ruerd Oosterhaven die me attendeerde op het bestaan van Obsidian.
 - Nicole van der Hoeven: voor haar duidelijke YT-video om Obsidian, Quartz, Git en Github aan de praat te krijgen. 
-- Zsolt Viczian: voor zijn geweldige YT-video's op het terrein van PKM (Personal Knowledge Management) en het gebruik van Obsidian en aanvullende tools daarbij.
+- Zsolt Viczian: voor zijn YT-video's op het terrein van PKM (Personal Knowledge Management) en het gebruik van Obsidian en aanvullende tools daarbij.
 
 

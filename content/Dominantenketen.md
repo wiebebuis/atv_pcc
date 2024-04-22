@@ -2,3 +2,7 @@ Ook wel beschouwd als een harmonische [[Sequens]] waarbij de grondtoonopeenvolgi
 Wordt strikt vastgehouden aan *reine* kwarten en kwinten, dan ontstaat een *chromatische* dominantenketen met twaalf in plaats van zeven stappen.
 
 De dominantenketen komt voor van de barok tot en met jazz en popmuziek.
+
+Voorbeeld:
+https://skole.nl/index.php?option=com_content&view=article&id=164:dominantenketen&catid=22&lang=nl-nl&Itemid=378
+

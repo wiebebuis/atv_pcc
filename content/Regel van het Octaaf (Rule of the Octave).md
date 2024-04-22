@@ -2,3 +2,6 @@ Een in de 18e eeuw ontstaan fenomeen. Het is een standaard akkoordopeenvolging o
 An eighteenth century phenomenon. It is a standard chord progressions on an ascending or descending bass scale. The pentachord (1-5) and tetrachord (5-8), mark structural tones of the scale. It's one of the central concepts of [[PARTIMENTO]].
 
 https://www.earlymusicsources.com/youtube/theruleoftheoctave
+
+Voorbeeld uit boek Job IJzerman:
+![[ijzerman example 4.22 RO.jpg]]

@@ -10,3 +10,7 @@ We kunnen dat de harmonische dimensie van muziek noemen. Door de eeuwen heen zij
 - neo-Riemanniaanse codering
 
 [[Drieklank]]
+
+OMO: [https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.50818](https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.50818)(KB)
+
+[https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.50818](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.50818)(Hanze)

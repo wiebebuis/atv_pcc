@@ -8,6 +8,8 @@ Monte Romanesca
 Fenaroli
 Folia
 Fonte
+Chromatic Monte
+Omnibus
 
 Voorbeelden uit Gjerdingen's Music in the Galant Style (schema prototypes):
 Meyer

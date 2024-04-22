@@ -2,7 +2,10 @@ OMO:
 1. Concepts and practices
 2. Western art music
 3. Jazz
-https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.13738
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.13738 (KB)
+
+[https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13738](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13738)(Hanze)
+
 
 MGG 
 Ernst Ferand - Die Improvisation
