@@ -2,7 +2,7 @@ In algemene zin het altereren (wijzigen) van tonen in een diatonische toonvoorra
 [[Tonaliteit]]
 [[Toonsysteem]]
 
-E.W. Mulder onderscheidt in zijn Harmonieleer twee type:
+E.W. Mulder onderscheidt in zijn Harmonieleer twee typen:
 [[Excentrische chromatiek]] en [[Concentrische chromatiek]].
 
 OMO: [https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.05718](https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.05718)(KB)

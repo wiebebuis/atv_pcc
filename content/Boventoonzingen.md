@@ -2,6 +2,6 @@ Een methode van zingen waarbij boven een aangehouden toon, tonen uit de boventoo
 
 Een bekende boventoonzangeres is Anna Maria Hefele.
 
-[https://www.youtube.com/@AnnaMariaHefele]
+https://www.youtube.com/@AnnaMariaHefele
 
 Zie ook: [[Boventonen]] en [[Boventoonreeks]].

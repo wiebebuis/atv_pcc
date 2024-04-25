@@ -12,6 +12,7 @@ Niet te verwarren met de solistencadens of [[Cadenza]].
 
 http://www.earlymusicsources.com/youtube/cadences
 
+OMO:
 [https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.04523](https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.04523)(KB)
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523)(Hanze)
