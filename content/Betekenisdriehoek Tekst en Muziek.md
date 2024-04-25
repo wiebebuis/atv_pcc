@@ -1,1 +1,1 @@
-![[/Afbeeldingen/Betekenisdriehoek Tekst en Muziek.png]]
+![[Afbeeldingen/Betekenisdriehoek Tekst en Muziek.png]]

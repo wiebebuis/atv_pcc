@@ -1,3 +1,5 @@
+Term afkomstig uit de retorica.
+
 Luko, A. : ‘Tinctoris on Varietas’. Early Music History, vol. 27 (2008); 99-136.
 
 Markovska, N.: Varietas: a Stylistic Virtue (2013). 

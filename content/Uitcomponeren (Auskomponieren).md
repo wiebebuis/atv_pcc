@@ -1,1 +1,1 @@
-Auskomponieren is een term afkomstig uit de visie van Heinrich Schenker. Is verwant aan de term [[Prolongatie]], het in de vorm van een compositie of compositiefragment gieten van een abstract onderliggend idee. Dat onderliggende idde is in de vise van Schenker in essentie de Ursatz.
+Auskomponieren is een term afkomstig uit de visie van Heinrich Schenker. Is verwant aan de term [[Prolongatie]], het in de vorm van een compositie of compositiefragment gieten van een abstract onderliggend idee. Dat onderliggende idee is in de vise van Schenker in essentie de Ursatz.

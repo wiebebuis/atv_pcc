@@ -8,3 +8,4 @@ Analogieën tussen muziek en narrative werpen de vraag op hoe de gebeurtenissen 
 Weer anderen betwisten de bewering dat muziek narratief kan zijn (Kivy). 
 De afwezigheid van: onderwerp en gezegde (Nattiez), reflectie en zelfcommentaar (Kramer), verleden tijd (Abbate).
 Dit brengt sommigen (Kerman, Maus, Newcomb) ertoe te zeggen dat muziek dichter bij toneel (drama) dan het verhaal staat. Tovey en Rosen zijn van dat laatste een voorbeeld.
+(OMO).
