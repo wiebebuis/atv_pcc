@@ -2,6 +2,7 @@
 Inhoudsopgave
 
 I STARTING POINTS
+
 1. Pitch, tone, note
 2. Interval
 3. Mode
@@ -11,6 +12,7 @@ I STARTING POINTS
 7. Texture
 
 II TIME
+
 8. Repetition
 9. Meter
 10. Temporalities
@@ -20,6 +22,7 @@ II TIME
 14. Expressive timing
 
 III HORIZONTALS EN VERTICALS
+
 15. Melody
 16. Consonance and dissonance
 17. Tonal harmony
@@ -29,6 +32,7 @@ III HORIZONTALS EN VERTICALS
 21. Polyphony
 
 IV THE BIG PICTURE
+
 22. Musical grammar
 23. Analytical relationships
 24. Images, visualization and representation
