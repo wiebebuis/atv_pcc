@@ -5,3 +5,4 @@ In de muziektheorie is er verschillende stromingen die de relatie tussen muziek 
 Belangrijke namen:
 Lerdahl & Jackendoff - A Generative Theory of Tonal Music
 
+

@@ -4,6 +4,7 @@ Grove: historisch overzicht van slotformules.
 MGG
 
 Gregoriaans en vroege meerstemmigheid: het melodisch bereiken van een stabiele toon.
+
 Stembewegingen in renaissance/vroeg barok slotformules: 
 - cantizans, 
 - altizans, 
