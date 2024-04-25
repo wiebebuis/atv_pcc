@@ -9,6 +9,6 @@ Dat is proefondervindelijk aan te tonen door zelf een reeks van zuivere kwinten 
 
 2 tot de macht 7 = **128**
 
-Zie ook [[Syntonisch komma]].
+Zie ook [[Syntonisch komma]]
 [[AKOESTIEK]]
 [[Temperament (stemming)]]
