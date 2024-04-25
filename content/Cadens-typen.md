@@ -15,4 +15,3 @@ Zie video earlymusicsources.com: https://youtu.be/jaCRUdxTRSM
 [[HARMONIE]]
 [[HARMONIELEER]]
 [[Cadens]]
-
