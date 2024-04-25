@@ -5,7 +5,7 @@ Basisvorming 2 jaar
 - Gevoed vanuit kennisdomeinen
 - Constructivistisch (leren door handelen)
 - Met (waar mogelijk) gebruik van instrument (ook de stem...)
-- Aandacht voor aspecten van Embodied Cognition (luistern, bewegen, voelen,denken)
+- Aandacht voor aspecten van Embodied Cognition (luisteren, bewegen, voelen,denken)
 - Onderzoekende houding stimuleren
 - Leren lezen, studeren en kennis construeren (persoonlijke bekwaamheid als hoger opgeleide) m.b.v. methodiek Sönke Ahrens: How to Take Smart Notes
 - Werken met verschillende niveaus van complexiteit (getrapt)
