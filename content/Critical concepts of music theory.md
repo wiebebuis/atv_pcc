@@ -9,6 +9,7 @@ I STARTING POINTS
 5. Tonic
 6. Timbre
 7. Texture
+
 II TIME
 8. Repetition
 9. Meter
@@ -17,6 +18,7 @@ II TIME
 12. Phrase
 13. Form
 14. Expressive timing
+
 III HORIZONTALS EN VERTICALS
 15. Melody
 16. Consonance and dissonance
@@ -25,6 +27,7 @@ III HORIZONTALS EN VERTICALS
 19. Cadence
 20. Sequence
 21. Polyphony
+
 IV THE BIG PICTURE
 22. Musical grammar
 23. Analytical relationships
