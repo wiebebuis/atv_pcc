@@ -1,6 +1,6 @@
 Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 bevat een vocabulaire van muzikale patronen en frases, dat voor muzikale amateurs gemakkelijk te begrijpen en te leren was. Het leren van deze patronen stelt muzikanten in staat te improviseren. 
 
-Voorbeelden zijn (HACOPA IJzerman):
+Voorbeelden (in protoypische vorm) zijn (HACOPA IJzerman):
 Leaping Romanesca
 Quiescenza
 Prinner
@@ -23,5 +23,5 @@ Sanguinetti:
 zie hoofdstuk 9 uit The Art of Partimento: overzicht van "regole"
 
 Zowel Gjerdingen als IJzerman werkt met prototypes; Sanguinetti presenteert een totaaloverzicht van "regole".
-
-[[PARTIMENTO]]
+Zie ook: [[Prototype]]
+Zie ook: [[PARTIMENTO]]
