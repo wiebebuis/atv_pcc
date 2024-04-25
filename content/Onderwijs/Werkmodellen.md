@@ -6,6 +6,6 @@ Het is eigenlijk heel simpel: ga iets **doen** gerelateerd aan wat je wilt le
 
 Het kan gaan om een aantal standaardvragen die te stellen zijn, een voorstel voor een systematische aanpak van een activiteit of taak, enzovoorts.
 
-Van alleen maar (passief) kijken, klikken, kopiëren en plakken leer je niets.
+Van alleen maar (passief) kijken, klikken, kopiëren en plakken leer je weinig of niets.
 
 
