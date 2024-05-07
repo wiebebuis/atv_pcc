@@ -1,4 +1,4 @@
-Hierbij gaat het om een relatief kort (meestal instrumentaal werk) in een tamelijk vrije vorm. Deze vrijheid heeft te maken met het etiket, dat afkomstig is van het latijnse *inventio*: het is een term uit de retorica, die in de Renaissance ook opduikt in verhandelingen over muziek.
+Hierbij gaat het om een relatief kort (meestal instrumentaal)werk in een tamelijk vrije vorm. Deze vrijheid heeft te maken met het etiket, dat afkomstig is van het latijnse *inventio*: het is een term uit de retorica, die in de Renaissance ook opduikt in verhandelingen over muziek.
 Inventio betekent letterlijk uitvinding of vondst en heeft in de retorica betrekking op het centrale onderwerp van een **betoog**. In muzikale zin gaat het dan om een **muzikaal idee** dat in een compositie uitgewerkt wordt. Zo'n idee werd door Zarlino eerder een [[Soggetto]] genoemd.
 
 Bachs 15 tweestemmige en 15 driestemmige inventies zijn de meest bekende voorbeelden van muzikale inventies.
