@@ -15,7 +15,7 @@ Algemene aandachtspunten bij analyse van Bach inventies:
 - Het zijn composities met duidelijke geledingen.
 - Bij het realiseren van geledingspunten spelen **cadenzen** een sleutelrol.
 - Naast cadenzen spelen **sequenzen** een belangrijke rol.
-- De schrijfwijze (textuur) is vaak **contrapuntisch** van karakter (veel imitaties, soms ook omkering en verbreding van motieven), maar dit is niet van dien aard dat men de inventies daarom echt polyfone composities zou kunnen noemen, zoals een fuga; daarvoor zijn ze te kort en zijn de geledingen te sterk.
+- De schrijfwijze (textuur) is vaak **contrapuntisch** van karakter (veel imitaties, soms ook omkering en verbreding van motieven), maar dit is niet van dien aard dat men de inventies daarom echt polyfone composities zou kunnen noemen, zoals een fuga; daarvoor zijn ze te kort en zijn de geledingen meestal te sterk.
 - Er is een harmonisch plan, er wordt (dus) gemoduleerd.
 - Modulaties vinden plaats naar verwante toonsoorten.
 - Motieven en varianten daarvan spelen een belangrijke rol bij de vormgeving; langere thema's vinden we eigenlijk niet.
