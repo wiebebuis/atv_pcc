@@ -3,3 +3,5 @@ Beroemd voorbeeld fuga Brahms Deutsches Requiem: "Die gerechten Seelen..."
 Een orgelpunt kan ook voorkomen in bovenstemmen (zie Requiem Duruflé: Lux Aeterna; Requiem aeternam op reciteertoon c).
 In middeleeuwse muziek was het gebruikelijk om een finalistoon te laten doorklinken tijdens het hele muziekwerk, soms samen met de kwint en octaaf (1-5-8). Dan wordt gesproken van een [[Bourdon]] Zie als voorbeeld Dufay -Saltarello.
 [[Textuur]]
+
+https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.21181 (Hanze)
