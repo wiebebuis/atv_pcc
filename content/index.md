@@ -10,16 +10,16 @@ Het opbouwen en delen van een *evoluerend semantisch netwerk*, dat het onderwijs
 
 Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
-Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten generen van links op basis van gemeenschappelijke woorden/termen tussen teksten). 
+Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen teksten). 
 
 Het is een (voor mij noodzakelijke) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies.
 
-Het is een uitvloeisel van dingen die ik geleerd heb op het gebied van PKM (Personal Knowledge Management).
+Het is een uitvloeisel van dingen die ik geleerd heb op het gebied van Conceptueel Leren en  PKM (Personal Knowledge Management).
 Belangrijke inspiratiebronnen zijn
 - John D. Novak - *Learning and Creating Knowledge* (voor zijn visie op onderwijs en leren)
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren).
 
-**Technische info**: De "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
+**Technische info**: De "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
 
 **Dank aan**: 
 - Jan Ruerd Oosterhaven die me attendeerde op het bestaan van Obsidian.

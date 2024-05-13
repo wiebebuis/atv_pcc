@@ -31,6 +31,8 @@ Vormgeving van de opleiding organisatorisch:
 - Historisch en cultureel 
 - Interpreteren en uitvoeren
 
+**VISUALISEREN**
+
 **LUISTEREN, TOEPASSEN EN IMPROVISEREN (SPELEND EN ZINGEND)** 
 - gehoorvorming
 - pianopracticum
