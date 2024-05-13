@@ -63,3 +63,4 @@ Integrale lijn: de lijn van de musicus in opleiding, "hoofdvak" en "methodiek" i
 Flankerende lijnen:
 - Cognitieve lijn (kennisconstructie)
 - Vaardighedenlijn (trainen & oefenen)
+

@@ -1,4 +1,4 @@
-Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 bevat een vocabulaire van muzikale patronen en frases, dat voor muzikale amateurs gemakkelijk te begrijpen en te leren was. Het leren van deze patronen stelt muzikanten in staat te improviseren. 
+Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 bevat een vocabulaire van muzikale patronen en frases, dat voor muzikale amateurs gemakkelijk te begrijpen en te leren was. Het leren van deze patronen stelt muzikanten in staat om te leren improviseren. Als eerste stap op weg naar improvisatie, worden figuraties gemaakt op basispatronen en frases.
 
 Voorbeelden (in protoypische vorm) zijn (HACOPA IJzerman):
 Leaping Romanesca [[Romanesca, leaping]]
