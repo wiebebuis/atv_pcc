@@ -10,7 +10,7 @@ Het opbouwen en delen van een *evoluerend semantisch netwerk*, dat het onderwijs
 
 Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
-Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een beslissing.
+Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten generen van links op basis van gemeenschappelijke woorden/termen tussen teksten). 
 
 Het is een (voor mij noodzakelijke) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies.
 
