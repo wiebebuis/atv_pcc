@@ -7,3 +7,6 @@ De eerste stemmenronden van thema-inzetten wordt in het algemeen [[Expositie ]] 
 
 Hoe een fuga "moet" verlopen wordt (voorzover mij bekend) alleen voorgeschreven in de zogenaamde schoolfuga (Fugue d'école) zoals die onderwezen werd (wordt?) aan het Parijse Conservatorium.
 
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.51678 (KB)
+
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.51678 (Hanze)

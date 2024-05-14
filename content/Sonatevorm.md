@@ -40,3 +40,7 @@ Harmonisch gezien is de doorwerking de meest turbulente episode van het stuk: er
 - expositie: **overtuigen**
 - doorwerking: **verrassen**
 - reprise: **overtuigen**
+
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.26197 (KB)
+
+https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.26197 (Hanze)

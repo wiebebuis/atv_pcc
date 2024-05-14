@@ -3,3 +3,5 @@ De grote bloeitijd van het oratorium is de 17e en de 18e eeuw, maar ook daarna b
 
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.20397 (Hanze)
+
+https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.20397 (KB)

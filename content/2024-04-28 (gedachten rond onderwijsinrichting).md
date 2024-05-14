@@ -33,6 +33,8 @@ Vormgeving van de opleiding organisatorisch:
 
 **VISUALISEREN**
 
+**INTERACTIVITEIT**
+
 **LUISTEREN, TOEPASSEN EN IMPROVISEREN (SPELEND EN ZINGEND)** 
 - gehoorvorming
 - pianopracticum
