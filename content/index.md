@@ -6,7 +6,7 @@ title: atv_pcc
 
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. 
 
-Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Obsidian is daarbij een **middel** en *geen* doel. 
+Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Obsidian is daarbij een **middel** en *geen* doel. 
 
 Het idee achter deze repository is:
 
@@ -22,9 +22,9 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 
 Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn:
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren) en natuurlijk vele anderen die ook constructivistisch denken over leren.
-- Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren).
+- Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren) en het belang van taal daarbij (zelf verwoorden en opschrijven). Ahrens werd op zijn beurt weer geïnspireerd door Niklas Luhmann (1927-1998).
 
-**Technische info**: De "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
+**Technische info**: Deze "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
 
 **Dank aan**: 
 - Jan Ruerd Oosterhaven die me attendeerde op het bestaan van Obsidian.
