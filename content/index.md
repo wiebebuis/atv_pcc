@@ -14,14 +14,14 @@ Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onder
 
 Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
-Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd in een Graph-view. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen bestanden). Het is ook een (heilzaam) tegenwicht voor het lukraak van hot naar her klikken, al surfend op het web, wat vaak zonder plan, zonder strategie en zonder een goede vraagstelling gebeurt.
+Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd in een Graph-view. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen bestanden). Het is ook een (heilzaam) tegenwicht voor het zogenaamde "snipper-klikken"; het lukraak van hot naar her klikken, zonder doel of vraagstelling. 
 
 Het is een (voor mij logische) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. 
 
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van Conceptueel Leren en  PKM (Personal Knowledge Management). Patronen leren herkennen, principes opsporen, betekenis geven aan muziek (ook in relatie met andere kunsten).
 
 Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn:
-- John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en leren) en natuurlijk vele anderen die ook constructivistisch 
+- John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren) en natuurlijk vele anderen die ook constructivistisch denken over leren.
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren).
 
 **Technische info**: De "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
