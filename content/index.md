@@ -4,7 +4,7 @@ title: atv_pcc
 **NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt. :-)
 ![[obsidian overzichtsplaatje licht.png]]
 
-Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die het internet langzamerhand is geworden, staande te blijven, en zaken die van belang zijn vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Obsidian is daarbij een **middel** en *geen* doel.
+Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Obsidian is daarbij een **middel** en *geen* doel.
 
 Het idee achter deze repository is:
 
@@ -12,7 +12,7 @@ Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onder
 
 Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
-Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen teksten). Het is ook een (broodnodig) tegenwicht voor het lukraak van hot naar her klikken, al surfend op het web, wat vaak zonder plan en zonder strategie gebeurt.
+Obsidian biedt de mogelijkheid om concepten aan elkaar te linken op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen bestanden). Het is ook een (broodnodig) tegenwicht voor het lukraak van hot naar her klikken, al surfend op het web, wat vaak zonder plan, zonder strategie en zonder een goede vraagstelling gebeurt.
 
 Het is een (voor mij noodzakelijke) volgende stap na een periode met een statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies.
 
