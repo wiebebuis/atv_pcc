@@ -10,6 +10,11 @@ Vormgeving van de opleiding organisatorisch:
 
 **KENNISDOMEINEN**
 
+**LEERPRINCIPES**
+- Constructivitisch (Weten - Begrijpen - Doen)
+- Betekenisgericht 
+- Gestaltmatig: patronen, principes, 
+
 **ONDERWIJS-LEERSITUATIES**
 
 **LEEROMGEVING**
@@ -17,7 +22,6 @@ Vormgeving van de opleiding organisatorisch:
 **HOLISTISCHE BENADERING** ("Britannica")
 
 **ANALYSEREN**
-
 - Vorm
 - Structuur
 - Textuur
