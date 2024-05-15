@@ -13,7 +13,7 @@ Vormgeving van de opleiding organisatorisch:
 **LEERPRINCIPES**
 - Constructivitisch (Weten - Begrijpen - Doen)
 - Betekenisgericht 
-- Gestaltmatig: patronen, principes, 
+- Gestaltmatig: (Patronen, Principes, Theorieën)
 
 **ONDERWIJS-LEERSITUATIES**
 
