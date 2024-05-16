@@ -11,15 +11,22 @@ Vormgeving van de opleiding organisatorisch:
 **KENNISDOMEINEN**
 
 **LEERPRINCIPES**
-- Constructivitisch (Weten - Begrijpen - Doen)
+- Constructivitisch, leren door te handelen (Weten  - Begrijpen - Doen)
 - Betekenisgericht 
+- Ontwikkelingsgericht
 - Gestaltmatig: (Patronen, Principes, Theorieën)
+- TAAL als essentieel medium bij communicatie
+- SPEL als bron van energie en motivatie (Homo ludens)
 
-**ONDERWIJS-LEERSITUATIES**
+**ONDERWIJS-LEERSITUATIES** (WAT doen we waar en met welk doel, en HOE doen we dat?)
+Processen
+Begeleiding
+Hulpmiddelen om zelf aan de slag te gaan.
 
 **LEEROMGEVING**
+Afspiegeling van het hybride universum waarin we leven: van analoog tot digitaal, van real-world tot  virtueel, van alleen tot samen met anderen.
 
-**HOLISTISCHE BENADERING** ("Britannica")
+**HOLISTISCHE BENADERING** ("Britannica") 
 
 **ANALYSEREN**
 - Vorm
@@ -33,16 +40,23 @@ Vormgeving van de opleiding organisatorisch:
 - Binnen het oeuvre van de componist
 - In relatie tot tijdgenoten
 - Historisch en cultureel 
-- Interpreteren en uitvoeren
+- Gericht op interpreteren en uitvoeren
 
 **VISUALISEREN**
+Concept Mapping als tool (Novak/Viczian) om concepten en hun onderlinge relaties te verhelderen. Kan met CMapTools, maar ook in Obsidian met Excalidraw zie https://youtu.be/Zg_DUj68VkY?si=jHXBTIHCSXfa7Pl4. 
+Gebruik van SYMBOLEN en METAFOREN. Link naar embedded (music) cognition.
 
 **INTERACTIVITEIT**
+Gebruik van H5P functionaliteit, participeren in skills-lab, gebruik van DAW (loops en transposities, "tunes of the week").
+Interactive music system (Pure Data, MAX-MSP)?
 
-**LUISTEREN, TOEPASSEN EN IMPROVISEREN (SPELEND EN ZINGEND)** 
+**LUISTEREN, TOEPASSEN, IMPROVISEREN (SPELEND EN ZINGEND)** EN COMPONEREN
 - gehoorvorming
 - pianopracticum
 - harmonieleer/contrapunt
+
+Aspecten van embedded cognition? 
+Zie Arnie Cox: Listening-Moving-Feeling-Thinking
 
 **HARMONISEREN** 
 - pianopracticum
