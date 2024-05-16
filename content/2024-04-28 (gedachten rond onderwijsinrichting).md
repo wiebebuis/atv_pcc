@@ -42,7 +42,8 @@ Afspiegeling van het hybride universum waarin we leven: van analoog tot digitaal
 - Historisch en cultureel 
 - Gericht op interpreteren en uitvoeren
 
-**VISUALISEREN**
+**VISUALISEREN; SYMBOLEN EN METAFOREN**
+Met zowel **Concept Mapping** als **Mind Mapping**. Deze vullen elkaar aan. Concept Mapping is meer "formeel", gericht op begrijpen, verhelderen en leidt tot het formuleren van PROPOSITIES. Mind Mapping is meer "informeel" en gericht op het genereren van ideeën en associaties en het oplossen van problemen.
 Concept Mapping als tool (Novak/Viczian) om concepten en hun onderlinge relaties te verhelderen. Kan met CMapTools, maar ook in Obsidian met Excalidraw zie https://youtu.be/Zg_DUj68VkY?si=jHXBTIHCSXfa7Pl4. 
 Gebruik van SYMBOLEN en METAFOREN. Link naar embedded (music) cognition.
 
