@@ -14,7 +14,7 @@ Mijn overtuiging is dat de huidige studentengeneratie **dringend** behoefte heef
 
 Het idee achter deze repository is:
 
-Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). 
+Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is obgebouwd uit muziekgerelateerde **concepten** en hun **relaties**.
 
 Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
@@ -29,11 +29,12 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 - **Principes** opsporen, 
 - **Betekenis** **geven** aan muziek (ook in relatie met andere kunsten).
 
-Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn:
+Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (k noem slechts drie van tientallen boeken):
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren.
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren) en het belang van taal daarbij (zelf verwoorden en opschrijven). Ahrens werd op zijn beurt weer geïnspireerd door Niklas Luhmann (1927-1998).
+- David N. Hyerle - *Visual Tools for transforming information into knowledge.*
 
-Alhoewel Obsidian primair als een notitietool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van plugins. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de Excalidraw plugin in combinatie met de Obsidian canvas goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
+Alhoewel Obsidian primair als een notitietool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de Excalidraw plugin in combinatie met Obsidian canvas goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
 
 **Technische info**: Deze "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
 
