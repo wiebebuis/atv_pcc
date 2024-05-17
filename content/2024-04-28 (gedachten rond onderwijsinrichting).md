@@ -11,7 +11,7 @@ Vormgeving van de opleiding organisatorisch:
 **KENNISDOMEINEN**
 
 **LEERPRINCIPES**
-- Constructivitisch, leren door te handelen (Weten  - Begrijpen - Doen)
+- Constructivistisch, leren door te handelen (Weten  - Begrijpen - Doen)
 - Betekenisgericht 
 - Ontwikkelingsgericht
 - Gestaltmatig: (Patronen, Principes, Theorieën)
@@ -28,6 +28,8 @@ Afspiegeling van het hybride universum waarin we leven: van analoog tot digitaal
 
 **HOLISTISCHE BENADERING** ("Britannica") 
 
+Onderscheiden kennisdomeinen "voeden" het leren.
+
 **ANALYSEREN**
 - Vorm
 - Structuur
@@ -42,11 +44,12 @@ Afspiegeling van het hybride universum waarin we leven: van analoog tot digitaal
 - Historisch en cultureel 
 - Gericht op interpreteren en uitvoeren
 
-**VISUALISEREN; SYMBOLEN EN METAFOREN**
+**VISUALISEREN; SYMBOLEN EN METAFOREN**; **VERHALEN**
 
 Met zowel **Concept Mapping** als **Mind Mapping**. Deze vullen elkaar aan. Concept Mapping is meer "formeel", gericht op begrijpen, verhelderen en leidt tot het formuleren van PROPOSITIES. Mind Mapping is meer "informeel" en gericht op het genereren van ideeën en associaties en het oplossen van problemen.
 Kan met CMapTools, maar ook in Obsidian met Excalidraw zie https://youtu.be/Zg_DUj68VkY?si=jHXBTIHCSXfa7Pl4. 
-Gebruik van SYMBOLEN en METAFOREN. Link naar embedded (music) cognition.
+Gebruik van SYMBOLEN en METAFOREN: Link naar embedded (music) cognition.
+Omdat muziek een proceskunst is (ze verloopt in de tijd) zijn er analogieen met poëzie en literatuur. Ook muziek kan een "plot" hebben, een weg afleggen, een sfeer oproepen, tot een bepaalde ontknoping komen, een (rijm)schema hebben, etcetera. 
 
 **INTERACTIVITEIT**
 
