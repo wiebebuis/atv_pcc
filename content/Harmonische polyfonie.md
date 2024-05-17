@@ -1,1 +1,1 @@
-Zie ook [[Tonaal contrapunt]].
+Zie [[Tonaal contrapunt]].

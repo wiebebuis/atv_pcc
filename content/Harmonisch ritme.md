@@ -5,3 +5,4 @@ Bij bijvoorbeeld een (Bach)koraal is dat ruwweg per tel, maar in bijvoorbeeld ee
 In laat-romantische muziek kan het harmonische ritme nog meer vertragen.
 
 [[HARMONIE]]
+

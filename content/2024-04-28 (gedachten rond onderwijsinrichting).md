@@ -9,6 +9,7 @@ Vormgeving van de opleiding organisatorisch:
 **COMPETENTIES**
 
 **KENNISDOMEINEN**
+[[Kennisdomeinen]]
 
 **LEERPRINCIPES**
 - Constructivistisch, leren door te handelen (Weten  - Begrijpen - Doen)
