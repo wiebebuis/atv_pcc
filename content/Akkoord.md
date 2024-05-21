@@ -1,2 +1,2 @@
 In de meest elementaire zin een samenklank van twee of meer tonen. In tonale muziek zijn de [[Drieklank]], het septiemakkoord (en verdere tertsenstapelingen) de belangrijkste elementaire bouwstenen.
-Daarnaast bestaan fenomen als [[Polychord]].
+Daarnaast bestaan fenomenen als [[Polychord]].

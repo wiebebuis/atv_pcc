@@ -1,3 +1,5 @@
+Hoort bij een van de [[Harmonische coderingssystemen]].
+
 Vooral in gebruik in jazz, pop, lichte muziek: 
 - Een hoofdletter geeft een majeurdrieklank aan. 
 - Mineurdrieklanken worden aangeduid met - of m na de hoofdletter (Am of A-) soms ook met een kleine letter (a). 
