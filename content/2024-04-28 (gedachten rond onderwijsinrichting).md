@@ -16,7 +16,8 @@ Vormgeving van de opleiding organisatorisch:
 - Betekenisgericht 
 - Ontwikkelingsgericht
 - Gestaltmatig: (Patronen, Principes, Theorieën)
-- **TAAL** als essentieel medium bij communicatie
+- **TAAL** als essentieel medium bij communicatie, ook **functies** van taal (grammatica, dialectica, retorica)
+- **VISUALISERING** als essentieel medium
 - **SPEL** als bron van energie en motivatie (Homo ludens)
 
 **ONDERWIJS-LEERSITUATIES** (WAT doen we waar en met welk doel, en HOE doen we dat?)
@@ -45,16 +46,23 @@ Onderscheiden kennisdomeinen "voeden" het leren.
 - Historisch en cultureel 
 - Gericht op interpreteren en uitvoeren
 
-**VISUALISEREN; SYMBOLEN EN METAFOREN**; **VERHALEN**
+**VISUALISEREN**
 
 Met zowel **Concept Mapping** als **Mind Mapping**. Deze vullen elkaar aan. Concept Mapping is meer "formeel", gericht op begrijpen, verhelderen en leidt tot het formuleren van PROPOSITIES. Mind Mapping is meer "informeel" en gericht op het genereren van ideeën en associaties en het oplossen van problemen.
 Kan met CMapTools, maar ook in Obsidian met Excalidraw zie https://youtu.be/Zg_DUj68VkY?si=jHXBTIHCSXfa7Pl4. 
-Gebruik van SYMBOLEN en METAFOREN: Link naar embedded (music) cognition.
-Omdat muziek een proceskunst is (ze verloopt in de tijd) zijn er analogieen met poëzie en literatuur. Ook muziek kan een "plot" hebben, een weg afleggen, een sfeer oproepen, tot een bepaalde ontknoping komen, een (rijm)schema hebben, etcetera. 
+
+**SYMBOLEN EN METAFOREN, ANALOGIEËEN EN VERHALEN**
+
+Gebruik van symbolen en metaforen: Link naar embedded (music) cognition.
+Omdat muziek een proceskunst is (ze verloopt in de tijd) zijn er analogieën met poëzie en literatuur. Ook muziek kan een "plot" hebben, een weg afleggen, een sfeer oproepen, tot een bepaalde ontknoping komen, een (rijm)schema hebben, etcetera. 
+Categorieën van Ruimte en Tijd in muziek.
+Schouwen en beleven (Daniskas)
 
 **INTERACTIVITEIT**
 
 Gebruik van H5P functionaliteit, participeren in skills-lab, gebruik van DAW (loops en transposities, "tunes of the week").
+DAW gebruiken om te interacteren met muziek (Analyseren met Audacity)
+DAW in combinatie met muzieknotatieprogramma gebruiken om muziektheoretische concepten te verkennen en te leren ()
 Interactive music system (Pure Data, MAX-MSP)?
 
 **LUISTEREN, TOEPASSEN, IMPROVISEREN (SPELEND EN ZINGEND)** EN COMPONEREN

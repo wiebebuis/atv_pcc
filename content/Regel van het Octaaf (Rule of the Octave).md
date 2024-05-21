@@ -3,5 +3,6 @@ An eighteenth century phenomenon. It is a standard chord progressions on an asce
 
 https://www.earlymusicsources.com/youtube/theruleoftheoctave
 
-Voorbeeld uit boek Job IJzerman:
+Voorbeeld (driestemmig) uit boek Job IJzerman:
 ![[ijzerman example 4.22 RO.jpg]]
+

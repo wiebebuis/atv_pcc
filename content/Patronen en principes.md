@@ -11,13 +11,13 @@ Bij de manier waarop wij als mensen leven, overleven en functioneren speelt **wa
 [[1]](#_ftnref1) Rens Bod, _Een wereld vol patronen_ p. 11
 sleutelrol.
 
-Uit onderzoek in de Gestaltpsychologie weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
+Uit onderzoek van de Gestaltpsychologie weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
 
 Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.[**[1]**](#_ftn1)_   [[2]](#_ftn2) Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
 
 Patronen hebben ook een zekere voorspellende kracht.[[3]](#_ftn3)
 
-Voor **muziek** geldt in dezelfde mate dat patroonherkenning een absolute voorwaarde is om muziek te maken, te volgen en te begrijpen. We oriënteren ons in muziek op basis van patronen. Een voorbeeld van een patroon kan zijn een motief, een akkoord of akkoordvolgorde, een groep tonen (terachord, hexachord, toonladder) et cetera.
+Voor **muziek** geldt in dezelfde mate dat patroonherkenning een absolute voorwaarde is om muziek te maken, te volgen en te begrijpen. We oriënteren ons in muziek op basis van patronen. Een voorbeeld van een patroon kan zijn een motief, een akkoord of akkoordvolgorde, een groep tonen (terachord, hexachord, toonladder), een schema, et cetera.
 
 **Principes**
 
@@ -25,7 +25,7 @@ Patronen verklaren op zichzelf niets, dat is wat **principes** beogen te doen.
 
 Principes leggen een onderliggende _regelmatigheid_ bloot, waarmee de oppervlaktepatronen verklaard kunnen worden.
 
-Patronen en principes lijken _universeel_ te zijn.
+Patronen en principes lijken _universeel_ te zijn. 
 
 Er is sprake van een **principe** als meerdere patronen mee onder één noemer kunnen worden gebracht. Bijvoorbeeld in muziek: een sequens, een cadens, figuratie, enz.
 
@@ -43,7 +43,7 @@ Er zijn allerlei relaties mogelijk tussen principes en patronen:
 
 **Tendenzen**
 
-Een **tendens** is niet wezenlijk anders dan een patroon; vaak gaat het hierbij om een gevonden regelmatigheid in een bepaald tijdsbestek. Een historische trend bijvoorbeeld. Een muzikaal voorbeeld hiervan is het fenomeen _slotformule_ of _cadens_. Hoe wordt een stuk (of een onderdeel daarvan) beëindigd door de eeuwen heen in bijvoorbeeld een gregoriaans gezang, een organum, een motet, een (Bach)koraal, een sonate, een standard, een (pop)song?
+Een **tendens** is niet wezenlijk anders dan een patroon; vaak gaat het hierbij om een gevonden regelmatigheid in een bepaald tijdsbestek. Een historische trend bijvoorbeeld. Een muzikaal voorbeeld hiervan is het fenomeen _slotformule_ of _cadens_. Hoe wordt een muziekwerk (of een onderdeel daarvan) beëindigd door de eeuwen heen in bijvoorbeeld een gregoriaans gezang, een organum, een motet, een (Bach)koraal, een sonate, een standard, een (pop)song?
 
 **Theorieën**
 
