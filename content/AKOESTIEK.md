@@ -8,8 +8,7 @@ In de praktijk vaak onderverdeeld in deelgebieden:
 4. Blaasinstrumenten
 5. Slaginstrumenten
 6. De stem
-7. Stemmingen en temperamenten
-
+7. Stemmingen en temperamenten.
 
 OMO: 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.00134 (KB)

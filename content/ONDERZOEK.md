@@ -27,7 +27,7 @@ Zie https://thebig6.org/
 
 Er is ook kritiek op de mainstream manieren van toewerken naar een onderzoeksproduct: bijvoorbeeld door Sönke Ahrens in zijn boek *How to Take Smart Notes*. Zie ook https://www.soenkeahrens.de/en/takesmartnotes, en 
 en de Book on a Page video over het boek door Zsolt Viczian: https://youtu.be/o49C8jQIsvs?si=28093Nwt7aMV_t3q. 
-Je leert het meest van het zelf "verwoorden" of "verbeelden" van het luisteren, kijken, lezen, studeren, becommentariëren. Ahrens' stelling is dat het eigenlijke onderzoeken gebeurt als je slim en goed aantekeningen maakt. Heb je dat gedaan dan is het schrijven van een eindproduct niet zo moeilijk meer.
+Je leert het meest van het zelf "verwoorden" of "verbeelden" van het luisteren, kijken, lezen, studeren, becommentariëren. Ahrens' stelling is dat het eigenlijke onderzoeken gebeurt als je slim en goed aantekeningen maakt. Heb je dat gedaan dan is het schrijven van een eindproduct niet zo moeilijk meer. Ahrens maakt duidelijk dat dit de belangrijkste reden was waarom Niklas Luhmann (1927-1998) zo productief was, met zijn [[Zettelkasten]].
 
 Literatuuronderzoek is één, goed schrijven is twee. 
 Sönke Ahrens geeft daarvoor een werkmodel dat te gebruiken is voor producten van verschillende omvang: paper, essay of scriptie: 
@@ -36,7 +36,8 @@ https://skole.nl/index.php?option=com_content&view=article&id=662:16-het-schrijv
 
 https://skole.nl/index.php?option=com_content&view=article&id=661:writing-a-paper-step-by-step-soenke-ahrens&catid=18&lang=en&Itemid=381  (EN)
 
-Denk ook eens na over de functies van taal bij het schrijven. [[Taal (functies van)]].
+Denk ook eens na over de functies van taal bij het schrijven. 
+Zie: [[Taal (functies van)]]. 
 
 ---
 Informatie
