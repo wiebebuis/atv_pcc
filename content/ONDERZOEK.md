@@ -1,8 +1,12 @@
+---
+tags:
+  - Kennisdomein
+---
 Waarom hoofdletters? ONDERZOEK is niet slechts een concept maar een "concept van hogere orde". Het is één van de [[Kennisdomeinen]] is die in deze vault zijn onderscheiden. Onderzoek wordt altijd gevoed door kennisdomeinen. 
 
 **Informatievaardigheden** zijn onmisbaar voor het doen van onderzoek, al lijkt het onderzoek nog zo voor de hand liggend en simpel.
 
-Informatievaardigheden zijn slechts een eerste basis voor het doen van onderzoek. Veel belangrijker is dat je leert goede **aantekeningen** te maken terwijl je aan het luisteren, lezen, kijken, studeren bent. Dat hoeft niet alleen met **woorden**, **visualiseren** is net zo belangrijk. Wat je nu aan het lezen bent is onderdeel van een Obsidian kennis vault; een verzameling van aan elkaar gerelateerde aantekeningen over allerlei concepten die aan muziek gerelateerd zijn.
+Informatievaardigheden zijn slechts een eerste basis voor het doen van onderzoek. Veel belangrijker is dat je leert goede **aantekeningen** te maken terwijl je aan het luisteren, lezen, kijken, studeren bent. Dat hoeft niet alleen met **woorden**, **visualiseren** is net zo belangrijk. Wat je nu aan het lezen bent is onderdeel van een Obsidian kennis vault; een verzameling van aan elkaar gerelateerde aantekeningen over allerlei concepten over muziek.
 Klik op Home voor de algemene beschrijving.
 
 Hoe je dat doet kun je leren door je te verdiepen in (Visual) Personal Knowledge Management [[(V)PKM]]. Een goede plek om dat eens te verkennen is het YT-kanaal van Zsolt Viczian:

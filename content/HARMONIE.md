@@ -1,3 +1,7 @@
+---
+tags:
+  - Kennisdomein
+---
 Waarom hoofdletters? HARMONIE is niet slechts een concept maar een "concept van hogere orde". Het is één van de [[Kennisdomeinen]] is die in deze vault zijn onderscheiden. 
 
 In de gangbare westerse muziek is het werken met samenklanken een van de meest karakteristieke kenmerken. 

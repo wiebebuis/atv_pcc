@@ -1,3 +1,7 @@
+---
+tags:
+  - Kennisdomein
+---
 Waarom hoofdletters? ANALYSE is niet slechts een concept maar een "concept van hogere orde". Het is één van de [[Kennisdomeinen]] is die in deze vault zijn onderscheiden. 
 
 Om het kort en bondig weer te geven: door middel van analyse willen we ontdekken "hoe muziek werkt".

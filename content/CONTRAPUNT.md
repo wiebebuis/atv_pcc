@@ -1,3 +1,7 @@
+---
+tags:
+  - Kennisdomein
+---
 Waarom hoofdletters? CONTRAPUNT is niet slechts een concept maar een "concept van hogere orde". Het is één van de [[Kennisdomeinen]] is die in deze vault zijn onderscheiden. 
 
 Binnen het huidige veld van de muziektheorie wordt contrapunt gezien als een aparte discipline (vaak ten onrechte beschouwd als de tegenstelling van harmonieleer).
