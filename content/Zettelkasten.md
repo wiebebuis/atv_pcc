@@ -8,4 +8,4 @@ Ook de Book On a Page video van Zsolt Viczian over het boek van Sönke Ahrens is
 
 (Deze aantekeningen zijn gemaakt met Obsidian.)
 
-Zie ook: 
+Zie ook: [[(V)PKM -  (Visual) Personal Knowledge Mangement]]
