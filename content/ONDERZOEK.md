@@ -18,7 +18,7 @@ https://www.youtube.com/@VisualPKM
 5. Voortdurend de **relevantie van zoekresultaten** relateren aan de **gestelde vragen**
 6. **Systematisch werken**
 
-In de Hanze Mediatheek zijn diverse Library Guides beschikbaar.
+In de Hanze Mediatheek zijn diverse **Library Guides** beschikbaar.
 Bijvoorbeeld voor Literatuuronderzoek: https://libguides.hanze.nl/literatuuronderzoek
 Deze zijn gebaseerd op de Big6 voor informatievaardigheden (Berkowitz & Eisenberg).
 Zie https://thebig6.org/
@@ -35,6 +35,8 @@ Sönke Ahrens geeft daarvoor een werkmodel dat te gebruiken is voor producten va
 https://skole.nl/index.php?option=com_content&view=article&id=662:16-het-schrijven-van-een-paper-essay-stap-voor-stap-soenke-ahrens&catid=14&lang=nl-nl&Itemid=380 (NL)
 
 https://skole.nl/index.php?option=com_content&view=article&id=661:writing-a-paper-step-by-step-soenke-ahrens&catid=18&lang=en&Itemid=381  (EN)
+
+Denk ook eens na over de functies van taal bij het schrijven. [[Taal (functies van)]].
 
 ---
 Informatie

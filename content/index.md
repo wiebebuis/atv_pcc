@@ -23,7 +23,8 @@ Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt geno
 Obsidian biedt de mogelijkheid om concepten aan elkaar te **linken** op inhoudelijke gronden, waardoor onderlinge relaties kunnen worden gevisualiseerd in een **Graph-view**. Een link is dus het gevolg van een weloverwogen beslissing. (Dat is iets anders dan het algoritmisch laten genereren van links op basis van gemeenschappelijke woorden/termen tussen bestanden). 
 In de Graph-view is zichtbaar welke concepten met elkaar samenhangen, ook op detailniveau met de zogenaamde "**local graph**". Dat is de essentie van een semantisch netwerk. De gebruiker ziet in één oogopslag welke concepten met elkaar samenhangen en heeft aanknopingspunten om ze te gaan verkennen en te gaan leren. 
 
-Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven. (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. 
+Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
+ (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. 
 
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van Conceptueel Leren en  PKM (Personal Knowledge Management): 
 - **Concepten** leren kennen,  
