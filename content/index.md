@@ -20,7 +20,7 @@ Mijn overtuiging is dat de huidige studentgeneratie dringend behoefte heeft aan 
 Er speelt echter ook een **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian.
 
 Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
- (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. 
+ (www.h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction".
 
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van Conceptueel Leren en  PKM (Personal Knowledge Management): 
 - **Concepten** leren kennen,  
