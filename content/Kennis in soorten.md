@@ -2,4 +2,4 @@ declaratief
 procedureel
 tacit knowledge
 ...
-embodied kanowledge/cogition
+embodied knowledge/cognition
