@@ -7,3 +7,4 @@ In deze vault zijn de volgende kennisdomeinen onderscheiden:
 [[GESCHIEDENIS]]
 [[PARTIMENTO]]
 [[ONDERZOEK]]
+[[GEHOORVORMING (EAR TRAINING)]]

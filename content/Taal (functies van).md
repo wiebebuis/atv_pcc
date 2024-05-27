@@ -1,4 +1,4 @@
-Als we muziek plaatsen in haar context, erover willen communiceren en willen leren, dan hebben we daarvoor **taal** nodig. De drie componenten van het trivium doen een beroep op verschillende functies van taal:
+Als we muziek plaatsen in haar context, erover willen communiceren en willen leren, dan hebben we daarvoor **taal** nodig. De drie componenten van het **trivium** doen een beroep op verschillende functies van taal:
 
 - **grammatica**: adequaat, correct en duidelijk onder woorden brengen
 - **dialectica**: een dialoog voeren om te begrijpen/verstaan, te onderzoeken, te redeneneren/argumenteren
