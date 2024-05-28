@@ -7,7 +7,8 @@ Het bovenliggende doel is dat de student:
 - daarbij blijk geeft van een goed tijdsbesef (m.b.t. metrum, ritme, tempo en timing)
 - veel voorkomende patronen en principes van alle [[Parameters]] herkent, gebruikt en verwerkt.
 
-Essentieel is het uitgangspunt: "handelen met klank", met gebruik van het eigen instrument. 
+Essentieel is het uitgangspunt: "handelen met klank", met gebruik van het eigen instrument. Dat betekent dat [[Musicking]] een belangrijke plaats zouden moeten hebben/krijgen.
+
 Patronen en principes toegepast op muzikale klank.
 
 
