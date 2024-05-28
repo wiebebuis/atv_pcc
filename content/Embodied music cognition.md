@@ -21,3 +21,5 @@ Hij beschrijft mogelijke toepassingen in twee gebieden:
 Een andere belangrijke naam is:
 Arnie Cox - Music & Embodied Cognition: Listening, Moving, Feeling & Thinking (2016).
 
+Zie ook: [[Embodied cognition]].
+
