@@ -1,4 +1,4 @@
-Duits voor kaartsysteem. Tegenwoordig is de naam verbonden aan een methodiek voor Personal Knowledge Management (PKM), die geïnspireerd is door het werk van Niklas Luhmann (1927-1998). Het wordt daarom ook wel de **Zettelkasten Method** genoemd. 
+Duits voor kaartsysteem. Tegenwoordig is de naam verbonden aan een methodiek voor Personal Knowledge Management (PKM), die geïnspireerd is door het werk van Niklas Luhmann (1927-1998) en zijn (speciale) kaartsysteem. Het wordt daarom ook wel de **Zettelkasten Method** genoemd. 
 
 Hier is een goede (en korte) :-D uitleg over de waarde van de Zettelkasten methodiek.
 

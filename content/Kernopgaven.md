@@ -1,4 +1,4 @@
-Een kernopgave is een complexe samengestelde taak. 
+Een kernopgave is een complexe samengestelde taak en doet in veel gevallen een beroep op zaken die gericht zijn geoefend, zoals een taak of een oefening.
 
 - Kernopgave Onderzoek 1: Het stellen van contextuele vragen over een onderwerp
 - Kernopgave Onderzoek 2: Het verkennen van een gekozen onderwerp

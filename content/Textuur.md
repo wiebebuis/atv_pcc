@@ -10,3 +10,5 @@ De volgende termen worden daarbij vaak gebruikt:
 Begeleidingsfiguur zoals Albertijnse bas.
 Nevenstem of tegenstem.
 Hauptstimme / Nebenstimme (Berg/Schoenberg)
+
+[[ANALYSE]]
