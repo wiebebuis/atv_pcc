@@ -30,7 +30,8 @@ Onderzoek ^3wWRLOXV
 
 Geschiedenis ^U4cJHe4R
 
-Harmonie/Harmonieleer/Contrapunt ^jAdZ9fxX
+Harmonie/Harmonieleer/
+Contrapunt ^jAdZ9fxX
 
 Akoestiek ^3cT6nTK5
 
@@ -48,8 +49,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 	"elements": [
 		{
 			"type": "text",
-			"version": 389,
-			"versionNonce": 1777104323,
+			"version": 391,
+			"versionNonce": 377277866,
 			"isDeleted": false,
 			"id": "P0Zxy3GH",
 			"fillStyle": "solid",
@@ -66,12 +67,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 781198883,
 			"groupIds": [
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -86,8 +87,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "rectangle",
-			"version": 86,
-			"versionNonce": 1368456173,
+			"version": 89,
+			"versionNonce": 918534646,
 			"isDeleted": false,
 			"id": "52PVQKfX9rZaBHGdLhiOO",
 			"fillStyle": "solid",
@@ -104,22 +105,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 383937475,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 150914403,
+			"version": 121,
+			"versionNonce": 1638500458,
 			"isDeleted": false,
 			"id": "1UFNmzK35uqshcWSkBPNw",
 			"fillStyle": "solid",
@@ -136,22 +136,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 764919053,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 135,
-			"versionNonce": 524613197,
+			"version": 138,
+			"versionNonce": 232852278,
 			"isDeleted": false,
 			"id": "RX23WsHo-er02LYBDKwPR",
 			"fillStyle": "solid",
@@ -168,22 +167,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 1022385197,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 127,
-			"versionNonce": 476455171,
+			"version": 130,
+			"versionNonce": 82897706,
 			"isDeleted": false,
 			"id": "SlJH8virIegGK4Mftia8v",
 			"fillStyle": "solid",
@@ -200,22 +198,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 999018317,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 150,
-			"versionNonce": 1565172909,
+			"version": 153,
+			"versionNonce": 793130102,
 			"isDeleted": false,
 			"id": "wzbExiVSPlvtIvPEXjCuY",
 			"fillStyle": "solid",
@@ -232,22 +229,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 1659541101,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 94,
-			"versionNonce": 1839270051,
+			"version": 97,
+			"versionNonce": 1992160746,
 			"isDeleted": false,
 			"id": "sTsle5iK4gLzkgEclxDjB",
 			"fillStyle": "solid",
@@ -264,22 +260,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 643641741,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 127,
-			"versionNonce": 2135656205,
+			"version": 130,
+			"versionNonce": 1421096374,
 			"isDeleted": false,
 			"id": "9kJpK4X-MkMNc20C2Dq_7",
 			"fillStyle": "solid",
@@ -296,22 +291,21 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 50.0728759765625,
 			"seed": 1157898413,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 308149315,
+			"version": 93,
+			"versionNonce": 672901290,
 			"isDeleted": false,
 			"id": "b6ZIvzWQ",
 			"fillStyle": "hachure",
@@ -328,13 +322,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1011817123,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -349,8 +342,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 1203838317,
+			"version": 35,
+			"versionNonce": 927993590,
 			"isDeleted": false,
 			"id": "ymRX5DYb",
 			"fillStyle": "hachure",
@@ -367,13 +360,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1496377475,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -388,8 +380,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 1719368675,
+			"version": 41,
+			"versionNonce": 817169258,
 			"isDeleted": false,
 			"id": "q42PT696",
 			"fillStyle": "hachure",
@@ -406,13 +398,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 273099235,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -427,8 +418,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 1844766669,
+			"version": 93,
+			"versionNonce": 597606454,
 			"isDeleted": false,
 			"id": "pa71BXCP",
 			"fillStyle": "hachure",
@@ -445,13 +436,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1804468867,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -466,8 +456,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 1174931331,
+			"version": 31,
+			"versionNonce": 2060781098,
 			"isDeleted": false,
 			"id": "GtvBEZsx",
 			"fillStyle": "hachure",
@@ -484,13 +474,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1027965923,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -505,8 +494,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 31,
-			"versionNonce": 67135021,
+			"version": 34,
+			"versionNonce": 226838902,
 			"isDeleted": false,
 			"id": "tTtFxhXX",
 			"fillStyle": "hachure",
@@ -523,13 +512,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 292106467,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -544,8 +532,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 121773859,
+			"version": 69,
+			"versionNonce": 1869000938,
 			"isDeleted": false,
 			"id": "fzv6Qncm",
 			"fillStyle": "hachure",
@@ -562,13 +550,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1661752451,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -583,8 +570,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 62,
-			"versionNonce": 483203213,
+			"version": 65,
+			"versionNonce": 608742070,
 			"isDeleted": false,
 			"id": "f35bOt3u",
 			"fillStyle": "hachure",
@@ -601,13 +588,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1089006275,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -622,8 +608,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 74,
-			"versionNonce": 882393795,
+			"version": 77,
+			"versionNonce": 569705386,
 			"isDeleted": false,
 			"id": "3wWRLOXV",
 			"fillStyle": "hachure",
@@ -640,13 +626,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1767882787,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -661,8 +646,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 57,
-			"versionNonce": 840204013,
+			"version": 199,
+			"versionNonce": 1720574966,
 			"isDeleted": false,
 			"id": "U4cJHe4R",
 			"fillStyle": "hachure",
@@ -671,21 +656,20 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -191.940185546875,
-			"y": -226.86688232421875,
+			"x": -195.00458122702207,
+			"y": -224.54876708984375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9775fa",
 			"width": 119.71987915039062,
 			"height": 25,
 			"seed": 1708988483,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -700,8 +684,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 111735395,
+			"version": 139,
+			"versionNonce": 2091581034,
 			"isDeleted": false,
 			"id": "jAdZ9fxX",
 			"fillStyle": "hachure",
@@ -710,37 +694,36 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -191.940185546875,
-			"y": -151.425048828125,
+			"x": -192.90051987591914,
+			"y": -160.55091768152573,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9775fa",
-			"width": 326.85968017578125,
-			"height": 25,
+			"width": 218.45980834960938,
+			"height": 50,
 			"seed": 1997357667,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Harmonie/Harmonieleer/Contrapunt",
-			"rawText": "Harmonie/Harmonieleer/Contrapunt",
+			"text": "Harmonie/Harmonieleer/\nContrapunt",
+			"rawText": "Harmonie/Harmonieleer/\nContrapunt",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Harmonie/Harmonieleer/Contrapunt",
+			"originalText": "Harmonie/Harmonieleer/\nContrapunt",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 1247811917,
+			"version": 69,
+			"versionNonce": 911865142,
 			"isDeleted": false,
 			"id": "3cT6nTK5",
 			"fillStyle": "hachure",
@@ -757,13 +740,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 1752286093,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -778,8 +760,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 507686403,
+			"version": 125,
+			"versionNonce": 1817420074,
 			"isDeleted": false,
 			"id": "Vlv2Smxc",
 			"fillStyle": "hachure",
@@ -796,13 +778,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 446899405,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -817,8 +798,8 @@ Triviant (holistisch, alles) ^bTJFguRe
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 1594451885,
+			"version": 94,
+			"versionNonce": 1829887606,
 			"isDeleted": false,
 			"id": "bTJFguRe",
 			"fillStyle": "hachure",
@@ -835,13 +816,12 @@ Triviant (holistisch, alles) ^bTJFguRe
 			"height": 25,
 			"seed": 24350445,
 			"groupIds": [
-				"rPBDDREtEsqqMlr1mXZbn",
-				"E9hrenBWWsRnWlAdxhl04"
+				"JCffTNOOLq2-xunxYU83J"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717055351581,
+			"updated": 1717069944113,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -870,10 +850,10 @@ Triviant (holistisch, alles) ^bTJFguRe
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 479.7162512576941,
-		"scrollY": 396.6809932824337,
+		"scrollX": 471.5571637275891,
+		"scrollY": 331.55282799069414,
 		"zoom": {
-			"value": 1.6500000000000001
+			"value": 1.9500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
