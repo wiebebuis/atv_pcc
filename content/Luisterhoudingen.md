@@ -7,3 +7,5 @@ Door Hiepko H. Boer is in zijn *Kleine Theorie van de Werkbehandeling* een bruik
 
 Er worden hierbinnen nog allerlei onderverdelingen gegeven: deze zijn te vinden in het schema op blz. 10.
 
+In de literatuur vinden we ook beschrijvingen van luisterhoudingen:
+1. Howrads Ens - E.M. Forster
