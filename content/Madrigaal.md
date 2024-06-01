@@ -7,7 +7,7 @@ Verschillende soorten:
 - 14e eeuws Italiaans madrigaal
 - 16e eeuws Italiaans madrigaal
 - Concertant madrigaal
-- Engelse madrigaal
+- Engels madrigaal
 - Madrigalen buiten Italië en Engeland
 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.40075 (KB)

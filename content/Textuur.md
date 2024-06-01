@@ -3,6 +3,7 @@ Net zoals kleren gemaakt kunnen worden van stoffen met een verschillende textuur
 Textuur in muziek gaat over het "weefsel" van verschillende stemmen of partijen in een muziekstuk en de relaties tussen die stemmen/partijen.
 
 De volgende termen worden daarbij vaak gebruikt:
+- monofonie
 - homofonie
 - polyfonie
 - heterofonie

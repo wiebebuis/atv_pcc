@@ -1,4 +1,4 @@
-1. Wat hoor ik? (muziek als geluid, geluid als muziek; kenmerken van (muzikale) klanken).
+1. Wat hoor ik? (muziek als geluid, geluid als muziek; kenmerken van (muzikale) klanken, patronen).
 2. Oost West, thuis best.
 3. Muziek en emoties.
 4. Muziek als verhaal (referentialistisch en formalistisch; muziek voor games?).
@@ -13,11 +13,26 @@
 13. Lied.
 14. Muziek en verbeelding: analogieën en metaforen.
 15. Spelen muzikanten  spelletjes?  (improvisatie).
-16. Muziek in sociaal-maatschappelijke contexten.
-17. Wat romantisch!
-18. Humor, ironie  in/met muziek?
-19. Enigma: codes kraken.
-20. Muziek en metamorfose.
+16. Spelen componisten spelletjes? (verwachtingspatronen).
+17. Muziek in sociaal-maatschappelijke contexten.
+18. Wat romantisch!
+19. Humor, ironie  in/met muziek?
+20. Enigma: codes kraken.
+21. Muziek en metamorfose.
+
 
 Beginnen bij de feiten. Wat valt er te horen als we luisteren?
 
+SAMENHANG IN MUZIEK
+- door keuzes t.a.v. het klankmateriaal (parameters)
+waarvan de meest bepalende zijn (voor westerse muziek):
+- toonhoogtesysteem (verticaal en horizontaal)
+- structurering van de tijd
+- patroonvorming in de tijd (vorm, structuur, textuur)
+
+Muziek en...
+zingeving
+dans
+liefde
+de dood
+westerse (kunst)muziek
