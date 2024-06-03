@@ -20,7 +20,6 @@
 20. Enigma: codes kraken.
 21. Muziek en metamorfose.
 
-
 Beginnen bij de feiten. Wat valt er te horen als we luisteren?
 
 SAMENHANG IN MUZIEK

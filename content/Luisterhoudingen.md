@@ -1,5 +1,5 @@
 Er zijn veel manieren om naar muziek te luisteren.
-Door Hiepko H. Boer is in zijn *Kleine Theorie van de Werkbehandeling* een bruikbare indeling gegeven ontleend aan een groot aantal schrijvers, variërend van Adorno tot en met Vestdijk.
+Door Hiepko H. Boer is in zijn *Kleine Theorie van de Werkbehandeling* een bruikbare indeling gegeven ontleend aan een groot aantal schrijvers, variërend van Theodor Adorno tot en met Simon Vestdijk.
 1. **Formalistische** attitudes: het volgen van muziek als een zinvol en samenhangend geheel 
 2. **Referentialistische** attitudes: deze zoeken op een of andere wijze een betekenis achter de klank
 3. **Evaluerende** attitudes: deze houden zich bezig met het beoordelen van hetgeen er gaande is
@@ -8,4 +8,6 @@ Door Hiepko H. Boer is in zijn *Kleine Theorie van de Werkbehandeling* een bruik
 Er worden hierbinnen nog allerlei onderverdelingen gegeven: deze zijn te vinden in het schema op blz. 10.
 
 In de literatuur vinden we ook beschrijvingen van luisterhoudingen:
-1. Howrads Ens - E.M. Forster
+1. Howards End - E.M. Forster
+2. The Bell - Iris Murdoch
+3. En ook regelmatig in Peanuts van Harry Schulz
