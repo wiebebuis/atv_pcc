@@ -1,19 +1,13 @@
 **Patronen**
 
-_"Het idee dat de wereld kan worden begrepen aan de hand van patronen en onderliggende principes is een van de belangrijkste inzichten van de mens en misschien wel zijn of haar meest succesvolle overlevingsstrategie."[**[1]**](#_ftn1)_
+"Het idee dat de wereld kan worden begrepen aan de hand van patronen en onderliggende principes is een van de belangrijkste inzichten van de mens en misschien wel zijn of haar meest succesvolle overlevingsstrategie." (Rens Bod - *Een wereld vol patronen*)
 
 Bij de manier waarop wij als mensen leven, overleven en functioneren speelt **waarneming** een
-
-  
-
----
-
-[[1]](#_ftnref1) Rens Bod, _Een wereld vol patronen_ p. 11
 sleutelrol.
 
 Uit onderzoek van de Gestaltpsychologie weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
 
-Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.[**[1]**](#_ftn1)_   [[2]](#_ftn2) Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
+Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.  [[2]](#_ftn2) Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
 
 Patronen hebben ook een zekere voorspellende kracht.[[3]](#_ftn3)
 
