@@ -3,7 +3,6 @@
 In deze encyclopedie wordt ervoor gekozen een indeling in kennisgebieden te combineren met een alfabetische ordening binnen deze kennisgebieden.
 Op deze manier kunnen dwarsverbanden en relaties tussen kennisgebieden worden gelegd.
 
-
 ![[britannica propaedia 001.jpg]]
 
 Verschillende kennisgebieden kunnen als ingang of "entry-point" worden gekozen: 

@@ -31,7 +31,7 @@ Bekwaam ^1dzQ4Btv
 
 4 ^DrUNc8l9
 
-Ontleend aan Maslow ^PuKl16w4
+Ontleend aan Maslow? ^PuKl16w4
 
 %%
 # Drawing
@@ -520,8 +520,8 @@ Ontleend aan Maslow ^PuKl16w4
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 662022744,
+			"version": 99,
+			"versionNonce": 1531834118,
 			"isDeleted": false,
 			"id": "PuKl16w4",
 			"fillStyle": "solid",
@@ -534,24 +534,24 @@ Ontleend aan Maslow ^PuKl16w4
 			"y": 411.9177989130434,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 207.07986450195312,
+			"width": 216.3998565673828,
 			"height": 25,
 			"seed": 484930088,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716913821716,
+			"updated": 1717435687670,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Ontleend aan Maslow",
-			"rawText": "Ontleend aan Maslow",
+			"text": "Ontleend aan Maslow?",
+			"rawText": "Ontleend aan Maslow?",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Ontleend aan Maslow",
+			"originalText": "Ontleend aan Maslow?",
 			"lineHeight": 1.25
 		}
 	],
@@ -570,10 +570,10 @@ Ontleend aan Maslow ^PuKl16w4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 163.05692545572919,
-		"scrollY": 281.1536661783855,
+		"scrollX": 163.0465087890625,
+		"scrollY": 256.5446166992188,
 		"zoom": {
-			"value": 1.5
+			"value": 1.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

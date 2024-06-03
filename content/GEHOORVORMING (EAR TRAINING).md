@@ -1,3 +1,5 @@
+ 
+
 Werd in het verleden wel aangeduid met solfège en (binnen PCC) muzikaal voorstellingsvermogen.
 
 We zouden het ook ritmisch-melodisch-harmonische vorming binnen het domein van westerse (kunst)muziek kunnen noemen.  Praktisch is waarschijnlijk de hier gekozen benamingen gehoorvorming (NL) en ear training (EN).
@@ -10,5 +12,3 @@ Het bovenliggende doel is dat de student:
 Essentieel is het uitgangspunt: "handelen met klank", met gebruik van het eigen instrument. Dat betekent dat [[Musicking]] een belangrijke plaats zouden moeten hebben/krijgen.
 
 Patronen en principes toegepast op muzikale klank.
-
-
