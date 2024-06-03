@@ -2,6 +2,9 @@
 title: atv_pcc
 ---
 **NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt (of vergroot je venster). :-)
+
+Helaas is de graph van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb voor deze optie gekozen om financiële redenen. Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter concepten en hun relaties.
+
 ![[obsidian overzichtsplaatje licht.png]]
 
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Zoals de afbeelding suggereert, gaat het om een (semantisch) netwerk. Het idee achter dit initiatief is:

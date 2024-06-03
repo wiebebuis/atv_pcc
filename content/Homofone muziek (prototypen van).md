@@ -1,4 +1,4 @@
-- Koraal (Crüger)
+ - Koraal (Crüger)
 - Psalmzetting (Goudimel)
 - Chant (Anglicaans)
 - Koraal (bij Bach meestal gefigureerde harmonie)
