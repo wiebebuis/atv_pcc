@@ -3,9 +3,9 @@ title: atv_pcc
 ---
 **NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt (of vergroot je venster). :-)
 
-Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb voor deze optie gekozen om financiële redenen; Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter **concepten** en hun **relaties**. Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, links in de hoofdtekst en in de backlinks. Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het graph view vernstertje kun je schakelen naar de complete graph view.
+Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb voor deze optie gekozen om financiële redenen; Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter **concepten** en hun **relaties**. Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, links in de hoofdtekst en in de backlinks. Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het graph view venstertje kun je schakelen naar de complete graph view. Maar die vind ik dus niet echt bruikbaar; ik ben nog op zoek naar een oplossing/verbetering. 
 
-![[obsidian overzichtsplaatje licht.png]]
+![[graph view 20240603.png]]]
 
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Zoals de afbeelding suggereert, gaat het om een (semantisch) netwerk. Het idee achter dit initiatief is:
 
