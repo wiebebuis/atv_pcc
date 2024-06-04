@@ -5,3 +5,9 @@ Binnen een toonsoort kunnen de trappen V en VII (en hun uitbreidingen en variant
 Al deze vormen zijn in principe ook te gebruiken als tussendominant.
 
 Tussendominanten werken als ze gericht zijn op een grote of kleine drieklank op een andere trap dan I.
+
+Zie ook:
+
+https://skole.nl/index.php?option=com_content&view=article&id=194:tussendominanten&catid=22&lang=nl-nl&Itemid=378 (NL)
+
+https://skole.nl/index.php?option=com_content&view=article&id=195:tussendominanten-2&catid=37&lang=en&Itemid=369 (EN)

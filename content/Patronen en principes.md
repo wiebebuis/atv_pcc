@@ -1,3 +1,5 @@
+(Voornamelijk gebaseerd op Rens Bod - *Een wereld vol patronen*)
+
 **Patronen**
 
 "Het idee dat de wereld kan worden begrepen aan de hand van patronen en onderliggende principes is een van de belangrijkste inzichten van de mens en misschien wel zijn of haar meest succesvolle overlevingsstrategie." (Rens Bod - *Een wereld vol patronen*)
@@ -7,9 +9,9 @@ sleutelrol.
 
 Uit onderzoek van de Gestaltpsychologie weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
 
-Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.  [[2]](#_ftn2) Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
+Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.  Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
 
-Patronen hebben ook een zekere voorspellende kracht.[[3]](#_ftn3)
+Patronen hebben ook een zekere voorspellende kracht.
 
 Voor **muziek** geldt in dezelfde mate dat patroonherkenning een absolute voorwaarde is om muziek te maken, te volgen en te begrijpen. We oriënteren ons in muziek op basis van patronen. Een voorbeeld van een patroon kan zijn een motief, een akkoord of akkoordvolgorde, een groep tonen (terachord, hexachord, toonladder), een schema, et cetera.
 
@@ -23,7 +25,7 @@ Patronen en principes lijken _universeel_ te zijn.
 
 Er is sprake van een **principe** als meerdere patronen mee onder één noemer kunnen worden gebracht. Bijvoorbeeld in muziek: een sequens, een cadens, figuratie, enz.
 
-Principes kunnen _gelaagd_ zijn.[[4]](#_ftn4)
+Principes kunnen _gelaagd_ zijn.
 
 **Relaties**
 
@@ -55,10 +57,7 @@ Maar het is ook mogelijk muziek (improviserend) te laten **ontstaan** vanuit rea
 
 ---
 
-[[1]](#_ftnref1) In muziek is variatie en verandering van patronen een essentieel kenmerk van muziek die we kunnen waarderen; we willen wel geboeid worden en ons niet "vervelen", tenzij we het hebben over meditatieve muziek met veel herhaling en weinig verandering waarmee we in een staat van rust willen worden gebracht.
+In muziek is variatie en verandering van patronen een essentieel kenmerk van muziek die we kunnen waarderen; we willen wel geboeid worden en ons niet "vervelen", tenzij we het hebben over meditatieve muziek met veel herhaling en weinig verandering waarmee we in een staat van rust willen worden gebracht.
 
-[[2]](#_ftnref2) Vergelijk Novak's definitie van concept: "a perceived regularity or pattern in events or objects, or records of events or objects, designated by a label". John D. Novak, _Learning, Creating and Using Knowledge._
+Vergelijk Novak's definitie van concept: "a perceived regularity or pattern in events or objects, or records of events or objects, designated by a label". John D. Novak, _Learning, Creating and Using Knowledge._
 
-[[3]](#_ftnref3) dat is zeker het geval in muziek, waarbij we een verwachtingspatroon opbouwen terwijl we "onderweg" zijn.
-
-[[4]](#_ftnref4) in muziek is dat meestal/heel vaak het geval

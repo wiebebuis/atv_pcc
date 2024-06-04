@@ -1,2 +1,2 @@
 (Pitch system).
-De systematische ordening van tonen (pitches/pitchclasses) en hun onderlinge relaties in de context van een muziekwerk. Deze (zeer) brede definitie is van toepassing op in de westerse muziekgeschiedenis voorkomende systemen als [[Tonaliteit]], [[Modaliteit]], vrije atonaliteit, [[Dodecafonie (twaalftoonsmuziek)]] en dergelijke.
+De systematische ordening van tonen (pitches/pitch-classes) en hun onderlinge relaties in de context van een muziekwerk. Deze (zeer) brede definitie is van toepassing op in de westerse muziekgeschiedenis voorkomende systemen als [[Tonaliteit]], [[Modaliteit]], vrije atonaliteit, [[Dodecafonie (twaalftoonsmuziek)]] en dergelijke.

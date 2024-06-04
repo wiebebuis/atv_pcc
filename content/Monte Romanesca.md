@@ -6,4 +6,4 @@ Dus:
 
 Het prototype uit IJzermans Harmony, Counterpoint, Partimento:
 
-....
+ex. 5.29 en 5.32
