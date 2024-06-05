@@ -3,6 +3,7 @@ Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 
 Op https://skole.nl/index.php?option=com_content&view=category&id=160&Itemid=541&lang=nl-nl vind je ingespeelde notenvoorbeelden van alle hoofdstukken van Job IJzerman - *Harmony, Counterpoint, Partimento: A New Method Inspired by Old Masters.*
 
 Voorbeelden (in prototypische vorm) zijn (HACOPA IJzerman):
+Stepwise Romanesca [[Romanesca, stepwise]]
 Leaping Romanesca [[Romanesca, leaping]]
 [[Quiescenza]]
 [[Prinner]]
