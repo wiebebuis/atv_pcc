@@ -6,3 +6,4 @@ De dominantenketen komt voor van de barok tot en met jazz en popmuziek.
 Voorbeeld:
 https://skole.nl/index.php?option=com_content&view=article&id=164:dominantenketen&catid=22&lang=nl-nl&Itemid=378
 
+IJzerman ex. 8.42

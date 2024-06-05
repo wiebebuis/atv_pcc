@@ -7,3 +7,5 @@ Bas beweegt van (6) in mineur of (6b) in majeur naar (5)
 Een van de bovernstemmen beweegt van 4# naar 5.
 We hebben dus te maken met een dubbele leidtoon naar de dominanttoon van de toonsoort.
 Een dalende in de bas en een stijgende in een van de bovenstemmen.
+
+IJzerman ex. 9.5
