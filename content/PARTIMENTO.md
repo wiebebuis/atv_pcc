@@ -12,3 +12,6 @@ https://www.earlymusicsources.com/youtube/partimento
 [[Continuo (basso continuo)]]
 
 Zie ook: [[Partimentopatronen (Galant Schemata)]]
+
+en Gjerdingens Monuments of Partimenti and Solfeggi:
+https://web.archive.org/web/20160316180459/http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm
