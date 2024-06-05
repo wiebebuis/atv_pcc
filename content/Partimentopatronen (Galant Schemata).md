@@ -18,17 +18,17 @@ Voorbeelden (in prototypische vorm) zijn (HACOPA IJzerman):
 
 Voorbeelden uit Gjerdingen's Music in the Galant Style (schema prototypes):
 Appendix A (prototypes)
-[[Romanesca]]
-[[Prinner]]
-[[Fonte]]
-[[Do-Re-Mi]]
-[[Monte]]
-[[Meyer]]
-[[Quiescenza]]
-[[Ponte]]
-[[Fenaroli]]
-[[Sol-Fa-Mi]]
-[[Indugio]]
+- [[Romanesca]]
+- [[Prinner]]
+- [[Fonte]]
+- [[Do-Re-Mi]]
+- [[Monte]]
+- [[Meyer]]
+- [[Quiescenza]]
+- [[Ponte]]
+- [[Fenaroli]]
+- [[Sol-Fa-Mi]]
+- [[Indugio]]
 
 Sanguinetti:
 zie hoofdstuk 9 uit The Art of Partimento: overzicht van "regole"
