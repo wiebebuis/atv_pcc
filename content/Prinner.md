@@ -3,3 +3,4 @@ IJzerman ex. 5.24
 
 ![[hacopa examples_prinner.mp3]]
 
+Gjerdingen ex. 3.1

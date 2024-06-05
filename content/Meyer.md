@@ -1,1 +1,1 @@
-Gjerdingen 111
+Gjerdingen ex. 9.1 en 9.2

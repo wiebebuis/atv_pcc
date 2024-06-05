@@ -3,3 +3,6 @@ IJzerman ex. 5.17
 
 ![[hacopa example 5.17.mp3]]
 
+Gjerdingen ex. 13.1 en 13.2
+
+

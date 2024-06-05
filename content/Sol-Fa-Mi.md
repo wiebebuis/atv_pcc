@@ -1,3 +1,4 @@
 Een van de [[Partimentopatronen (Galant Schemata)]]
 
-Gjerdingen 253
+Gjerdingen ex. 18.1 en 18.2
+
