@@ -1,6 +1,6 @@
 Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 bevat een vocabulaire van muzikale patronen en frases, dat voor muzikale amateurs gemakkelijk te begrijpen en te leren was. Het leren van deze patronen stelt muzikanten in staat om te leren improviseren. Als eerste stap op weg naar improvisatie, worden figuraties gemaakt op basispatronen en frases.
 
-Op https://skole.nl/index.php?option=com_content&view=category&id=160&Itemid=541&lang=nl-nl vind je ingespeelde notenvoorbeelden van alle hoofdstukken van Job IJzerman - *Harmony, Counterpoint, Partimento: A New Method Inspired by Old Masters.*
+Op https://skole.nl/index.php?option=com_content&view=category&id=160&Itemid=541&lang=nl-nl vind je ingespeelde notenvoorbeelden van alle hoofdstukken van Job IJzerman - *Harmony, Counterpoint, Partimento: A New Method Inspired by Old Masters.* Als je de muisaanwijzer over Partimento beweegt zie je het submenu:
 
 ![[skole partimento submenus.png]]
 
