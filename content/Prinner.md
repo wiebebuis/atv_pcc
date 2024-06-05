@@ -4,3 +4,4 @@ IJzerman ex. 5.24
 ![[hacopa examples_prinner.mp3]]
 
 Gjerdingen ex. 3.1
+![[Gjerdingen example 3.1.jpg]]

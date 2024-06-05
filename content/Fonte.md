@@ -6,3 +6,4 @@ IJzerman ex. 8.8
 ![[hacopa example 8.8.mp3]]
 
 Gjerdingen ex. 4.2 en ex. 4.3
+![[Gjerdingen example 4.3.jpg]]
