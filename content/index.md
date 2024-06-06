@@ -52,7 +52,7 @@ Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik n
 ## Niet alleen woorden, ook beelden
 In de westerse samenlevingen hebben we de afgelopen decennia een **verschuiving** gezien van de **dominantie** van **tekstuele** bronnen naar een **dominantie** van **visuele** bronnen. Deze verschuiving is nog steeds bezig en heeft grote gevolgen voor het onderwijs. De stelling "zien is geloven" heeft langzamerhand een heel andere lading gekregen...
 
-Iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) analogieën veel gebruikt worden. Ook metaforen zijn soms heel bruikbaar.
+Iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn soms heel  bruikbaar.
 
 Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de Excalidraw plugin in combinatie met Obsidian canvas goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
 
