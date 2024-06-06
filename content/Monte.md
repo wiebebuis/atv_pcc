@@ -1,3 +1,4 @@
+Een van de [[Partimentopatronen (Galant Schemata)]]
 Gjerdingen ex. 7.2 en 7.3
 ![[Gjerdingen example 7.2.jpg]]
 
