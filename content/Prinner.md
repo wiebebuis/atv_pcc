@@ -1,3 +1,4 @@
+Een van de [[Partimentopatronen (Galant Schemata)]]
 IJzerman ex. 5.24
 ![[ijzerman example 5.24.jpg]]
 
