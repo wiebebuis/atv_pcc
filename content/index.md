@@ -40,7 +40,7 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 - **Principes** opsporen, 
 - **Betekenis** **geven** aan muziek (ook in relatie met andere kunsten).
 
-Leren draait om **weten**, **begrijpen** en **doen**. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. 
+Leren draait om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. 
 
 Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik noem slechts vijf van tientallen boeken):
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren
