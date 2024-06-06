@@ -5,7 +5,7 @@ title: ATV_PCC
 
 ![[quote murphy concepts.png]]
 
-Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Zoals de afbeelding suggereert, gaat het om een (semantisch) netwerk. Het idee achter dit initiatief is:
+Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Zoals de onderstaande afbeelding suggereert, gaat het om een (semantisch) netwerk. Het idee achter dit initiatief is:
 
 Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**. Ik heb een concept map gemaakt van de denkwijze achter atv_pcc: [[Gedachten achter atv_pcc]].
 
