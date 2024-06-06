@@ -7,7 +7,7 @@ title: atv_pcc
 
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in Algemeen Theoretische Vakken aan het Prins Claus Conservatorium in Groningen. Zoals de afbeelding suggereert, gaat het om een (semantisch) netwerk. Het idee achter dit initiatief is:
 
-Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**.
+Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**. Ik heb een concept map gemaakt van de denkwijze achter atv_pcc: [[Gedachten achter atv_pcc]].
 
 Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik dus niet echt bruikbaar; ik ben nog op zoek naar een oplossing/verbetering. 
 
@@ -15,7 +15,7 @@ Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendeli
 
 ![[graph view 20240603.png]]
 
-Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** **bij** **kennisconstructie**.
+Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** bij **kennisconstructie**.
 Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie.
 ## Obsidian
 Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
@@ -48,7 +48,7 @@ Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik n
 - Rens Bod - *Een Wereld Vol Patronen*
 
 ## Niet alleen woorden, ook beelden
-In de westerse samenleving hebben we de afgelopen decennia een **verschuiving** gezien van de **dominantie** van **tekstuele** bronnen naar een **dominantie** van **visuele** bronnen. Deze verschuiving is nog steeds bezig en heeft grote gevolgen voor het onderwijs. De stelling "zien is geloven" heeft langzamerhand een heel andere lading gekregen...
+In de westerse samenlevingen hebben we de afgelopen decennia een **verschuiving** gezien van de **dominantie** van **tekstuele** bronnen naar een **dominantie** van **visuele** bronnen. Deze verschuiving is nog steeds bezig en heeft grote gevolgen voor het onderwijs. De stelling "zien is geloven" heeft langzamerhand een heel andere lading gekregen...
 
 Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de Excalidraw plugin in combinatie met Obsidian canvas goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
 
