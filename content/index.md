@@ -15,8 +15,7 @@ Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendeli
 
 ![[graph view 20240603.png]]
 
-Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** bij **kennisconstructie**.
-Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie.
+Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** bij **kennisconstructie**. Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie. 
 ## Obsidian
 Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
