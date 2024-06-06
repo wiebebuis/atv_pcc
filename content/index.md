@@ -45,7 +45,7 @@ Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik n
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren) en het belang van taal daarbij (zelf verwoorden en opschrijven). Ahrens werd op zijn beurt weer geïnspireerd door Niklas Luhmann (1927-1998)
 - Carel van Parreren - *Leren door Handelen*
-- David N. Hyerle - *Visual Tools for transforming information into knowledge.
+- David N. Hyerle - *Visual Tools for transforming information into knowledge*
 - Rens Bod - *Een Wereld Vol Patronen*
 
 ## Niet alleen woorden, ook beelden
