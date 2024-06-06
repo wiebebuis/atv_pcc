@@ -9,13 +9,13 @@ Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor 
 
 Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**.
 
-Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te typen in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik dus niet echt bruikbaar; ik ben nog op zoek naar een oplossing/verbetering. 
+Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik dus niet echt bruikbaar; ik ben nog op zoek naar een oplossing/verbetering. 
 
 Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb voor deze optie gekozen om financiële redenen; Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter **concepten** en hun **relaties**. 
 
 ![[graph view 20240603.png]]
 
-Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** geeft al blijk van inzicht in het belang van het leggen van **verbindingen** **bij** **kennisconstructie**.
+Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** **bij** **kennisconstructie**.
 Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie.
 ## Obsidian
 Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
@@ -31,7 +31,7 @@ Mijn overtuiging is dat de huidige studentgeneratie dringend behoefte heeft aan 
 Er speelt echter ook een **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. 
 
 Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" statische site (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
- (https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction".
+(https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction".
 
 ## Conceptueel leren
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van **Conceptueel Leren** en  **PKM** (Personal Knowledge Management): 
