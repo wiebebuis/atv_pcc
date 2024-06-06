@@ -13,7 +13,10 @@ Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in 
 
 Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb voor deze optie gekozen om financiële redenen; Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter **concepten** en hun **relaties**. 
 
-![[graph view 20240603.png]]]
+![[graph view 20240603.png]]
+
+Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopedia Britannica** geeft al blijk van inzicht in het belang van het leggen van **verbindingen** **bij** **kennisconstructie**.
+Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie.
 ## Obsidian
 Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 

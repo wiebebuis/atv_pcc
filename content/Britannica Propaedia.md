@@ -1,4 +1,4 @@
-"In planning this Fifteenth Edition of Encyclopaedia Britannica, the Editors, while deciding to retain the alphabetical ordering of the articles in the set, sought to improve upon the effort that their predecessors had made to overcome the defects of an alphabetical or- ganization by giving the reader a truly topical, and totally nonalphabetical, Table of Contents."
+"In planning this Fifteenth Edition of Encyclopaedia Britannica, the Editors, while deciding to retain the alphabetical ordering of the articles in the set, sought to improve upon the effort that their predecessors had made to overcome the defects of an alphabetical organization by giving the reader a truly **topical**, and totally **nonalphabetical**, Table of Contents."
 
 In deze encyclopedie wordt ervoor gekozen een indeling in kennisgebieden te combineren met een alfabetische ordening binnen deze kennisgebieden.
 Op deze manier kunnen dwarsverbanden en relaties tussen kennisgebieden worden gelegd.
