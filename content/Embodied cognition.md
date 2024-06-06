@@ -2,7 +2,7 @@ Een theorie die ervan uitgaat dat elke vorm van menselijke kennis en cognitie "e
 
 Om cognitieve processen te kunnen begrijpen is het belangrijk hun relatie met psychomotorisch handelen (acties) enerzijds, en de (ver)werking van zintuiglijke prikkels uit de omgeving (receptie) anderzijds, te onderzoeken.
 
-Daarom is embodied cognition verbonden met de [[Fenomenologie]].
+Daarom is embodied cognition ook verbonden met de [[Fenomenologie]].
 
 Belangrijke namen:
 Lawrence Shapiro: Embodied Cognition (2010-2019).
