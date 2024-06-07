@@ -25,6 +25,7 @@ https://www.youtube.com/@VisualPKM
 5. Voortdurend de **relevantie van zoekresultaten** relateren aan de **gestelde vragen**
 6. **Systematisch werken**
 
+## Library guides
 In de Hanze Mediatheek zijn diverse **Library Guides** beschikbaar.
 Bijvoorbeeld voor Literatuuronderzoek: https://libguides.hanze.nl/literatuuronderzoek
 Deze zijn gebaseerd op de Big6 voor informatievaardigheden (Berkowitz & Eisenberg).
