@@ -1,12 +1,13 @@
 ---
 tags:
   - Kennisdomein
+  - werkmodel
 ---
 Waarom hoofdletters? ONDERZOEK is niet slechts een concept maar een "concept van hogere orde". Het is één van de [[Kennisdomeinen]] die in deze vault zijn onderscheiden. Onderzoek wordt altijd gevoed door kennisdomeinen. 
 
 **Informatievaardigheden** zijn onmisbaar voor het doen van onderzoek, ook al lijkt het onderzoek nog zo voor de hand liggend en simpel.
 
-Informatievaardigheden zijn slechts een eerste basis voor het doen van onderzoek. Veel belangrijker is dat je leert goede **aantekeningen** te maken terwijl je aan het luisteren, lezen, kijken, studeren bent. Dat doe je met alle dingen waar je je in verdiept, en dus niet alleen als je een schrijfopdracht of onderzoeksopdracht krijgt...
+Informatievaardigheden zijn **slechts een eerste basis** voor het doen van onderzoek. Veel belangrijker is dat je leert goede **aantekeningen** te maken terwijl je aan het luisteren, lezen, kijken, studeren bent. Dat doe je met alle dingen waar je je in verdiept, en dus niet alleen als je een schrijfopdracht of onderzoeksopdracht krijgt...
 
 Aantekeningen maken hoeft niet alleen met **woorden**: **visualiseren** is net zo belangrijk. Wat je nu aan het lezen bent bijvoorbeeld, is onderdeel van een Obsidian knowledge vault; een verzameling van aan elkaar gerelateerde aantekeningen over allerlei concepten over muziek.
 Klik op Home voor de algemene beschrijving.
@@ -31,9 +32,10 @@ Zie https://thebig6.org/
 
 **N.B.** Ga niet meteen "down the rabbithole" door rigide vast te houden aan de zes stappen van "literature research". Verken eerst je domein op basis van een voorlopige vraagstelling. Library Guides zijn een **middel** en *geen* doel... 
 
-Er is ook kritiek op de mainstream manieren van toewerken naar een onderzoeksproduct: bijvoorbeeld door Sönke Ahrens in zijn boek *How to Take Smart Notes*. Zie ook https://www.soenkeahrens.de/en/takesmartnotes, en 
+Er is tegenwoordig ook best wat kritiek op de mainstream manieren van toewerken naar een onderzoeksproduct: bijvoorbeeld door Sönke Ahrens in zijn boek *How to Take Smart Notes*. Zie ook https://www.soenkeahrens.de/en/takesmartnotes, en 
 en de Book on a Page video over het boek door Zsolt Viczian: https://youtu.be/o49C8jQIsvs?si=28093Nwt7aMV_t3q. 
-Je leert het meest van het zelf "verwoorden" of "verbeelden" van het luisteren, kijken, lezen, studeren, becommentariëren. Ahrens' stelling is dat het eigenlijke onderzoeken gebeurt als je slim en goed aantekeningen maakt. Heb je dat gedaan dan is het schrijven van een eindproduct niet zo moeilijk meer. Ahrens maakt duidelijk dat dit de belangrijkste reden was waarom Niklas Luhmann (1927-1998) zo productief was, met zijn [[Zettelkasten]].
+
+Je leert het meest van het zelf "verwoorden" of "verbeelden" van het luisteren, kijken, lezen, studeren, becommentariëren. Ahrens' stelling is dat het eigenlijke onderzoeken gebeurt als je slim en goed aantekeningen maakt. Heb je dat gedaan dan is het schrijven van een eindproduct niet zo moeilijk meer. Hij maakt duidelijk dat dit de belangrijkste reden was waarom Niklas Luhmann (1927-1998) zo productief was, met zijn [[Zettelkasten]].
 
 Literatuuronderzoek is één, goed schrijven is twee. 
 Sönke Ahrens geeft daarvoor een werkmodel dat te gebruiken is voor producten van verschillende omvang: paper, essay of scriptie: 

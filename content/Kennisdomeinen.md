@@ -6,5 +6,5 @@ In deze vault zijn de volgende kennisdomeinen onderscheiden:
 [[AKOESTIEK]]
 [[GESCHIEDENIS]]
 [[PARTIMENTO]]
-[[ONDERZOEK]]
+[[ONDERZOEK... waar en hoe te beginnen?]]
 [[GEHOORVORMING (EAR TRAINING)]]
