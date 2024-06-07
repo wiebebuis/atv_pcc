@@ -1,6 +1,4 @@
----
 #werkmodel 
----
 Om over muziek te kunnen praten en communiceren hebben we **woorden** nodig om wat er klinkt te **beschrijven.** Het gaat hierbij dus om **feiten.** Horen wat er te horen valt en dat adequaat **onder woorden brengen**.
 
 Muzikale klank is te beschrijven in termen van deelgebieden of parameters.
