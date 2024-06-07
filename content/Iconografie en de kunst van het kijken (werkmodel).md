@@ -2,7 +2,9 @@
 tags:
   - werkmodel
 ---
-Kijken naar kunst moet je leren, net als luisteren naar muziek. Het kan helpen om daarbij een bepaalde strategie te volgen. Je kunt dit werkmodel ook prima gebruiken om te **luisteren** naar muziek; dan wordt het een werkmodel voor **sonografie**. :-). Op zich geen verrassing, want  iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn soms heel  bruikbaar.
+Kijken naar kunst moet je leren, net als luisteren naar muziek. Het kan helpen om daarbij een bepaalde strategie te volgen. 
+
+Je kunt dit werkmodel ook prima gebruiken om te **luisteren** naar **muziek**; dan wordt het een werkmodel voor **sonografie**. :-). Op zich geen verrassing, want  iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn soms heel  bruikbaar.
 
 [Erwin Panofsky](https://nl.wikipedia.org/wiki/Erwin_Panofsky) is een bekend kunsthistoricus die een werkmodel ontwikkelde om naar kunst te kijken. Dit model werkt met drie stadia of lagen:
 
