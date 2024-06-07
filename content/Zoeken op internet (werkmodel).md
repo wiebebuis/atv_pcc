@@ -4,9 +4,9 @@ tags:
 ---
 ## Waarom zomaar wat woorden intypen in Google niet werkt... (werkmodel)
 
-Veel studenten beginnen met gewoon maar wat woorden intypen in Google en komen (meestal binnen enkele minuten) tot de conclusie dat "nergens op het hele f*****g internet" bruikbare informatie te vinden is. 
+Veel studenten beginnen met gewoon maar wat woorden intypen in Google en komen (meestal binnen enkele minuten) tot de conclusie dat "nergens op het hele **f@#$%#g** internet" bruikbare informatie te vinden is. 
 
-Tsja, wat kun je verwachten? Je zou net zo goed "Expecto Cognitionis" kunnen intypen, flink met je toverstaf zwaaien en er het beste van hopen. 
+Tsja, wat kun je verwachten? Je zou net zo goed "Expecto Cognitionis" kunnen intypen, flink met je muis of toverstaf zwaaien en er het beste van hopen. 
 
 Dus: geen magie hier. Gebruik je grijze cellen en de volgende tips:
 
