@@ -1,3 +1,8 @@
+---
+tags:
+  - werkmodel
+---
+
 Om een onderwerp of een vraag in een context te plaatsen, zijn de volgende vragen bij eigenlijk onderwerp bruikbaar:
 
 |                  |                                                                                                                                                     |
