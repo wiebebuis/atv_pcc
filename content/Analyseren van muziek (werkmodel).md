@@ -2,46 +2,31 @@
 tags:
   - werkmodel
 ---
-**Het maken van een conceptenkaart (concept map)**
+Weten wat de hoofdzaken en bijzaken zijn in een stuk dat je speelt.
 
-Gebruik hiervoor bij voorkeur het hulpmiddel [CMapTools](http://cmap.ihmc.us/cmaptools/).
+Belangrijk, toch? Te vaak blijft studeren en spelen steken bij reproduceren. 
 
-1. **Formuleer een focusvraag die gericht is op het probleem, het vraagstuk of het kennisdomein dat aan de orde is.**  
-    Onderscheid, geleid door deze vraag, 10 tot 20 concepten die van essentieel belang zijn en maak daarvan een lijst. Sommige mensen vinden het prettig om met kaartjes of post-its te werken zodat ze ermee kunnen schuiven. Als je werkt met computersoftware om concept kaarten te maken doe het dan daarmee. De labels voor concepten bestaan bij voorkeur uit één woord, of maximaal twee à drie woorden.  
-      
-    
-2. **Breng een rangorde aan in de concepten door het meest brede, veelomvattende idee bovenaan te plaatsen**.  
-    Soms is het moeilijk om dit meest inclusieve of brede concept te bepalen. Het kan helpen om te reflecteren op je focusvraag bij het ordenen van je concepten. Soms leidt dit tot een aanpassing van de focusvraag of het formuleren van een nieuwe focusvraag.  
-      
-    
-3. **Loop** **de lijst langs en voeg indien noodzakelijk benodigde concepten toe**.  
-      
-    
-4. **Begin je kaart met het bovenaan plaatsen van de meest inclusieve, brede concepten.**  
-    Dit zijn er meestal maximaal drie.  
-      
-    
-5. **Selecteer daarna de concepten die kunnen worden beschouwd als subconcepten van deze algemene concepten**.  
-    Probeer het aantal subconcepten per concept te beperken tot drie. Als dat niet lukt (je hebt er bijvoorbeeld acht) dan is het vaak mogelijk om een tussenliggend concept te maken, waardoor je hiërarchische ordening verandert.  
-      
-    
-6. **Maak lijnen tussen concepten**.  
-    Label deze lijnen met enkele verbindende woorden zodat ze samen met de conceptnamen een inhoudelijke en deugdelijke bewering vormen. De verbindende woorden moeten de relatie tussen de twee concepten definiëren zodat een valide _bewering_ of _propositie_ wordt gevormd. Deze verbindingen creëren betekenis. Als je op deze manier een groter aantal verbonden ideeën hiërarchisch ordent, wordt de betekenisstructuur van het onderwerp van de kaart verduidelijkt.  
-      
-    
-7. **Herschrijf de structuur van je kaart door er kritisch naar te kijken**.  
-    Dit kan betekenen dat concepten (en relaties) worden weggehaald, toegevoegd, gewijzigd. Dit herschrijven kan enkele keren herhaald worden als gevolg van veranderde inzichten of nieuwe ontdekkingen. Met Post-its is dit geen probleem; hetzelfde geldt voor software.  
-      
-    
-8. **Ga op zoek naar dwarsverbanden tussen diverse gebieden van je conceptenkaart en label die verbindingen**.  
-    Dwarsverbanden kunnen helpen om nieuwe, creatieve inzichten te verkrijgen t.a.v het domein waarmee je bezig bent.  
-      
-    
-9. **Specifieke voorbeelden van concepten worden toegevoegd ter illustratie van concept labels  
-      
-    **
-10. **Vanuit één vraagstuk kunnen verschillende conceptkaarten ontstaan.** Er bestaat niet één enig juiste manier om een conceptenkaart te tekenen. Als je begrip van en kennis over concepten en hun relaties veranderen, dan verandert je kaart ook.    
+**Het krijgen van een overzicht** 
 
-Vertaling van Appendix I uit:
+- Zijn er duidelijk te onderscheiden overgangen (en daarmee) **episodes?**
+- Zo ja: hoeveel, en waar beginnen en eindigen ze ongeveer? Deze overgangen noemen we de **geledingspunten** van een stuk. Teken ze aan in je partituur.
+- Geledingspunten zijn er in _gradaties._ Breng ze om te beginnen onder in drie categorieën: groot (V), gemiddeld (v), klein ( | )
+- Stel vast met welke **muzikale middelen** geleding tot stand komt (melodie/harmonie, metrum/ritme, dynamiek, kleur, articulatie)
+- Is er weinig geleding en zijn er dus ook geen duidelijke episodes? In dat geval kan er sprake zijn van geleidelijk verlopende muzikale **processen**
+- Is er sprake van verandering? Zo ja, met welke muzikale middelen en in welke mate?
+- Zijn er bepaalde **patronen** te herkennen in de veranderingen? Zo ja, hoe en met welke muzikale middelen?
+- Als er sprake is van geleidelijke veranderingen hebben die veranderingen dan ook een bepaald **doel?**
+- Worden er zaken toegevoegd, weggelaten of blijft het gebruikte materiaal gelijk?
+- Wat kun je zeggen over het **spanningsverloop?**
+- Als er sprake is van toename of afname van spanning, met welke muzikale middelen wordt dat dan bereikt?
+- Beweegt de muziek ergens naartoe of ergens vandaan?
 
-Novak, J. D. (1998). _Learning, creating, and using knowledge: Concept maps as facilitative tools in schools and corporations_. Mahwah, N.J: L. Erlbaum Associates.
+- Is er sprake van **herhaling?**
+- Zo ja: waar, op welke manier en met welke middelen?
+- Is er sprake van directe herhaling of herhaling op afstand?
+- Wat kun je zeggen over _tijdsintervallen_ tussen herhalingen?
+- Is er sprake van **contrasten?**
+- Zo ja: waar ongeveer, hoe groot en met welke middelen?
+- Is er sprake van **variatie?**
+- Zo ja: hoe en met welke middelen?
+- Wat kun je zeggen over de **textuur** (verhouding tussen stemmen: polyfoon, homofoon, heterofoon, ...)?
