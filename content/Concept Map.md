@@ -9,4 +9,4 @@ Deze technieken vullen elkaar aan.
 **Mind Mapping** is meer "informeel" en gericht op het genereren van **ideeën** en **associaties** en het **verhelderen** (en uiteindelijk oplossen) van problemen.
 
 Zie ook [https://cmap.ihmc.us/docs/theory-of-concept-maps] voor het gratis programma CMapTools. 
-en het werkmodel [[Concept Map maken]].
+en het werkmodel [[Concept Map maken (werkmodel)]].

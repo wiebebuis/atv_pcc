@@ -12,7 +12,7 @@ Informatievaardigheden zijn **slechts een eerste basis** voor het doen van onder
 Aantekeningen maken hoeft niet alleen met **woorden**: **visualiseren** is net zo belangrijk. Wat je nu aan het lezen bent bijvoorbeeld, is onderdeel van een Obsidian knowledge vault; een verzameling van aan elkaar gerelateerde aantekeningen over allerlei concepten over muziek.
 Klik op Home voor de algemene beschrijving.
 
-**Hoe** je dat visualiseren aanpakt kun je leren door je te verdiepen in (Visual) Personal Knowledge Management [[(V)PKM]]. Een goede plek om dat eens te verkennen is het YT-kanaal van Zsolt Viczian:
+**Hoe** je dat visualiseren aanpakt kun je leren door je te verdiepen in (Visual) Personal Knowledge Management [[(V)PKM -  (Visual) Personal Knowledge Mangement]]. Een goede plek om dat eens te verkennen is het YT-kanaal van Zsolt Viczian:
 
 https://www.youtube.com/@VisualPKM 
 
