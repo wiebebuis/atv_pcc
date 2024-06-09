@@ -1,4 +1,5 @@
 (Voornamelijk gebaseerd op Rens Bod - *Een wereld vol patronen*)
+(Patronen en principes spelen op allerlei manieren een rol in muziek: bijvoorbeeld in partimentopatronen, cadenstypes, melodische formules, liedvormen, vormtypen...).
 
 **Patronen**
 
@@ -7,9 +8,11 @@
 Bij de manier waarop wij als mensen leven, overleven en functioneren speelt **waarneming** een
 sleutelrol.
 
-Uit onderzoek van de Gestaltpsychologie weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
+Uit onderzoek van de [[Gestaltpsychologie]] weten we dat wij mensen altijd onze omgeving (bewust en onbewust) scannen op **patronen**. We gebruiken patronen ook om ons leven in te richten en er grip op te houden. Homo Sapiens is een patroonzoeker en een patroonherkenner.
 
 Een **patroon** is een _waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.  Denk aan een stadsplattegrond: van Amsterdam: het stratenpatroon van het centrum met de grachtengordel.
+
+Een patroon wordt ook wel een [[Concept]]  genoemd (John D. Novak).
 
 Patronen hebben ook een zekere voorspellende kracht.
 
