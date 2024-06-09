@@ -13,10 +13,10 @@ Ook aan visies op **intelligentie** is er geen gebrek: enkele mogelijke benaderi
 - psychometrisch
 - cognitief-psychologisch
 - neurologisch
-- beschrijven
+- beschrijvend
 
 Enkele theorieën:
-- triarchisch: analytisch, creatief-synthetisch, parktisch; (Sternberg)
+- triarchisch: analytisch, creatief-synthetisch, praktisch; (Sternberg)
 - ontwikkelingsgericht (Piaget)
 - meervoudige intelligenties (Howard Gardner)
 - ...
