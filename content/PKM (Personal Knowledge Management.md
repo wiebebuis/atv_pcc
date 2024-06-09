@@ -1,2 +1,6 @@
+https://www.youtube.com/@VisualPKM
 
-Zie 
+Informatievaardigheden
+Betekenisgericht leren (i.p.v. rote learning)
+Kennisconstructie
+
