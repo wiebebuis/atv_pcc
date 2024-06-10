@@ -32,7 +32,17 @@ Appendix A (prototypes)
 
 Sanguinetti:
 zie hoofdstuk 9 uit The Art of Partimento: overzicht van "regole"
+Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (100):
+1. Basic axioms and procedures
+2. Rule of the Octave
+3. Suspensions
+4. Bass motioms
+5. Scale mutations
+Per categorie wordt een aantal onderliggende onderwerpen behandeld:
+
 
 Zowel Gjerdingen als IJzerman werkt met prototypes; Sanguinetti presenteert een totaaloverzicht van "regole".
 Zie ook: [[Prototype]]
 Zie ook: [[PARTIMENTO]]
+Zie ook [[Partimentopatronen (Tonal Tools)]]
+

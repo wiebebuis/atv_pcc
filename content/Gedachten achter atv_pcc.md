@@ -3,6 +3,7 @@ Open de afbeelding in een nieuw tabblad of nieuw venster om in te zoomen.
 
 ## Warp & Weft - Schering & Inslag
 ![[warp-and-weft-6 verkleind 256x256.png]]
+
 Een van de onderwijskundige boeken waar ik gebruik van gemaakt heb is: 
 
 Erickson, H. L., & Lanning, L. A. (2013). *Transitioning to Concept-Based Curriculum and Instruction : How to Bring Content and Process Together*. SAGE Publications.
@@ -24,8 +25,8 @@ Vier kritische onderdelen van een conceptgebaseerde pedagogiek:
 Erickson, H. L., & Lanning, L. A. (2013). *Transitioning to Concept-Based Curriculum and Instruction : How to Bring Content and Process Together*. SAGE Publications.
 
 In het afsluitende hoofdstuk van het boek wordt de "weefmetafoor" gebruikt:
-Curriculum en instructie: WARP (Schering)
-Concept-gebaseerd leren: WEFT (Inslag)
+- Curriculum en instructie: WARP (Schering)
+- Concept-gebaseerd leren: WEFT (Inslag)
 
 De uitkomst bestaat uit verschillende soorten weefsels; 
 - muziek- en cultuurgeschiedenis
