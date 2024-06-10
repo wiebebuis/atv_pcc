@@ -1,4 +1,5 @@
 Zie ook [[Partimentopatronen (Galant Schemata)]]
+**NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... :-(
 
 Lieven Strobbe hanteert in *Tonal Tools* voor klavierspelers een eigen collectie van eigen patronen die hij **componenten** noemt: 
 
@@ -41,7 +42,7 @@ Components can be **altered** with regard to **length** and **shape** (27):
 1. Experiment with composition of components within a fixed and symmetrical time structure
 2. Research how to play components in another metre
 3. Change the component's downbeat/upbeat ratio
-4. Research how to stretcg, compose-out, compress, merge and cut out components
+4. Research how to stretch, compose-out, compress, merge and cut out components
 5. Try to use fragments of components
 6. Practice 5C prolongation. Prolongatie van een drieklank)
 
@@ -50,6 +51,7 @@ TOOLS (35)
 2. Diminutions (freewheeling, arpeggiato, flags/ornaments, bridges, distribution)
 3. Suspensions (7-6, 4-3, 9-8, multiple suspensions)
 4. Accompaniment patterns (block chords, toggle or hoem-pa-pa, windmil, alberti bass, flying hand, arpeggiated, bourdon)
+
 RULES (42)
 1. TERTIA RULE
 2. TRITONE RULE (and exceptions)
@@ -57,6 +59,6 @@ RULES (42)
 4. SEQUENCE RULE
 5. PHANTOM RULE
 6. PRE-DOMINANT RULE
-7. 
 
-**NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... :-(
+
+

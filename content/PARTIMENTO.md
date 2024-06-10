@@ -8,7 +8,7 @@ Muziek in de galante stijl (Galant Style) uit (ruwweg) de periode van 1720-1770 
 De traditie is sterk verbonden met het 18e-eeuwse muziekonderwijs in Napels.
 
 Alhoewel de partimentotraditie sterk verbonden is aan muziek in Galante Stijl, zijn de schema's en patronen zo verankerd in de tonaliteit, dat ze lijken na te echoën in de 19e eeuw en zelfs in de 20e eeuw. Het gaat dan niet zozeer om de (naamhebbende) patronen zelf, maar bijvoorbeeld karakteristieke intervalpatronen en harmonische wendingen, die op een "romantische" manier kunnen worden ingekleurd. 
-Job IJzerman geeft daarvan een aantal voorbeelden in *Harmony, Counterpoint, Partimento*. Hetzelfde geldt voor *Tonal Tools* van Lieven Strobbe, waarin vanuit een eigen typologie  verbindingen naar klassiek-romantische muziek worden gelegd, maar ook naar jazz en popmuziek. 
+**Job IJzerman** geeft daarvan een aantal voorbeelden in *Harmony, Counterpoint, Partimento*. Hetzelfde geldt voor *Tonal Tools* van **Lieven Strobbe**, waarin vanuit een eigen typologie  verbindingen naar klassiek-romantische muziek worden gelegd, maar ook naar jazz en popmuziek. Strobbe noemt 
 
 https://www.earlymusicsources.com/youtube/partimento
 [[Continuo (basso continuo)]]
