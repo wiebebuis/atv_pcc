@@ -6,7 +6,7 @@ Open de afbeelding in een nieuw tabblad of nieuw venster om in te zoomen.
 
 Bij het vormgeven van onderwijs in de basisvorming van algemeen theoretische vakken is het belangrijk enkele **uitgangspunten** herkenbaar terug te laten komen als we toe willen naar een concept-gebaseerd curriculum. Volgens mij zijn dat de volgende:
 1. Kennis wordt gemodelleerd in een evoluerend semantisch netwerk opgebouwd uit concepten en hun relaties, ontleend aan diverse kennisdomeinen.
-2. Het leren van de student draait altijd om **weten**, **begrijpen** en **doen**. Accenten kunnen verschillen: in het pianopracticum heeft **doen** het primaat, in analyse & harmonie weten en begrijpen, in gehoorvorming doen en weten, in het hoorcollege muziek- en cultuurgeschiedenis primair weten.
+2. Het leren van de student draait altijd om **weten**, **begrijpen** en **doen**. Accenten kunnen verschillen: in het pianopracticum heeft **doen** het primaat, in analyse & harmonie weten en begrijpen, in harmonie**leer** doen en  begrijpen, in gehoorvorming doen en weten, in het hoorcollege muziek- en cultuurgeschiedenis primair weten.
 3. Een aantal concepten verschijnt (onvermijdelijk) in alle lessituaties.
 
 Vier kritische onderdelen van een conceptgebaseerde pedagogiek:
