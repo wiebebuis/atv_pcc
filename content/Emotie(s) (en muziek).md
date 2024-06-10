@@ -7,3 +7,4 @@ Belangrijke bronnen:
 - Relatie met Affektenlehre in de 18e eeuw.
 - Relatie met Figurenlehre 
 - Relatie met Retorica (docere, **movere**, **delectare**)
+
