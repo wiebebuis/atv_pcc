@@ -1,7 +1,7 @@
 Zie ook [[Partimentopatronen (Galant Schemata)]]
 **NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... :-(
 
-Lieven Strobbe hanteert in *Tonal Tools* voor klavierspelers een eigen collectie van eigen patronen die hij **componenten** noemt: 
+**Lieven Strobbe** hanteert in *Tonal Tools* voor klavierspelers een eigen collectie van eigen patronen die hij **componenten** noemt: 
 
 1. Tertia
 2. Quiescenza

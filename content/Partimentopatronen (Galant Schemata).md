@@ -4,6 +4,7 @@ Op https://skole.nl/index.php?option=com_content&view=category&id=160&Itemid=541
 
 ![[skole partimento submenus.png]]
 
+## IJzerman
 Voorbeelden (in prototypische vorm) zijn (HACOPA IJzerman):
 - Stepwise Romanesca [[Romanesca, stepwise]]
 - Leaping Romanesca [[Romanesca, leaping]]
@@ -16,6 +17,7 @@ Voorbeelden (in prototypische vorm) zijn (HACOPA IJzerman):
 - [[Chromatic Monte]]
 - [[Omnibus]]
 
+## Gjerdingen
 Voorbeelden uit Gjerdingen's Music in the Galant Style (schema prototypes):
 Appendix A (prototypes)
 - [[Romanesca]]
@@ -30,8 +32,8 @@ Appendix A (prototypes)
 - [[Sol-Fa-Mi]]
 - [[Indugio]]
 
-Sanguinetti:
-zie hoofdstuk 9 uit The Art of Partimento: overzicht van "regole"
+## Sanguinetti:
+Zie hoofdstuk 9 uit The Art of Partimento: overzicht van "regole"
 Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (100):
 1. Basic axioms and procedures
 2. Rule of the Octave
@@ -40,9 +42,11 @@ Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (100):
 5. Scale mutations
 Per categorie wordt een aantal onderliggende onderwerpen behandeld:
 
+## Strobbe
 
+---
 Zowel Gjerdingen als IJzerman werkt met prototypes; Sanguinetti presenteert een totaaloverzicht van "regole".
 Zie ook: [[Prototype]]
 Zie ook: [[PARTIMENTO]]
-Zie ook [[Partimentopatronen (Tonal Tools)]]
+Zie ook [[Partimentopatronen (Tonal Tools, Lieven Strobbe)]]
 
