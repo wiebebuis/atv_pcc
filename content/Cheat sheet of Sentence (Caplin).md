@@ -1,1 +1,1 @@
-![[content/Afbeeldingen/Cheat_Sheet_Sentence_Caplin.jpg]]
+![[Cheat Sheet Sentence (Caplin).jpg]]
