@@ -1,2 +1,2 @@
-![[content/Afbeeldingen/Cheat_Sheet_Hybrid_and_Compound_Themes_Caplin.jpg]]
 
+![[Cheat Sheet Hybrid and Compound Themes (Caplin).jpg]]
