@@ -1,0 +1,1 @@
+![[public/Afbeeldingen/Cheat_Sheet_Hybrid_and_Compound_Themes_Caplin.jpg]]
