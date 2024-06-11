@@ -1,1 +1,4 @@
-![[public/Afbeeldingen/Cheat_Sheet_Period_Caplin.jpg]]
+
+
+![[content/Afbeeldingen/Cheat_Sheet_Period_Caplin.jpg]]
+
