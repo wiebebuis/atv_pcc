@@ -20,9 +20,9 @@ In deze methode is in het begin de complexiteit gereduceerd.
 - idiomatic
 - sequencing (factor)
 
-De octaafregel komt in zijn geheel niet echt voor, wel worden karakteristieke segmenten ervan uitgelicht:
-Beweging van 1-5, en 5-8
-Beweging van 8-5 en 5-1
+De **Regel van het Octaaf** komt in zijn geheel niet echt voor, wel worden karakteristieke segmenten ervan uitgelicht:
+- Beweging van 1-5, en 5-8
+- Beweging van 8-5 en 5-1
 
 De **didactic ingredients** of a keyboard lesson (25):
 1. component **syntax** research (Hoe werkt deze component?)
@@ -33,7 +33,7 @@ De **didactic ingredients** of a keyboard lesson (25):
 6. **recomposition** and **emulation** of literature (Hoe gebruikte componist X deze component?)
 
 Components can be **altered** with regard to **length** and **shape** (27):
-1. Stretching and composing-out (walking bass by gapp-filling)
+1. Stretching and composing-out (walking bass by gap-filling)
 2. Compressing and cutting (play faster and cutting by deleting transitory chords)
 3. Merging (combineren door een overlappende toon te gebruiken tussen twee segmenten)
 4. Mixed alterations.
