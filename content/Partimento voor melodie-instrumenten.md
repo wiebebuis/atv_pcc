@@ -5,6 +5,10 @@ In de 18e eeuw vinden we het eerste werk over improvisatie voor een melodie-inst
 
 In de 19e eeuw is er *Die Kunst des Präludierens in 120 Beispielen* en de *Systematische Anleitung zum Fantasieren auf dem Pianoforte* van Carl Czerny (1791-1857).
 
+Zie de website van The Scroll Ensemble: https://www.thescrollensemble.com/nl/
+
+en hun YT-kanaal: https://www.youtube.com/@TheScrollEnsemble/featured
+
 
 
 
