@@ -7,6 +7,7 @@ https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.13738 (KB)
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13738](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13738)(Hanze)
 
+(Zie Zotero voor bronvermeldingen Improvisatie)
 
 MGG 
 Ernst Ferand - Die Improvisation
@@ -20,3 +21,5 @@ Ferand, E. T. (1958). Embellished “Parody Cantatas” in the Early 18th Centur
 Ernst Th. Ferand, & Broder, N. (1939). The “Howling in Seconds” of the Lombards: A Contribution to the Early History of Polyphony. _The Musical Quarterly_, _25_(3), 313–324. http://www.jstor.org/stable/738747
 
 https://www.criticalimprov.com/ open acces academic journal on improvisation.
+
+YT-Playlist Scrollensemble on Instruction Books and Treatises: https://www.youtube.com/playlist?list=PL8Zph-SkKedwLiEAyHetotVaMzt5Nb8Ug
