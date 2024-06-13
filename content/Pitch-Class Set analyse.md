@@ -4,7 +4,7 @@ Met deze theorie hebben we een stukje gereedschap in handen om op zoek te gaan n
 
 In het laatste geval verbinden we bijvoorbeeld het _akkoord_ Gm7 aan een _trap_ in een _toonsoort_ (II 7 in F) en een harmonische _functie_ (Subdominant). We zullen zien dat in niet-tonale/modale muziek er ook verbanden kunnen worden gelegd tussen toongroepen.
 
-**Pitch-classes**
+## Pitch-classes
 
 ![[pc_numbers_and_notenames.jpg]]
 
@@ -26,7 +26,7 @@ Uitgaande van 12 pitch-classes is het aantal mogelijke combinaties van tonen ein
 
 Namen van Pitch-Class Sets bestaan uit twee delen gescheiden door een koppelteken, bijvoorbeeld 3-11 of 4-27.
 
-Het eerste cijfer of getal geeft het _aantal_ pitch-classes aan. Het tweede is het getal van de plaats in de _lijst_ van pitch-class sets met dat betreffende aantal pitch-classes.
+Het eerste cijfer of getal geeft het _aantal_ pitch-classes aan, dit is het zogenaamde **cardinal numbe**r. Het tweede is het getal van de plaats in de _lijst_ van pitch-class sets met dat betreffende aantal pitch-classes.
 
 **Normal order**
 
