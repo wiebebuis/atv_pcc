@@ -20,8 +20,8 @@ Dus: geen magie hier. Gebruik je grijze cellen en de volgende tips:
 9. Gebruik **wildcards** in woorden (?) () om bijvoorbeeld verschillen in spelling te ondervangen 
 10. Lees **book reviews** om te bepalen of een boek interessant kan zijn voor jouw doel
 
-Eerste keuze voor encyclopedieën: 
-- Oxford Music Online (= GROVE),via hanze.nl en kb.nl
+Eerste keuze voor encyclopedieën/naslagwerken: 
+- Oxford Music Online (= GROVE), via hanze.nl en kb.nl
 - Encyclopaedia Britannica
 - Musik in Geschichte und Gegenwart (MGG) (magazijn PCC...)
 - De serie over **Music & Theatre** in Cambridge Histories Online (kb.nl)

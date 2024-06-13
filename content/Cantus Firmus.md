@@ -5,4 +5,5 @@ Het principe wordt uiteraard ook in latere eeuwen gebruikt; componisten die schr
 
 Een mooi voorbeeld is het Requiem van Maurice Duruflé (1902-1986), gebaseerd op gregoriaanse melodieën. In de introïtus wordt de volgende gregoriaanse melodie gebruikt als cantus firmus:
 ![[RequiemAeternamGregoriaansIncipit.jpg]]
+
 In het tweede deel (Kyrie) komt die cantus firmus ook in lange notenwaarden voor.
