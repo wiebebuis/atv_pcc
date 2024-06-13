@@ -6,6 +6,8 @@ In het laatste geval verbinden we bijvoorbeeld het _akkoord_ Gm7 aan een _tra
 
 **Pitch-classes**
 
+![[pc_numbers_and_notenames.jpg]]
+
 De pitch-class 0 staat voor alle mogelijke c's, de pitch-class 2 voor alle mogelijke d's, enzovoort.
 
 Pitch-class 1 staat voor cis of des onafhankelijk in welk octaaf.
