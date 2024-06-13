@@ -14,21 +14,27 @@ Muziek is zo'n **divers** verschijnsel dat we voor het analyseren ervan bijna no
 [[ANALYSE]]
 
 
+Losse opmerkingen:
 
 --> Nicolas Cook, Dunsby & Whitall, history of western music theory (CHO)
 Analysis (OMO)
 
 Erpf/Schmitz
 Schenker/Salzer
+LaRue 
 Pitchclass-set-analyse (Allen Forte)
 Harmonische analyse van
 majeur-/mineurtonaliteit in de periode 1680-1810
 romantische harmonie en tonaliteit (vanaf 1810)
-vrij atonale muziek
+vrij atonale muziek: Allen Forte
+atonale / seriële muziek: George Perle, 
+elektronische muziek?
 neo-tonale muziek
 post-tonale muziek
+Joel Lester - Analyic Approaches to  20th Century Music
+Jim Samson - Music in Transition
 ...
 Music Information Retrieval: Sonic Visualizer (Centre for Digital Music, Queen Mary University of London)
 Digital Musicology: music 21, Michael Scott Cuthbert
-Neo-Riemannian Harmony / Pantriadic Harmony: Cohn, Lehmann, Levine
+Romantische harmonie / Neo-Riemannian Harmony / Pantriadic Harmony: Cohn, Lehmann, Levine, Clark (Schubert), Samson (Chopin)
 Wiskunde en muziekanalyse: David Lewin, Allen Forte, Dmitri Tymoczko, 
