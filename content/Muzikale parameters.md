@@ -15,3 +15,5 @@ De parameters of deelgebieden van muzikale klank zijn de volgende:
 5. TOONLENGTE (articulatie)
 
 [[ANALYSE]]
+
+[[Beschrijven van klank (werkmodel)]]

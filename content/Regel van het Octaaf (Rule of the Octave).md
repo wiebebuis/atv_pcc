@@ -2,7 +2,6 @@ Een in de 18e eeuw ontstaan fenomeen. Het is een standaard akkoordopeenvolging o
 
 Elementen uit de regel van het octaaf komen terug in specifieke partimentopatronen. Bijvoorbeeld de dalende baslijn (4)-(3)-(2)-(1) vinden we in de [[Prinner]]. De (bijna complete) dalende toonladder in de baslijn vinden we terug in de [[Romanesca, stepwise]]. 
 
-
 https://www.earlymusicsources.com/youtube/theruleoftheoctave
 
 Voorbeeld (driestemmig) uit het boek van Job IJzerman:
@@ -20,3 +19,5 @@ Voorbeeld (vierstemmig) uit het boek van Job IJzerman:
 ![[hacopa example 6.42.mp3]]
 
 Zie ook [[Partimentopatronen (Galant Schemata)]].
+en
+[[PARTIMENTO]]

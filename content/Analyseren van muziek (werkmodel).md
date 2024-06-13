@@ -4,7 +4,7 @@ tags:
 ---
 Weten wat de hoofdzaken en bijzaken zijn in een stuk dat je speelt.
 
-Belangrijk, toch? Te vaak blijft studeren en spelen steken bij reproduceren. 
+Belangrijk, toch? Te vaak blijft studeren en spelen steken bij reproduceren. Als er gesproken wordt over muzikale middelen dan verwijst dat naar de manier waarop we (muzikale) klanken kunnen beschrijven: [[Beschrijven van klank (werkmodel)]].
 
 **Het krijgen van een overzicht** 
 

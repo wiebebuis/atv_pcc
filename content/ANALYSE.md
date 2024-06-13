@@ -13,6 +13,7 @@ Is "muziek met tekst" onderwerp van ons onderzoek, dan hebben we te maken met ee
 
 Bij analyse is het van belang aandacht te besteden aan de verschillende [[Luisterhoudingen]] waarmee we muziek tegemoet kunnen treden. Het vergelijken van verschillende uitvoeringen vraagt een andere mindset dan feitelijk waarnemen wat in de muziek gebeurt en willen weten hoe muziek "werkt". Een dirigent luistert vanuit zijn/haar rol anders naar een ensemble dan een speler. Soms is het überhaupt niet de bedoeling dat er echt gericht geluisterd wordt; bij muziek die bedoeld is als "akoestisch behang" bijvoorbeeld. Of muziek die gelegenheid biedt om erin te worden "ondergedompeld", zoals trance en minimal music.
 
+
 Een goed overzichtsartikel is te vinden in Oxford Music Online:
 [https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.41862](https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.41862)(KB)
 
