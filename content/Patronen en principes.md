@@ -48,7 +48,7 @@ Een **tendens** is niet wezenlijk anders dan een patroon; vaak gaat het hierbij 
 
 De manier waarop patronen en principes samenhangen kan worden geformuleerd in de vorm van een (overkoepelende) **theorie**. In de muziek zijn dergelijke theorieën vaak gekoppeld aan **disciplines** als harmonieleer, contrapunt, analyse.
 
-**Bestaande en/of ontstaande patronen?**
+## Bestaande en/of ontstaande patronen?
 
 Bestaande muziek leren "verstaan", weten hoe deze "werkt" is de gangbare benadering binnen het muziekvakonderwijs. Veel aandacht gaat uit naar het herkennen/begrijpen en werken met muzikale concepten van verschillende complexiteit.
 
