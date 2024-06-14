@@ -62,3 +62,5 @@ In muziek is variatie en verandering van patronen een essentieel kenmerk van muz
 
 Vergelijk Novak's definitie van concept: "a perceived regularity or pattern in events or objects, or records of events or objects, designated by a label". John D. Novak, _Learning, Creating and Using Knowledge._
 
+![[patronen - principes - theorieën NL.pdf]]
+
