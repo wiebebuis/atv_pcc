@@ -31,8 +31,7 @@ Desondanks is kwalitatief hoogwaardige informatie relatief gemakkelijk te verkri
 
 Er speelt echter ook een (maatschappelijk) **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. 
 
-Het is een (voor 
-mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
+Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
 (https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction".
 ## Conceptueel leren
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van **Conceptueel Leren** en  **PKM** (Personal Knowledge Management): 
@@ -41,7 +40,7 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 - **Principes** opsporen, 
 - **Betekenis** **geven** aan muziek (ook in relatie met andere kunsten).
 
-Leren draait om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. 
+Leren draait volgens mij om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. 
 
 Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik noem slechts vijf van tientallen boeken):
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren
