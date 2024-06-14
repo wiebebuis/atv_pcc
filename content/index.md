@@ -42,7 +42,7 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 
 Leren draait volgens mij om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. 
 
-Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik noem slechts vijf van tientallen boeken):
+Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik noem slechts zes van tientallen boeken):
 - John D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren) en het belang van taal daarbij (zelf verwoorden en opschrijven). Ahrens werd op zijn beurt weer geïnspireerd door Niklas Luhmann (1927-1998)
 - Carel van Parreren - *Leren door Handelen*
