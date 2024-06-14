@@ -1,4 +1,4 @@
-Is te zien een overzicht of een "kaart" van een kennisgebied of kennisdomein. 
+Is te zien als een overzicht of een "kaart" van een kennisgebied of kennisdomein. 
 Zo'n schema is een weerspiegeling van **concepten** en hun **relaties**.
 Zie ook [[Patronen en principes]], [[Concept]], [[Concept Map]].
 
