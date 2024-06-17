@@ -3,5 +3,5 @@ In algemene zin muziek die niet tonaal is. Dit kan echter bereikt worden op vers
 2. Het hanteren van een principieel ander toonhoogtesysteem dan tonaliteit, zoals [[Twaalftoonsmuziek]] of dodecafonie.
 
 Een voorbeeld van een vervolg op dodecafonie is het [[Serialisme (Seriële muziek)]].
-
+Zie ook [[Tonaliteit]] en [[Modaliteit]].
 

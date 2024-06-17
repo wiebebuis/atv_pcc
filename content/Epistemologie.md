@@ -1,3 +1,3 @@
 Ook wel kortweg kennisleer genoemd.
-Een tak van de filosofie die zich bezighoudt met de aard, oorsprong, beperkingen en geldigheid van menselijke kennis.
+Een tak van de filosofie die zich bezighoudt met de aard, oorsprong, beperkingen en geldigheid van menselijke kennis. 
 ...
