@@ -6,5 +6,6 @@ Hierin spreekt men ook wel van
 3. mentaal handelen
 
 Bron: Leren door handelen  - Carel van Parreren
+
 Andere belangrijke namen: Gal'perin, Vygotsky 
 ...

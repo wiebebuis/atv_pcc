@@ -1,0 +1,2 @@
+Betekent letterlijk een korte of kleine sonate. Het genre bloeide in de laat-klassieke tijd. Soms beschreven als een sonatevorm met geen of een minimale doorwerking. Belangrijke namen zijn:
+Clementi, Diabelli, Dussek en Kuhlau. Ook de beroemde Sonata Facile KV 545 is er een voorbeeld van. Na de romantische tijd zijn er redelijk veel sonatines gecomponeerd vaak als lesmateriaal voor piano. Beroemd zijn de sonatines van Bartók, Ravel, Busoni, Prokofiev, Pijper. In de 17e en vroege 18e eeuw werd deze naam ook gebruikt voor instrumentale introducties van bijvoorbeeld een suite.

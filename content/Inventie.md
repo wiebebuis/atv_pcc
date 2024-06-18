@@ -2,7 +2,7 @@ Hierbij gaat het om een relatief kort (meestal instrumentaal) werk in een tameli
 Inventio betekent letterlijk uitvinding of vondst en heeft in de retorica betrekking op het centrale onderwerp van een **betoog**. In muzikale zin gaat het dan om een **muzikaal idee** dat in een compositie uitgewerkt wordt. Zo'n idee werd door Zarlino eerder een [[Soggetto]] genoemd.
 
 Bachs 15 tweestemmige en 15 driestemmige inventies zijn de meest bekende voorbeelden van muzikale inventies.
-De tweestemmige worden eerst preambulum en later *inventio* genoemd, de driestemmige uiteindelijk *sinfonia*, maar daarvoor fantasia.
+De tweestemmige worden eerst *preambulum* en later *inventio* genoemd, de driestemmige uiteindelijk *sinfonia*, maar daarvoor *fantasia*.
 Ze zijn bedoeld als leerboek, geschreven voor Wilhelm Friedemann Bach. Gedateerd in de periode 1720-1723.
 
 Volgens de Anleitung zijn de inventios en sinfonias: composities waarmee liefhebbers van het klavier, maar in het bijzonder de leergierigen onder hen, een duidelijk voorbeeld wordt getoond om niet alleen

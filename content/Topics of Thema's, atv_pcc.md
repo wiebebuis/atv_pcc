@@ -2,7 +2,7 @@
 2. Oost West, thuis best.
 3. Muziek en emoties.
 4. Muziek als verhaal (referentialistisch en formalistisch; muziek voor films, games?).
-5. Waar zijn we? Lokaliseren, Oriënteren, Navigeren.
+5. Waar zijn we? Lokaliseren, Oriënteren, Navigeren in muziek.
 6. Wat is de clou? Waar draait het om? (Verwachtingen).
 7. Google maps en Music maps: kaarten & gebieden (musical grids).
 8. In de jury: Douze points? (Muziek beluisteren, vergelijken, waarderen, en beoordelen.)
