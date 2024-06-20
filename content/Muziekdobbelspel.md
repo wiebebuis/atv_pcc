@@ -1,4 +1,4 @@
-Ontstaan in de (late) 18e eeuw als gezelschapsspel en tijdverdrijf. Met dobbelstenen en een tabel met muziekfragmenten worden fragmenten aan elkaar geregen die samen een muziekstukje vormen.
+Ontstaan in de (late) 18e eeuw als gezelschapsspel en tijdverdrijf. Met dobbelstenen en een tabel met muziekfragmenten worden fragmenten aan elkaar geregen die samen een muziekstukje vormen. De Duitse term is **Musikalisches Würfelspiel**.
 
 Namen:
 1. Kirnberger, Johann Philipp

@@ -41,7 +41,7 @@ Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (100):
 4. Bass motions
 5. Scale mutations
 Per categorie wordt een aantal onderliggende onderwerpen behandeld:
-
+...
 ## Strobbe
 Zie [[Partimentopatronen (Tonal Tools, Lieven Strobbe)]]
 
