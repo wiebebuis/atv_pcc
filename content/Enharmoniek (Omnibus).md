@@ -1,7 +1,7 @@
 Drie patronen spelen een kenmerkende rol in dit fenomeen:
-1. een stemvoeringspatroon, waarbij bastonen (een opgevulde kleine terts) worden gespiegeld in een van de bovenstemmen
+1. een stemvoeringspatroon, waarbij bastonen (een opgevulde kleine terts) worden gespiegeld in één van de bovenstemmen
 2. een harmonisch patroon: een verminderd septiemakkoord dat fungeert als raamwerk waarbinnen deze stembewegingen plaatsvinden
-3. een centrale of centrumtoon (in dit geval de kwint van de geïmpliceerde tonica) die de centrale toon van de opgevulde terts is.
+3. een centrale of centrumtoon (in dit geval de dominanttoon) die de centrale toon van de opgevulde tertsen is.
 Dit geheel kan sequensmatig worden voortgezet, zoals in de voorbeelden getoond wordt.
 
 
