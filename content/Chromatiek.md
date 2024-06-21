@@ -52,7 +52,7 @@ Op vergelijkbare wijze met de chromatisch stijgende lijn in de bas (steeds een 6
 
 b2-1 in majeur en mineur (Np. 6) chromatische omspeling van de tonicatoon in een van de bovenstemmen.
 
-![[Neapolitan_Sixth02.jpeg|300]]
+![[Neapolitan Siixth02.jpeg|300]]
 
 Dalende leidtoon in de bas van (b)6-5: de akkoorden met een "overmatige sext":
 German 6th, French 6th, Italian 6th.
