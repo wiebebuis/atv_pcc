@@ -1,6 +1,15 @@
 Zie ook [[Partimentopatronen (Galant Schemata)]]
 **NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... :-(
 
+"A **schema** is a **prototype** of common patterns like blues, folia, Andalusian cadence."
+
+A **vocabulary element** is een akkoord (5C en 6C)
+
+Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
+
+**Applications** genereren **component variants**.
+
+
 **Lieven Strobbe** hanteert in *Tonal Tools* voor klavierspelers een eigen collectie van patronen die hij **componenten** noemt: 
 
 1. Tertia
@@ -16,9 +25,9 @@ Zie ook [[Partimentopatronen (Galant Schemata)]]
 In deze methode is in het begin de complexiteit gereduceerd.
 
 **Components** hebben een set of **applications**:
-- syntactical
-- idiomatic
-- sequencing (factor)
+- **syntactical** (23 stuks, zie pag. 22)
+- **idiomatic**: axe (R&R), classic (18th century), flamenco (Iberian), novecento (19e eeuws), ragtime (early jazz)
+- **sequencing** (factor): alla folia (changing mode), axenamor (3rd up), passo indietro (2nd down), passo romanesco (3rd down), passo tedesco (2nd up), cadenzante (5th down).
 
 De **Regel van het Octaaf** komt in zijn geheel niet echt voor, wel worden karakteristieke segmenten ervan uitgelicht:
 - Beweging van 1-5, en 5-8
