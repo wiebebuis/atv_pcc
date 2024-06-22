@@ -9,7 +9,6 @@ Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
 
 **Applications** genereren **component variants**.
 
-
 **Lieven Strobbe** hanteert in *Tonal Tools* voor klavierspelers een eigen collectie van patronen die hij **componenten** noemt: 
 
 1. Tertia
