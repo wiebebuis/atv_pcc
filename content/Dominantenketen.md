@@ -7,6 +7,7 @@ Voorbeeld:
 https://skole.nl/index.php?option=com_content&view=article&id=164:dominantenketen&catid=22&lang=nl-nl&Itemid=378
 
 IJzerman ex. 8.42
+Met dominantseptiemakkoorden.
 ![[ijzerman example 8.42.jpg]]
 voorbeeld a
 ![[hacopa example 8.42a.mp3]]

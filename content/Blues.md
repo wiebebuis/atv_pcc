@@ -1,5 +1,5 @@
 1. Een wereldlijk muziekgenre geworteld in Afro-Amerikaanse folk music, geëvolueerd in de zuidelijke Staten van de VS. Het vormt een integraal onderaal onderdeel van jazz, R&B, rock en in mindere mate country muziek. Blues is een "veelkoppig monster".
-2. In enge zin slaat het op een akkoordenschema dat herhaaldelijk wordt gebracht en waarbij wordt geïnproviseerd, bijvoorbeeld:
+2. In enge zin slaat het op een akkoordenschema dat herhaaldelijk wordt gebracht en waarbij/waarop wordt geïnproviseerd, bijvoorbeeld:
 
 
 ![[12 bar blues progression.gif]]

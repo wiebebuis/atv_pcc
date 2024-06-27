@@ -3,7 +3,7 @@ Zie ook [[Partimentopatronen (Galant Schemata)]]
 
 "A **schema** is a **prototype** of common patterns like blues, folia, Andalusian cadence."
 
-A **vocabulary element** is een akkoord (5C en 6C)
+A **vocabulary element** is een akkoord (5C en 6C, 1 3 5 en 1 3 6)
 
 Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
 
@@ -21,7 +21,7 @@ Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
 8. Passi
 9. Tiranno
 
-In deze methode is in het begin de complexiteit gereduceerd.
+In deze methode is in het begin de complexiteit gereduceerd. Het aantal onderverdelingen is wel erg talrijk... 
 
 **Components** hebben een set of **applications**:
 - **syntactical** (23 stuks, zie pag. 22)

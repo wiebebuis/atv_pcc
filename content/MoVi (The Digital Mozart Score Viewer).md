@@ -1,1 +1,13 @@
-https://dme.mozarteum.at/movi/en
+https://dme.mozarteum.at
+
+
+**Das Kernstück der _Digitalen Mozart-Edition_ (DME) bildet die _Digital-interaktive Mozart-Edition_ (DIME), die an der _Stiftung Mozarteum Salzburg_ (ISM) in Kooperation mit dem _Packard Humanities Institute_ (PHI) in Los Altos, Kalifornien/USA, erarbeitet wurde. Sie versteht sich als Nachfolgeprojekt der _Neuen Mozart-Ausgabe_ (NMA), die seit 1954 herausgegeben wurde und die seit 2006 als _NMA Online_ verfügbar ist. DIME basiert auf der NMA und respektiert deren über Generationen gewachsene wissenschaftliche Leistung, doch ist sie mit ihr weder im Inhalt noch im Erscheinungsbild identisch.**
+
+DIME ist eine volldigitale Edition, die mit dem offenen, XML-basierten Format der [_Music Encoding Initiative_](http://music-encoding.org/) (MEI) arbeitet, was die Dokumentation editorischer Entscheidungen erleichtert und die Aktualisierbarkeit der Edition nach neuesten wissenschaftlichen Erkenntnissen ermöglicht. Ein Visualisierungsprogramm überträgt den maschinenlesbaren XML-Code in reguläre Musiknotation. Dabei können alle Varianten und editorischen Eingriffe unmittelbar im Notentext sichtbar gemacht werden. Das in DIME verwendete Datenformat erlaubt eine auf die Bedürfnisse des Benutzers abgestimmte dynamische Anzeige des Notentexts einschließlich der Herstellung von Stimmenauszügen. Die layoutunabhängige Codierung wird nicht nur am Bildschirm dargestellt, sondern wird auch zur externen Nachnutzung in anderen Programmen bereitgestellt (Lizenz [CC BY SA NC 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)).
+
+DIME verfolgt für seine Editionen einen dualen Ansatz, bei dem zwei Arten von Texten angeboten werden:
+
+- Referenztext: Der Referenztext ist die retrodigitale Aufbereitung des musikalischen Textes der NMA, aktualisiert und angereichert für die Online-Anzeige. Der Referenztext basiert auf einer vollständigen Codierung der NMA durch PHI. Zudem wird er mit der _NMA Online_ zum Abgleich verschaltet.
+- Alternativtexte: Dabei handelt es sich um Neueditionen ausgewählter Werke, die nach bestimmten Kriterien ausgesucht wurden. Die Alternativtexte sind in der Regel Quelleneditionen, die auf einer einzigen Quelle basieren, und die den NMA-Referenztext ergänzen.
+
+Das für DIME entwickelte Web Interface, MoVi – _The Digital Mozart Score Viewer_, beruht auf dem von RISM-Schweiz entwickelten Programm [_Verovio_](https://www.verovio.org/) zur Visualisierung von digitalem Musik-Code. Es bietet eine Vielzahl von Funktionen und Optionen für die Navigation innerhalb der Musikedition und zu deren nutzerspezifischer Anzeige (für Details siehe das User Manual in MoVi).
