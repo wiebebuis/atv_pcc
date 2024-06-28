@@ -26,13 +26,14 @@ In de Graph-view is zichtbaar welke concepten met elkaar samenhangen, ook op det
 
 ## Waarom: De student en de behoefte aan PKM 
 Mijn overtuiging is dat de huidige studentengeneratie dringend behoefte heeft aan hulpmiddelen voor **P**ersonal **K**nowledge **M**anagement (PKM). Het informatielandschap is gigantisch uitgestrekt en gefragmenteerd, en de huidige maatschappij weerspiegelt helaas die fragmentatie en stimuleert oppervlakkigheid en vluchtigheid. Als gevolg van **ontlezing** en **smartphoneverslaving** zijn veel jongeren niet meer bereid en soms niet meer in staat iets langere teksten te verwerken. (Een A4tje lijkt al (te) veel te zijn, tegenwoordig...). Dat heeft onvermijdelijk gevolgen voor het vermogen tot begrijpend lezen, kritisch denken, argumenteren en redeneren.
-Tegelijkertijd is door de ontwikkeling van het internet de toegang tot digitale bronnen nog nooit zo gemakkelijk en laagdrempelig geweest. Maar het is tegelijkertijd een gemakkelijk toegankelijk wereldpodium voor dwazen, slechteriken en complotdenkers....
+Tegelijkertijd is door de ontwikkeling van het internet de toegang tot digitale bronnen nog nooit zo gemakkelijk en laagdrempelig geweest. Maar het is helaas ook een gemakkelijk toegankelijk wereldpodium voor dwazen, slechteriken en complotdenkers....
 Desondanks is kwalitatief hoogwaardige informatie relatief gemakkelijk te verkrijgen (voor wie bereid is, daar enige energie in te steken). Toch tiert de desinformatie welig, ook als het gaat om muziek-inhoudelijke zaken. 
 
 Er speelt echter ook een (maatschappelijk) **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. 
 
 Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
 (https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction".
+
 ## Conceptueel leren
 Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het gebied van **Conceptueel Leren** en  **PKM** (Personal Knowledge Management): 
 - **Concepten** leren kennen,  
