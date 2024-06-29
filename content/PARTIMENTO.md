@@ -10,15 +10,12 @@ De traditie is sterk verbonden met het 18e-eeuwse muziekonderwijs in Napels.
 Alhoewel de partimentotraditie sterk verbonden is aan muziek in Galante Stijl, zijn de schema's en patronen zo verankerd in de tonaliteit, dat ze lijken na te echoën in de 19e eeuw en zelfs in de 20e eeuw. Het gaat dan niet zozeer om de (naamhebbende) patronen zelf, maar bijvoorbeeld karakteristieke intervalpatronen en harmonische wendingen, die op een "romantische" manier kunnen worden ingekleurd. 
 **Job IJzerman** geeft daarvan een aantal voorbeelden in *Harmony, Counterpoint, Partimento*. Hetzelfde geldt voor *Tonal Tools* van **Lieven Strobbe**, waarin vanuit een eigen typologie  verbindingen naar klassiek-romantische muziek worden gelegd, maar ook naar jazz en popmuziek.  
 
-Must check: de site behorend bij het werk van Robert Gjerdingen: www.partimenti.org
+**Must check**: de site behorend bij het werk van Robert Gjerdingen, Monuments of Partimenti and Solfeggi: www.partimenti.org
 
 https://www.earlymusicsources.com/youtube/partimento
 [[Continuo (basso continuo)]]
 
 Zie ook: [[Partimentopatronen (Galant Schemata)]]
-
-en Gjerdingens Monuments of Partimenti and Solfeggi:
-https://web.archive.org/web/20160316180459/http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm
 
 De databases samengesteld door Peter van Tour: https://vantour.se/index.php#resources
 
