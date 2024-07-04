@@ -13,12 +13,12 @@ Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
 
 1. Tertia
 2. Quiescenza
-3. Scalino
-4. Lancia
-5. Cadenza
-6. Phantom Lancia
-7. Phantom Cadenza
-8. Passi
+3. Scalino: +1, -1: (7) (8), (2) (1), (4) (5), (6) (5)
+4. Lancia: +5: (1) (5)
+5. Cadenza: -5: (5) (1) (authentic cadence)
+6. Phantom Lancia: -5: (1) (4)
+7. Phantom Cadenza: +5: (4) (1) (plagal cadence)
+8. Passi: passo romanesco -3, p. indietro -1, p. tedesco +1
 9. Tiranno
 
 In deze methode is in het begin de complexiteit gereduceerd. Het aantal onderverdelingen is wel erg talrijk... 
@@ -29,8 +29,8 @@ In deze methode is in het begin de complexiteit gereduceerd. Het aantal onderver
 - **sequencing** (factor): alla folia (changing mode), axenamor (3rd up), passo indietro (2nd down), passo romanesco (3rd down), passo tedesco (2nd up), cadenzante (5th down).
 
 De **Regel van het Octaaf** komt in zijn geheel niet echt voor, wel worden karakteristieke segmenten ervan uitgelicht:
-- Beweging van 1-5, en 5-8
-- Beweging van 8-5 en 5-1
+- Beweging van 1-5, en 5-8: *ouverture* en *finale*
+- Beweging van 8-5 en 5-1: *reverence* en *sbarco*
 
 De **didactic ingredients** of a keyboard lesson (25):
 1. component **syntax** research (Hoe werkt deze component?)
