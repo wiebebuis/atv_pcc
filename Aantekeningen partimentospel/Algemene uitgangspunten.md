@@ -7,6 +7,8 @@ Beschouw improviseren met partimentopatronen als het rijgen van een **kralenkett
 - gewicht
 - ritme (danspatronen zoals menuet, sarabande, siciliano, gavotte, )
 - ...
+
+
 Al rijgend ontstaat de vorm. Soms is er een plan, soms niet... (wordt het een halsketting of een polsbandje?) en voor wie? Combineert het goed in de omgeving? Past het bijvoorbeeld bij de kleding en het postuur van de drager (LHBTIQMV)?
 
 Vertalen we dit in muzikale karakteristieken dan is de volgende (arbitraire) keuze van kralen/bouwstenen denkbaar. Men zou ze kunnen karakteriseren als muzikale "**gebaren**".
