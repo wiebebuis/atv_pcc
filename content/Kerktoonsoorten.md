@@ -10,5 +10,5 @@ Tegenwoordig worden de namen van de kerktoonsoorten gebruikt in de systematiek v
 ![[Afbeeldingen/glareanus 12 modes (OMO).gif]]
 
 De patronen van kerktoonsoorten spelen ook een rol in jazz theorie/harmonie/improvisatie; ze worden gebruikt als "mentale kapstok" bij improvisatie. In bijvoorbeeld majeur worden de 7 mogelijk rangschikkingen gekoppeld aan de labels van kerktoonsoorten. Hierbij duikt ook het fenomeen "lokrisch" op; het ladderpatroon dat loopt van 7-7. Door Glareanus werd dit patroon hyperaeolisch genoemd, maar hij nam deze uiteindelijk niet op in zijn systeem van 12 modi. 
-De term lokrisch komt wel voor in oude geschriften, maar er is geen bewijs dat het zou gaan om een equivalent van hyperaeolisch van Glareanus.
+De term lokrisch komt wel voor in oude geschriften, maar er is geen bewijs dat het zou gaan om een equivalent van hyperaeolisch van Glareanus. 
 
