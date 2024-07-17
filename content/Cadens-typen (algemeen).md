@@ -1,6 +1,18 @@
+Doorsnee vaak gebruikte indeling:
+- authentiek V-I
+- plagaal IV-I
+- volledig IV-V-I
+- bedrieglijk V-VI
+![[cadence types NL EN.png]]
+
+Uitgebreide of extended cadence: I-VI-IV-II-V-I. In mineur met II6 ipv II door de verminderde drieklank op II.
+![[uitgebreide_cadens.jpeg]]
+
+Uitgebreide cadens met Trugschluss gevolgd door definitieve afsluiting:
+![[uitgebreide_cadens_met_trugschluss.jpeg]]
 Caplin: PAC, IAC, HC, DC
 
-HACOPA (IJzerman): simple, compound, double, galant, neapolitan, discant.
+HACOPA (IJzerman): simple, compound, double, galant, neapolitan, discant. Half cadence.
 
 OMO (Grove): historisch overzicht van slotformules (in article Cadence); medial cadence, interrupted cadence, imperfect cadence, perfect cadence, plagal cadence, mixed cadence, radical cadence, phrygian cadence, authentic cadence, Landini cadence, 
 

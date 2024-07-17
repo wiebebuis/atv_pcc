@@ -3,9 +3,11 @@
 ## 2. De Octaafregel
 
 ## 3.  Furno
+Tien partimenti.
 
-De eerste zes partimenti elk in 4 toonsoorten.
+## 4. Rules of Insanguine
 
-## 4. Insanguine
+Examples (Esempie)
+## 5. Insanguine
 
 Zestien "simple partimenti".
