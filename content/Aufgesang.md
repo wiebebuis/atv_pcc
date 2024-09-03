@@ -1,1 +1,1 @@
-Zie [[Bar form (Ger. Barform)]]
+Zie [[Bar-vorm (Du. Barform)]]

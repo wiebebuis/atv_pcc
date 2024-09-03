@@ -1,0 +1,1 @@
+In de context van een [[Fuga]], een vaste tegenstem bij een thema-inzet, die vaak als omkeerbaar contrapunt is geschreven, d.w.z. dat het contrasubject zowel bovenstem als onderstem van een thema-inzet kan zijn.

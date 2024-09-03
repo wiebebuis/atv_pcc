@@ -1,4 +1,4 @@
-Van oorsprong een verhalend lied, ontstaan in de middeleeuwen.
+barVan oorsprong een verhalend lied, ontstaan in de middeleeuwen.
 
 Middeleeuws genre
 
