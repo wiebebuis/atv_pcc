@@ -2,3 +2,5 @@ De manier waarop afzonderlijke stemmen bewegen afgestemd op onderliggende patron
 [[HARMONIELEER]]
 [[CONTRAPUNT]]
 [[Dissonantbehandeling]]
+
+Bengrijke bron: compendium voice-leading patterns from the 17th & 18th century van Derek Remes: https://derekremes.com/wp-content/uploads/compendium_english.pdf

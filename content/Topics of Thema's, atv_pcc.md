@@ -1,4 +1,4 @@
-1. Wat hoor ik en waar zijn we? (muziek als geluid, geluid als muziek; kenmerken van (muzikale) klanken, patronen).
+1. Wat hoor ik en waar zijn we? (muziek als geluid, geluid als muziek; kenmerken van (muzikale) klanken, patronen). 
 2. Oost West, thuis best.
 3. Muziek en emoties.
 4. Muziek als verhaal (referentialistisch en formalistisch; muziek voor films, games?).
