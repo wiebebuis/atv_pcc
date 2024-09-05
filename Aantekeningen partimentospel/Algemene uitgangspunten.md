@@ -16,6 +16,7 @@ Vertalen we dit in muzikale karakteristieken dan is de volgende (arbitraire) keu
 3. Voortzettingspatronen
 4. Formule van "hogere orde" (vormtypen) zoals Romanesca, Folia, Fantasia, Dans, Fuga...
 
+Op deze wijze kunnen er allerlei verschillende voorbeelden van een Muzikale Rozenkrans ontstaan. We gaan nog even in op de analogie met de (katholieke) rozenkrans; een gebeds-snoer.
 ## Analogie met de rozenkrans
 De rozenkrans bestaat uit verschillende soorten kralen met verschillende functies en een crucifix.
 

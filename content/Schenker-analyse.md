@@ -2,4 +2,4 @@ Heinrich Schenker (1868-1935) gaat uit van de gedachte dat een compositie is geb
 Schenker-analyses zijn gelaagd: er wordt een onderscheid gemaakt tussen Vordergrund (de partituur), Mittelgrund en Hintergrund. 
 
 https://doi.org/10.1017/CHOL9780521623711.028
-(CHO)
+(CHO: met abonnement Koninklijke Bibliotheek )
