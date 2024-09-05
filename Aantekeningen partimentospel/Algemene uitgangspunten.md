@@ -8,15 +8,15 @@ Beschouw improviseren met partimentopatronen als het rijgen van een **kralenkett
 - ritme (danspatronen zoals menuet, sarabande, siciliano, gavotte, )
 - ...
 
-Al rijgend ontstaat de vorm. Soms is er een plan, soms niet... (wordt het een halsketting of een polsbandje? En voor wie? Combineert het goed in de omgeving? Past het bijvoorbeeld bij de kleding en het postuur van de drager (LHBTIQMV)?)
+Al rijgend ontstaat een vorm. Soms is er een plan, soms niet... (wordt het een halsketting of een polsbandje? En voor wie? Combineert het goed in de omgeving? Past het bijvoorbeeld bij de kleding en het postuur van de drager (LHBTIQMV)?) In muzikale termen: klopt de stijl die we willen realiseren/improviseren? 
 
-Vertalen we dit in muzikale karakteristieken dan is de volgende (arbitraire) keuze van kralen/bouwstenen denkbaar. Men zou ze kunnen karakteriseren als muzikale "**gebaren**".
+Vertalen we dit verder in muzikale karakteristieken van tonale muziek dan is de volgende (arbitraire) keuze van kralen/bouwstenen denkbaar. Men zou ze kunnen karakteriseren als muzikale "**gebaren**".
 1. Cadensformules: (tijdelijk) afsluitend of open (eindigend op dominant.
 2. Openingspatronen (in de literatuur wordt wel de vergelijking met een schaak-opening gemaakt; een gambiet)
 3. Voortzettingspatronen
 4. Formule van "hogere orde" (vormtypen) zoals Romanesca, Folia, Fantasia, Dans, Fuga...
 
-Op deze wijze kunnen er allerlei verschillende voorbeelden van een Muzikale Rozenkrans ontstaan. We gaan nog even in op de analogie met de (katholieke) rozenkrans; een gebeds-snoer.
+Op deze wijze kunnen er allerlei verschillende voorbeelden van een Muzikale Rozenkrans ontstaan. We gaan nog even in op de analogie met de (katholieke) rozenkrans; een gebeds-snoer. In het kader van de algemene ontwikkeling van een music nuttig; het aantal toonzettingen van onderdelen van de rozenkrans is legio... (credo, ave maria, gloria patri, pater noster).
 ## Analogie met de rozenkrans
 De rozenkrans bestaat uit verschillende soorten kralen met verschillende functies en een crucifix.
 
