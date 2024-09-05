@@ -39,3 +39,8 @@ IV THE BIG PICTURE
 25. What is music, anyway?
 26. Beneath improvisation
 
+Vergelijk ook met [[Handbuch der Systematische Musikwissenschaft 2 Musiktheorie]]. 
+
+
+
+
