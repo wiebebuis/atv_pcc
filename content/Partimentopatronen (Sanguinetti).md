@@ -1,4 +1,4 @@
-Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (100):
+Op basis van bronnenonderzoek komt Sanguinetti tot 5 categorieën (p. 100):
 1. Basic axioms and procedures
 2. Rule of the Octave
 3. Suspensions

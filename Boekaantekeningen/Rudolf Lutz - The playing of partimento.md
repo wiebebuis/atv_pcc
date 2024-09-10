@@ -34,10 +34,10 @@ Voorbeeld:
 - Vergelijk deze met de versie van de meester
 
 Het belang van een (persoonlijke) **Zibaldone** kan niet genoeg worden benadrukt.
-Wees niet bang om t "fiedelen", met loopjes, trillers, figuraties.
+Wees niet bang om te "fiedelen" met loopjes, trillers, figuraties.
 
 ### Figuren en motieven
-Durante geeft vaak diverse "modi" (manieren) om te werk te gaan).
+Durante geeft vaak diverse "modi" (manieren) om te werk te gaan.
 ![[Lutz example 11.png]]
 
 ### Contrapunt

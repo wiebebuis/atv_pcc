@@ -12,7 +12,7 @@ Al rijgend ontstaat een vorm. Soms is er een plan, soms niet... (wordt het een h
 
 Vertalen we dit verder in muzikale karakteristieken van tonale muziek dan is de volgende (arbitraire) keuze van kralen/bouwstenen denkbaar. Men zou ze kunnen karakteriseren als **muzikale gebaren**.
 1. Cadensformules: (tijdelijk) afsluitend of open (eindigend op dominant.
-2. Openingspatronen (in de literatuur wordt wel de vergelijking met een schaak-opening gemaakt; een gambiet)
+2. Openingspatronen (in de literatuur over partimento wordt wel de vergelijking met een schaak-opening gemaakt; een gambiet)
 3. Voortzettingspatronen
 4. Formules van "hogere orde" (vormtypen) zoals Romanesca, Folia, Fantasia, Dans, Fuga...
 

@@ -18,4 +18,4 @@ Gjerdingen (for schemas)
 van Tour (for link between 18th century partimenti and training in counterpoint and composition)
 IJzerman HACOPA integrated approach at college level.
 
-Daarnaast een aantal Franse 19e eeuwse lesboeken
+Daarnaast een aantal Franse 19e eeuwse lesboeken, zoals:
