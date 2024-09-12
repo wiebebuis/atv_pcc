@@ -8,4 +8,4 @@ HACOPA (IJzerman):
 - half cadence.
 
 driestemmige en vierstemmige versies.
-Zie Appendix II HACOPA.
+Zie [[Appendix II HACOPA.]]

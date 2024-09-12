@@ -10,7 +10,7 @@ Niet te verwarren met de solistencadens of [[Cadenza]].
 [[HARMONIELEER]]
 [[Cadens-typen (algemeen)]]
 
-In de onderstaande video van earlymusicsources.com wordt ingegaan op de contrapuntische oorsprong van cadensformules, in termen van stembewegingen (Cantizans, Altizans, Tenorizans, Bassizans).
+In de onderstaande video van earlymusicsources.com wordt ingegaan op de contrapuntische oorsprong van cadensformules, in termen van stembewegingen (Cantizans, Altizans, Tenorizans, Bassizans). Ook wordt ingegaan op de metrisch-ritmische varianten die kunnen voorkomen. Zie ook [[Cadenstypen (IJzerman)]].
 
 http://www.earlymusicsources.com/youtube/cadences
 
