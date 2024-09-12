@@ -1,2 +1,2 @@
-In algemene zin de wetenschap die zich bezighoudt met classificeren, het in categorieën onderbrengen van verschijnselen. Deze zijn bijna altijd hiërarchisch van opbouw.
+In algemene zin de wetenschap die zich bezighoudt met classificeren, het in categorieën onderbrengen van verschijnselen. Deze taxonomieën zijn bijna altijd hiërarchisch van opbouw.
 Belangrijk in de biologie (Linnaueus bijvoorbeeld). 

@@ -1,4 +1,3 @@
-
 Betekent letterlijk: blijde boodschap (van het Christelijk geloof).
 Verwijst naar leven, werk, dood en opstanding van Jezus Christus.
 

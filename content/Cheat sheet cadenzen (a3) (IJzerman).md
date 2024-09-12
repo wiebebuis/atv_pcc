@@ -4,7 +4,6 @@ simple (eenvoudig, authentiek)
 compound (eenvoudig/authentiek met 4-3 voorhouding)
 ![[ijzerman example 3.8.jpg]]
 compound met 65 en deceptive variant![[ijzerman example 3.12.jpg]]
-
 double (met dubbele leidtoon; en 53 64 54 53)
 ![[ijzerman example 3.17.jpg]]
 compound galant ()

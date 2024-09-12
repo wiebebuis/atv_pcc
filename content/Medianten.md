@@ -11,4 +11,4 @@ Het gebruik van consonante drieklanken in een chromatische toonruimte, zonder af
 *Audacious Euphony - Chromaticism and the Triad's Second Nature* (OUP, 2012). Hij introduceert de term [[Pan-triadic harmony]].
 
 Componisten die hiervan gebruik maken: Schubert, Fauré, Grieg, R. Strauss.
-Daarnaast wordt het veel gebruik in filmmuziek geworteld in de "Hollywood-traditie" sinds de dertiger jaren van de twintigste eeuw. Een 
+Daarnaast wordt het veel gebruik in filmmuziek geworteld in de "Hollywood-traditie" sinds de dertiger jaren van de twintigste eeuw. 

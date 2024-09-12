@@ -6,4 +6,5 @@ Andere vormen van parallelharmoniek vinden we bijvoorbeeld bij Debussy, Bartók 
 
 In de Bolero van Ravel vinden we een schrijfwijze waarbij de instrumenten worden gebruikt op dezelfde manier als orgelregisters; bovenstemmen die in (exact) gelijkblijvende intervallen meebewegen met een hoofdstem. 
 
+Lintharmonisatie voor secties in big band muziek.
 

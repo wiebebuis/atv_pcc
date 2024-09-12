@@ -2,7 +2,7 @@ Lamento is een muzikale stijlfiguur (ontstaan in de barok) die wordt gebruikt om
 
 - Bach: Crucifixus, uit Hohe Messe
 - Purcell: When I am laid in earth, uit Dido and Aeneas
-- Vivaldi: Stabat Mater, eerste deel.
+- Pergolesi: Stabat Mater, eerste deel.
 
 IJzerman Ex. 8.27
 ![[ijzerman example 8.27a.jpg]]
