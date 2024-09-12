@@ -4,8 +4,7 @@ HACOPA (IJzerman):
 - double, 
 - galant, 
 - neapolitan, 
-- discant. 
+- discant,
 - half cadence.
 
-driestemmige en vierstemmige versies.
-Zie [[Appendix II HACOPA.]]
+Voor een overzicht van twee-, drie- en vierstemmige versies, zie [[Appendix II HACOPA.]]
