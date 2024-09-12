@@ -26,4 +26,3 @@ Onderstaand een lijst van links naar video's die betrekking hebben op concepten 
 - Basso continuo in Italy 1650-1700 http://www.earlymusicsources.com/youtube/bc-1650-1700
 - Renaissance tuning and temperament (I and II) http://www.earlymusicsources.com/youtube/tuning-and-temperaments-in-the-renaissance
 - Early basso continuo ca. 1600-1650 http://www.earlymusicsources.com/youtube/early-basso-continuo
-- 

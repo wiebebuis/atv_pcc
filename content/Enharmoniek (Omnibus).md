@@ -14,4 +14,6 @@ IJzerman ex. 9.38 (descending)
 
 Relatie met de octatonische toonladder
 IJzerman ex. 9.40
-
+![[ijzerman example 9.40.jpg]]
+De hier weergegeven toonladder is een van de twee mogelijke versies, beginnen met een hele toonsafstand, beginnen kan ook met een halve toonsafstand. 
+Zie ook [[Octatoniek]].
