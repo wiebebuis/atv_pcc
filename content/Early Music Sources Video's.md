@@ -2,7 +2,7 @@ Onderstaand een lijst van links naar video's die betrekking hebben op concepten 
 
 - The Neapolitan https://www.earlymusicsources.com/youtube
 - Variations J.P. Sweelincks Mein junges Leben https://www.earlymusicsources.com/youtube/meinjunges
-- Burmeister and rhetorical fugures https://www.earlymusicsources.com/youtube/burmeister
+- Burmeister and rhetorical figures https://www.earlymusicsources.com/youtube/burmeister
 - Partimento https://www.earlymusicsources.com/youtube/partimento
 - Gesualdo (chromaticism en enharmonicism) https://www.earlymusicsources.com/youtube/gesualdo
 - Ricercar (Sweelinck R. del non tono) https://www.earlymusicsources.com/youtube/sweelinckricercar
@@ -10,3 +10,20 @@ Onderstaand een lijst van links naar video's die betrekking hebben op concepten 
 - Rule of the octave https://www.earlymusicsources.com/youtube/theruleoftheoctave
 - Iconography https://www.earlymusicsources.com/youtube/iconography
 - Hexachord Fantasia Sweelinck https://www.earlymusicsources.com/youtube/sweelinckfantasia
+- Early word painting https://www.earlymusicsources.com/youtube/earlywordpainting
+- The art of diminution https://www.earlymusicsources.com/youtube/diminutions
+- Temperaments https://www.earlymusicsources.com/youtube/temperaments
+- Cadenza doppia https://www.earlymusicsources.com/youtube/cadenzadoppia
+- Enharmonicism: Cavalieri https://www.earlymusicsources.com/youtube/cavalieri
+- Musica ficta https://www.earlymusicsources.com/youtube/ficta
+- Tactus and proportions around 1600 http://www.earlymusicsources.com/youtube/tactus1600
+- Romanesca http://www.earlymusicsources.com/youtube/romanesca
+- Solmization http://www.earlymusicsources.com/youtube/solmization
+- Modes in the 16th and 17th centuries http://www.earlymusicsources.com/youtube/modes
+- Cadences in the 16th and 17th centuries http://www.earlymusicsources.com/youtube/cadences
+- Just intonation in the Renaissance http://www.earlymusicsources.com/youtube/justintonation
+- Durum and Molle in the Renaissance http://www.earlymusicsources.com/youtube/durum-and-molle
+- Basso continuo in Italy 1650-1700 http://www.earlymusicsources.com/youtube/bc-1650-1700
+- Renaissance tuning and temperament (I and II) http://www.earlymusicsources.com/youtube/tuning-and-temperaments-in-the-renaissance
+- Early basso continuo ca. 1600-1650 http://www.earlymusicsources.com/youtube/early-basso-continuo
+- 
