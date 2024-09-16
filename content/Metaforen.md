@@ -1,0 +1,1 @@
+Als we praten over muziek, spelen analogieën en metaforen een belangrijke rol
