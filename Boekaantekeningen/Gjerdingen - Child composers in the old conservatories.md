@@ -8,7 +8,7 @@ Fenaroli six books of partimenti
 For younger teens:
 after Furno and first 4 books of fenaroli:
 
-partimenti of Durante(elaboration of movimenti) and Leo (implied counterpoint)
+partimenti of Durante (elaboration of movimenti) and Leo (implied counterpoint)
 
 Fenaroli Regole book 3 (as introduction to counterpoint)
 

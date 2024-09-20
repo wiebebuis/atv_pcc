@@ -20,6 +20,7 @@ In de 20e eeuw zijn er componisten die pitch-systems tot een kenmerk van hun per
 - Vrije atonaliteit (Schoenberg)
 - Octatonische harmonie/tonaliteit (Rimsky-Korsakov, Stravinsky, Pijper )
 - Hervonden diatoniek (Pärt)
+- twaaltoonsmuziek of dodecafonie
 - ...
 
 Zie ook:[[HARMONIE]]
