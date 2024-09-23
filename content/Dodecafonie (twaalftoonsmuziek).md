@@ -1,9 +1,14 @@
-Muziek die een [[Twaalftoonsreeks]] als achterliggend ordeningsprincipe van het tonenmateriaal hanteert.
+Muziek die een [[Twaalftoonsreeks]] als achterliggend ordeningsprincipe van het toonmateriaal hanteert.
 Van deze reeks worden in de praktijk de volgende vormen onderscheiden:
-N van Normal (soms ook P van Prime)
-R van Retrograde
-I van Inversion
-RI van Retrograde Inversion.
+- N van Normal (soms ook P van Prime)
+- R van Retrograde
+- I van Inversion
+- RI van Retrograde Inversion.
+In het Nederlands zijn de volgende etiketten gebruikelijk:
+- N van Normaal
+- K van Kreeft
+- O van Omkering
+- KO Kreeft van Omkering.
 Daarnaast kunnen deze vormen in getransponeerde vorm voorkomen, waarbij een tranpositiegetal wordt gehanteerd in aantallen halve toonsafstanden.
 Ook zijn permutaties en rotaties mogelijk.
 Coderingen variëren in de literatuur nogal. 

@@ -21,7 +21,7 @@ Een **syntactic component** is een akkoordvolgorde (van 2 akkoorden?).
 8. Passi: passo romanesco -3, p. indietro -1, p. tedesco +1
 9. Tiranno
 
-In deze methode is in het begin de complexiteit gereduceerd. Het aantal onderverdelingen is wel erg talrijk... 
+In deze methode is in het begin de complexiteit gereduceerd. Het aantal onderverdelingen is echter wel erg talrijk...  
 
 **Components** hebben een set of **applications**:
 - **syntactical** (23 stuks, zie pag. 22)
