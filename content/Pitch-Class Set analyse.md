@@ -56,7 +56,7 @@ na 6 halve toonsafstanden (3 hele toonsafstanden), een tritonus dus(!) volgt de 
 
 Deze 6 interval-classes worden gebruikt om mogelijke _interval-class combinaties_ aan te geven van een pitch-class set, de _Interval Vector, geplaatst tussen < >._
 
-De interval vector bestaat uit 6 cijfers op 6 "posities", bijvoorbeeld <002001> behorend bij pc-set 3-11, die we kennen als de verminderde drieklank.
+De interval vector bestaat uit 6 cijfers op 6 "posities", bijvoorbeeld <002001> behorend bij pc-set 3-11, die we kennen als de verminderde drieklank:
 
 - positie 1: kleine sekonde: 0 maal mogelijk
 - positie 2: grote sekonde: 0 maal mogelijk

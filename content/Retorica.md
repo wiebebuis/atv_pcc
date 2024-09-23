@@ -20,7 +20,7 @@ Vanaf ongeveer 1600 zijn principes van de retorica verweven met muziek:
 - Kircher neemt het onderdeel Musurgia rhetorica op in zijn Musurgia universalis (1650), Heinichen breidt de analogie met de retorica uit door het presenteren van loci topici (Der General-Bass in der Composition, 1728)
 - Mattheson geeft weer een aanvulling op Heinichen van dit gezichtspunt (Der volkommene Capellmeister, 1739)
 
-Verder is de **figurenleer** belangrijk (zie ook het overzichtswerk van Bartel - Musica Poetica: Musical-Rhetorical Figures in German Baroque Music, 1997). Datzelfde geldt voor **Affectenleer**; de relatie met de opkomst van de opera en de "dramatische madrigalen" van Monteverdi, Gesualdo, Marenzio is overduidelijk.
+Verder is de **figurenleer** belangrijk (zie ook het overzichtswerk van Bartel - Musica Poetica: Musical-Rhetorical Figures in German Baroque Music, 1997). Datzelfde geldt voor **Affectenleer**; de relatie met de opkomst van de opera en de "dramatische madrigalen" van Monteverdi, Gesualdo, Marenzio is voor de hand liggend.
 
 Zie ook [[Septem Artes Liberales]].
 
