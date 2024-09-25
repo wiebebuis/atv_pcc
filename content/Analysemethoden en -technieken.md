@@ -7,10 +7,6 @@ Muziek is zo'n **divers** verschijnsel dat we voor het analyseren ervan bijna no
 
 ...
 
-
-
-
-
 [[ANALYSE]]
 
 
