@@ -4,3 +4,5 @@ In de muzikale praktijk (meer specifiek het contrapunt) werd de reine kwart lang
 **Akoestisch** gezien is het interval instabiel: op basis van de verschiltoon.
 g1-c2 (verhouding 3:4) heeft als verschiltoon 1, een c. De bovenste toon van het interval wordt versterkt. Het interval is "topzwaar".
 c1-g1 (verhouding 2:3) heeft als verschiltoon ook 1, een c. De laagste toon wordt versterkt.
+
+Zie ook [[Consonantie en dissonantie]]
