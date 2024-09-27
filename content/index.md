@@ -11,7 +11,7 @@ Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onder
 
 Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik niet echt bruikbaar; ik ben nog op zoek naar een oplossing/verbetering. 
 
-Als ik in een wat langer item paragraaftitels heb opgenomen san worden die zichtbaar in een table of contents rechts in het venster.
+Als ik in een wat langer item paragraaftitels heb opgenomen dan worden die zichtbaar in een table of contents rechts in het venster.
 
 Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendelijk dan die van Obsidian. Ik heb toch voor deze optie gekozen om financiële redenen; Obsidian Publish kost ook weer € 12,50 per maand. Maar Quartz is denk ik goed genoeg om een indruk te krijgen van het idee achter **concepten** en hun **relaties**. 
 
