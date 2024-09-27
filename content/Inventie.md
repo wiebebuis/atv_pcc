@@ -19,7 +19,7 @@ Algemene aandachtspunten bij analyse van Bach inventies:
 - Er is een harmonisch plan, er wordt (dus) gemoduleerd.
 - Modulaties vinden plaats naar verwante toonsoorten.
 - Motieven en varianten daarvan spelen een belangrijke rol bij de vormgeving; langere thema's vinden we eigenlijk niet.
-- Wat centraal staat is het demonstreren van creativiteit en variëteit op basis van één muzikaal idee. Dat doet weer denken aan het humanistisch esthetische ideaal van [[**varietas**]].
+- Wat centraal staat is het demonstreren van creativiteit en variëteit op basis van één muzikaal idee. Dat doet weer denken aan het humanistisch esthetische ideaal van **[[Varietas]]**.
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13877](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13877)(Hanze)
 
