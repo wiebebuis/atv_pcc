@@ -1,5 +1,5 @@
 Hierbij gaat het om een relatief kort (meestal instrumentaal) werk in een tamelijk vrije vorm. Deze vrijheid heeft te maken met het etiket, dat afkomstig is van het latijnse *inventio*: het is een term uit de retorica, die in de Renaissance ook opduikt in verhandelingen over muziek.
-Inventio betekent letterlijk uitvinding of vondst en heeft in de retorica betrekking op het centrale onderwerp van een **betoog**. In muzikale zin gaat het dan om een **muzikaal idee** dat in een compositie uitgewerkt wordt. Zo'n idee werd door Zarlino eerder een [[Soggetto]] genoemd.
+**Inventio** betekent letterlijk **uitvinding** of **vondst** en heeft in de retorica betrekking op het centrale onderwerp van een **betoog**. In muzikale zin gaat het dan om een **muzikaal idee** dat in een compositie uitgewerkt wordt. Zo'n idee werd door Zarlino eerder een [[Soggetto]] genoemd.
 
 Bachs 15 tweestemmige en 15 driestemmige inventies zijn de meest bekende voorbeelden van muzikale inventies.
 De tweestemmige worden eerst *preambulum* en later *inventio* genoemd, de driestemmige uiteindelijk *sinfonia*, maar daarvoor *fantasia*.
@@ -19,7 +19,7 @@ Algemene aandachtspunten bij analyse van Bach inventies:
 - Er is een harmonisch plan, er wordt (dus) gemoduleerd.
 - Modulaties vinden plaats naar verwante toonsoorten.
 - Motieven en varianten daarvan spelen een belangrijke rol bij de vormgeving; langere thema's vinden we eigenlijk niet.
-- Wat centraal staat is het demonstreren van creativiteit en variëteit op basis van één muzikaal idee. Dat doet weer denken aan het humanistisch esthetische ideaal van **varietas**.
+- Wat centraal staat is het demonstreren van creativiteit en variëteit op basis van één muzikaal idee. Dat doet weer denken aan het humanistisch esthetische ideaal van [[**varietas**]].
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13877](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.13877)(Hanze)
 
