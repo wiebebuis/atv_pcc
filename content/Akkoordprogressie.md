@@ -1,5 +1,5 @@
 Een samenhangende opeenvolging van akkoorden met een muzikaal/artistiek doel.
-Dat kan een [[Cadens]] zijn, maar ook:
+Dat kan een [[Cadens]] zijn, maar ook een harmonisch schema:
 
 Bijvoorbeeld de akkoordvolgorde van de Folia:
 Afbeelding uit IJzerman.

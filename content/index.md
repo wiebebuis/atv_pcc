@@ -34,7 +34,7 @@ Desondanks is kwalitatief hoogwaardige informatie relatief gemakkelijk te verkri
 
 Er speelt echter ook een (maatschappelijk) **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. 
 
-Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken 
+Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken.
 (https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction". 
 
 ## Conceptueel leren
@@ -59,7 +59,7 @@ In de westerse samenlevingen hebben we de afgelopen decennia een **verschuiving*
 
 Iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn soms heel  bruikbaar.
 
-Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de Excalidraw plugin in combinatie met Obsidian canvas goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
+Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de **Excalidraw** plugin in combinatie met Obsidian **canvas** goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
 
 ## Technische info
 Deze "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
