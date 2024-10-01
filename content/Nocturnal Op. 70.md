@@ -10,6 +10,16 @@ Orkestrale nocturnes: Mendelssohn, Bizet(!), Debussy (Trois Nocturnes, Fêtes). 
 Britten had al eerder een Nocturne gecomponeerd:
 - in Serenade for tenor, horn and strings (Op. 31)
 - Nocturne voor 7 instrumenten en tenor (Op. 60)
-
 ## Piano
-Britten was pianist, componist en dirigent. Speelde ook altviool (net als Frank Bridge, zijn leraar voor compositie). Hij zal dus bekend zijn geweest met courante pianomuziek.
+Britten was pianist, componist en dirigent. Hij zal dus bekend zijn geweest met courante pianomuziek. Hij speelde ook altviool (net als Frank Bridge, zijn leraar voor compositie). 
+
+## De compositie
+Er zijn 8 delen, waarvan het laatste deel (Passacaglia) uitmondt in het lied van Dowland, Come heavy sleep, nr XX uit The First Booke of Songes or Ayres (1597).
+
+## Dowland
+Johan Dowland (1563-1626), componist en luitspeler. Was vooral actief op het Europese continent, hij kreeg in Engeland maar moeilijk een voet aan de grond. 
+## Context rond Dowland
+Zij leven speelt zich af in de laatste decennia van de Tudor-tijd (onder koningin Elisabeth I tot 1603), en de eerste jaren van het huis Stuart, onder Jacobus I, die reeds als Jacobus VI konjng van Schotland was). Tijdgenoten: William Byrd, Orlando Gibbons, Thomas Weelkes, 
+Het is voor Engeland zeer roerige tijd na de regering van Henry VIII.
+
+Schrijvers: Willam Shakespeare, Christopher Marlowe
