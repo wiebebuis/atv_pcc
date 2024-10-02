@@ -6,15 +6,15 @@ tags:
 
 1. **Maak voorlopige aantekeningen (fleeting notes)**
 
-Zorg ervoor dat je altijd iets bij de hand hebt om op te schrijven om elk idee vast te leggen dat in je opkomt. Maak je niet te druk over hoe je het vastlegt. Het zijn voorlopige aantekeningen, geheugensteuntjes van wat er in je hoofd zit. Ze moeten je niet afleiden. Berg ze op één plaats op, een soort "inbox" en verwerk ze later. Een simpel notitieboekje volstaat, maar ook een willekeurig papiertje zoals een servet, de achterkant van een rekening kan. Ook inspreken op je smartphone kan prima.
+Zorg ervoor dat je altijd iets bij de hand hebt om op te schrijven om elk idee vast te leggen dat in je opkomt. Maak je niet te druk over hoe je het vastlegt. Het zijn voorlopige aantekeningen, geheugensteuntjes van wat er in je hoofd zit. Ze moeten je niet afleiden. Berg ze op één plaats op, een soort "inbox" en **verwerk** ze later. Een simpel notitieboekje volstaat, maar ook een willekeurig papiertje zoals een servet, de achterkant van een rekening kan. Ook inspreken op je smartphone kan prima.
 
 2. **Maak literatuur-aantekeningen (literature notes)**
 
-Maak altijd wanneer je iets leest, aantekeningen over de inhoud. Schrijf op wat je niet wilt vergeten of wat je wilt vastleggen voor later denken of schrijven. Houd het zeer kort, wees selectief, en gebruik je eigen woorden. Wees extra voorzichtig met citaten - kopieer en plak ze niet alleen, want daarmee sla je de stap over om echt te begrijpen wat de betekenis is. Bewaar deze aantekeningen samen met je bibliografische info op één plaats - je referentiesysteem.
+Maak altijd wanneer je iets leest, aantekeningen over de inhoud. Schrijf op wat je niet wilt vergeten of wat je wilt vastleggen voor later denken of schrijven. Houd het zeer kort, wees selectief, en gebruik je eigen woorden. Wees extra voorzichtig met citaten - kopieer en plak ze niet alleen, want daarmee sla je de stap over om echt te begrijpen wat de betekenis is. **Bewaar** deze aantekeningen samen met je bibliografische info op één plaats - je referentiesysteem.
 
 3. **Maak permanente aantekeningen (permanent notes)**
 
-Ga nu naar je kaartsysteem (analoog of digitaal). Bekijk alle aantekeningen die je hebt gemaakt in stap een en twee (doe dit idealiter elke dag en voordat je vergeet wat je ermee bedoelt) en denk na over hun relatie met je onderzoek, denken of interesses. Dit kun je ook later doen met je kaartsysteem - daar zit immers alleen materiaal in dat je toch al interesseert. Het idee is niet het verzamelen op zich, maar het ontwikkelen van ideeën, argumenten en discussies. Weerspreekt, corrigeert, ondersteunt deze informatie wat je al hebt (in de kaartenbak of in je brein) of is het een aanvulling? Wat voor vragen komen bij je op? Schrijf één aantekening voor elk idee en stel je voor dat je schrijft voor iemand anders: schrijf volledige zinnen, deel je bronnen, leg relaties en probeer zo precies, kort en duidelijk te zijn als mogelijk. Gooi de voorlopige aantekeningen van stap één weg en sla de literatuur-aantekeningen op in je referentiesysteem. Je kunt ze nu vergeten. Alles wat van belang is gaat in je kaartsysteem.
+Ga nu naar je **kaartsysteem** (analoog of digitaal). Bekijk alle aantekeningen die je hebt gemaakt in stap een en twee (doe dit idealiter elke dag en voordat je vergeet wat je ermee bedoelt) en denk na over hun **relatie** met je onderzoek, denken of interesses. Dit kun je ook later doen met je kaartsysteem - daar zit immers alleen materiaal in dat je toch al interesseert. Het idee is niet het verzamelen op zich, maar het ontwikkelen van ideeën, argumenten en discussies. Weerspreekt, corrigeert, ondersteunt deze informatie wat je al hebt (in de kaartenbak of in je brein) of is het een aanvulling? Wat voor vragen komen bij je op? Schrijf één aantekening voor elk idee en stel je voor dat je schrijft voor iemand anders: schrijf volledige zinnen, deel je bronnen, leg relaties en probeer zo precies, kort en duidelijk te zijn als mogelijk. Gooi de voorlopige aantekeningen van stap één weg en sla de literatuur-aantekeningen op in je referentiesysteem. Je kunt ze nu vergeten. Alles wat van belang is gaat in je kaartsysteem.
 
 4. **Voeg je permanente aantekeningen toe aan je kaartsysteem door:** 
 
@@ -37,7 +37,7 @@ Volsta niet met simpelweg kopiëren van je aantekeningen. Vertaal ze in iets sam
 
 8. **Redigeer en proeflees je product.**
 
-Geef jezelf een schouderklopje en ga door naar je volgende project."
+"Geef jezelf een schouderklopje en ga door naar je volgende project."
 
 _How to take smart notes: one simple technique to boost writing learning and thinking_ (Revised and expanded edition. 2nd). (2022). Sönke Ahrens.
 
@@ -49,6 +49,6 @@ Check ook:
 
 [https://www.soenkeahrens.de/s/22-Appendix-1.pdf](https://www.soenkeahrens.de/s/22-Appendix-1.pdf)
 
-[https://www.soenkeahrens.de/s/2022-HTTSN-Preview.pdf](https://www.soenkeahrens.de/s/2022-HTTSN-Preview.pdf)
+[https://www.soenkeahrens.de/s/2022-HTTSN-Preview.pdf]
 
 [https://www.obsidian.md](https://www.obsidian.md/)

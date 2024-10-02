@@ -19,6 +19,7 @@ Helaas is de graph view van Quartz veel minder inzichtelijk en gebruiksvriendeli
 ![[graph view 20240603.png]]
 
 Natuurlijk is dit niet nieuw: Het ontwerp van de 15e editie van de **Encyclopaedia Britannica** (1974) geeft al blijk van inzicht in het belang van het leggen van **verbindingen** bij **kennisconstructie**. Dit wordt goed uitgelegd in de [[Britannica Propaedia]] van deze encyclopedie. 
+
 ## Obsidian
 Obsidian (www.obsidian.md) is een tool voor het maken van aantekeningen voor PKM (Personal Knowledge Management), terwijl je aan het lezen, kijken, luisteren, studeren bent. Het is gereedschap om in de ontplofte confettifabriek die de wereld (inclusief internet) langzamerhand is geworden, staande te blijven, en zaken die van belang zijn op te sporen, vast te leggen, in een context  te plaatsen en te kunnen (her)gebruiken. Het is te vergelijken met wat tegenwoordig wel een [[Digital garden]] wordt genoemd.
 
@@ -32,7 +33,7 @@ Mijn overtuiging is dat de huidige studentengeneratie dringend behoefte heeft aa
 Tegelijkertijd is door de ontwikkeling van het internet de toegang tot digitale bronnen nog nooit zo gemakkelijk en laagdrempelig geweest. Maar het is helaas ook een gemakkelijk toegankelijk wereldpodium voor dwazen, slechteriken en complotdenkers....
 Desondanks is kwalitatief hoogwaardige informatie relatief gemakkelijk te verkrijgen (voor wie bereid is, daar enige energie in te steken). Toch tiert de desinformatie welig, ook als het gaat om muziek-inhoudelijke zaken. 
 
-Er speelt echter ook een (maatschappelijk) **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. 
+Er speelt echter ook een (maatschappelijk) **attitude**-probleem: Alles "moet" tegenwoordig snel, gemakkelijk, kort, niet te moeilijk, niet te kritisch. Dat heeft onvermijdelijk invloed op (studeer)gedrag en leeruitkomsten. Het "snipper-klikken" (het lukraak van hot naar her klikken, zonder doel of vraagstelling) en "kopiëren-plakken" viert hoogtij. Daarom ontstond het idee van deze kennisplek, gemaakt met Obsidian. Lees ook het item over 
 
 Het is een (voor mij logische) volgende stap na een periode met een "ouderwetse" website (www.skole.nl). Er is inmiddels ook een "zandbak" site met voorbeelden van mogelijke interactieve opgaven en instructievideo's voor partimentogerelateerde zaken.
 (https://h5p.skole.nl).  Het bouwt voort op de gedachten achter de invulling van Contextuele Studies. Dat draaide (kort gezegd) om onderzoekend bezig zijn met muziek geplaatst in haar context. Dit alles is uiteraard voortdurend "under construction". 
