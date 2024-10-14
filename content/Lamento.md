@@ -1,4 +1,4 @@
-Lamento is een muzikale stijlfiguur (ontstaan in de barok) die wordt gebruikt om rouw, verdriet of lijden muzikaal uit te beelden. Toegepast in mineurtoonsoorten. Beroemde lamenti vinden we bij:
+Lamento is een muzikale stijlfiguur (ontstaan in de barok) die wordt gebruikt om rouw, verdriet of lijden muzikaal uit te beelden. Toegepast in mineurtoonsoorten. Kenmerken is de dalende chromatische beweging in de baslijn van (8) naar (5). Beroemde lamenti vinden we bij:
 
 - Bach: Crucifixus, uit Hohe Messe
 - Purcell: When I am laid in earth, uit Dido and Aeneas

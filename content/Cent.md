@@ -3,4 +3,4 @@ Elke halvetoonsafstand wordt op 100 cents gesteld en is een afspiegeling van de 
 Een afstand van een rein octaaf bedraagt 1200 cents.
 
 **N.B.** Bedenk wel dat in de evenredige zwevende temperatuur het octaaf het enige interval is, dat rein wordt gestemd.
-
+[[Stemming]]

@@ -12,3 +12,5 @@ Het gebruik van consonante drieklanken in een chromatische toonruimte, zonder af
 
 Componisten die hiervan gebruik maken: Schubert, Fauré, Grieg, R. Strauss.
 Daarnaast wordt het veel gebruik in filmmuziek geworteld in de "Hollywood-traditie" sinds de dertiger jaren van de twintigste eeuw. 
+
+[[HARMONIE]]
