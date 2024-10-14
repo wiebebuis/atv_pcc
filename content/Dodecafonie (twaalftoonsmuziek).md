@@ -9,8 +9,8 @@ In het Nederlands zijn de volgende etiketten gebruikelijk:
 - K van Kreeft
 - O van Omkering
 - KO Kreeft van Omkering.
-Daarnaast kunnen deze vormen in getransponeerde vorm voorkomen, waarbij een tranpositiegetal wordt gehanteerd in aantallen halve toonsafstanden.
-Ook zijn permutaties en rotaties mogelijk.
+Daarnaast kunnen deze vormen in getransponeerd voorkomen, waarbij een **tranpositiegetal** wordt gehanteerd in aantallen halve toonsafstanden.
+Ook zijn **permutaties** en **rotaties** mogelijk.
 Coderingen variëren in de literatuur nogal. 
 Hoewel de "uitvinding" van de dodecafonie lange tijd aan Arnold Schoenberg werd toegeschreven, is Josef Matthias Hauer (1883-1959) de bedenker van dit ordeningssysteem.
 

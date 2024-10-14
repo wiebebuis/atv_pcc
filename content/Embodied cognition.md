@@ -7,3 +7,5 @@ Daarom is embodied cognition ook verbonden met de [[Fenomenologie]].
 Belangrijke namen:
 Lawrence Shapiro: Embodied Cognition (2010-2019).
 
+Voor **muziek**: Arnie Cox, *Music and Embodied Cognition - Listening, Moving, Feeling and Thinking* (2016)
+
