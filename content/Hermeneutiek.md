@@ -15,7 +15,7 @@ E.T.A.Hoffmann, Friedrich Rochlitz, Hans Georg Nägeli, Franz Brendel, Sir Georg
 Belangrijke namen ten aanzien van hermeneutiek en muziek in de **20e eeuw**:
 Hermann Kretschmar, Arnold Schering, _Carl Dahlhaus_, Joseph Kerman, Leo Treitler, _Edward T. Cone_, *Lawrence Kramer*, Constantin Floros, Tibor Kneif, Hans Heinrich Eggebrecht, _Leonard B. Meyer_.
 
-Lawrence Kramer introduceert de term "**hermeneutic window**, waarvan hij er drie noemt:
+Lawrence Kramer introduceert de term "**hermeneutic window**", waarvan hij er drie noemt:
 1. textual inclusions
 2. citational inclusions
 3. structural tropes
