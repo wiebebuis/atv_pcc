@@ -1,0 +1,1 @@
+domeinen: cognitief, affectief, psychomotorisch

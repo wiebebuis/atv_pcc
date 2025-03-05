@@ -1,0 +1,1 @@
+Letterlijk "staart", een toevoeging nadat een (deel van een) compositie al door een duidelijke cadens tot een afronding is gekomen. Komt vaak voor in de sonatevorm aan het einde van de reprise van het eerste deel.

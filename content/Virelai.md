@@ -1,0 +1,1 @@
+Een van de drie middeleeuwse formes fixes (samen met ballade en rondeau).

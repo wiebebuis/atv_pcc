@@ -1,0 +1,1 @@
+Meerstemmige muziek met een [[Textuur]] waarbij twee of meer stemmen zich melodisch relatief onafhankelijk van elkaar bewegen. Ritmisch gezien is er vaak sprake van een complementair ritme. Bijna altijd is er sprake van [[Imitatie]] tussen de verschillende stemmen.  Zie ook [[Contrapuntische muziek]].

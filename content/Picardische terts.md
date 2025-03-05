@@ -1,0 +1,1 @@
+Eindigt een stuk dat in een mineurtoonsoort staat met een majeur tonica, dan noemt men de terts van die drieklank de picardische terts.

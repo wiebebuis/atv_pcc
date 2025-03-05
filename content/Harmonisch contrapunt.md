@@ -1,0 +1,2 @@
+Het zogenaamde "tonaal" of "harmonisch" contrapunt weerspiegelt de muziek van de latere barok in een majeur-mineur idioom. Binnen deze benadering wordt de "harmonische polyfonie" van Johann Sebastian Bach als het hoogst haalbare beschouwd.
+[[Polyfonie]]

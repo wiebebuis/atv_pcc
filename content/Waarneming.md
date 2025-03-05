@@ -1,0 +1,1 @@
+In de context van deze vault heben we het over menselijke waarneming of perceptie. 

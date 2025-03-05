@@ -1,0 +1,1 @@
+Een van oorsprong Italiaanse meerdelige vorm van orkestmuziek, waarbij een kleine groep (concertino) en een grote groep (ripieno) elkaar afwisselen, samenspelen, dialogen aangaan. Het aantal delen staat in principe niet vast. 

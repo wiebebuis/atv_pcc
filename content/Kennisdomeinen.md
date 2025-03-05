@@ -1,0 +1,10 @@
+In deze vault zijn de volgende kennisdomeinen onderscheiden:
+[[ANALYSE]]
+[[HARMONIE]]
+[[HARMONIELEER]]
+[[CONTRAPUNT]]
+[[AKOESTIEK]]
+[[GESCHIEDENIS]]
+[[PARTIMENTO]]
+[[ONDERZOEK... waar en hoe te beginnen?]]
+[[GEHOORVORMING (EAR TRAINING)]]

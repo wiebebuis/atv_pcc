@@ -1,0 +1,6 @@
+---
+tags:
+  - persoon
+  - muziektheoreticus
+  - componist
+---

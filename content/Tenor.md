@@ -1,0 +1,2 @@
+1. Stemsoort (Sopraan, Alt, Tenor Bas).
+2. In vroege polyfonie (1250-1500) is het de dragende stem die de de [[Cantus Firmus]] in lange noten bevat. In het vroege contrapunt verhouden alle andere deelnemende stemmen zich tot deze dragende stem.

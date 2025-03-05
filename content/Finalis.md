@@ -1,0 +1,1 @@
+Latijnse naam voor de slottoon, de eerste toon of grondtoon van de [[Modus]] waarin de muziek geschreven is. Later, in het tijdperk van de majeur-mineur-tonaliteit, wordt deze toon ook tonikatoon genoemd.

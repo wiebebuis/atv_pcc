@@ -1,0 +1,2 @@
+In de meest elementaire zin een samenklank van twee of meer tonen. (Strikt genomen vormen twee tonen een interval; in het geval van bijvoorbeeld "onvolledige" drieklanken in een tonale context kunnen ze in de muzikale beleving toch functioneren als een akkoord.) In tonale muziek zijn de [[Drieklank]], het septiemakkoord (en verdere tertsenstapelingen) de belangrijkste elementaire bouwstenen.
+Daarnaast bestaan er fenomenen als [[Polychord]].
