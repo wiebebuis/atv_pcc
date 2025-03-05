@@ -84,7 +84,7 @@ Vergelijk (5) met (9).
 ![[Spelen met de Prinner 009.mp3]]
 
 >[!danger] Attentie!
->Let goed op: in dit geval is het noodzakelijk om de **7-6 dissonant** meteen in te voegen omdat er anders in de bovenstemmen een open kwintparallel ontstaat. Die is in de muziek van de renaissance tot ver in de romantiek niet toegestaan. In de eerste versies ontstaan er kwart-parallellen; die vormen geen probleem; sterker nog, ze komen heel vaak voor bij paralelle sextakkoorden.
+>Let goed op: in dit geval is het noodzakelijk om de **7-6 dissonant** meteen in te voegen omdat er anders in de bovenstemmen een open kwintparallel ontstaat. Die is in de muziek van de renaissance tot ver in de romantiek niet toegestaan. In de eerste versies ontstaan er kwart-parallellen; die vormen geen probleem; sterker nog, ze komen heel vaak voor bij parallelle sextakkoorden.
 
 #### Ketting
 Maak nu op basis van voorbeeld (8) een ketting in mineurtoonsoorten. 
