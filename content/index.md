@@ -1,6 +1,6 @@
 ---
-title: ATV_PCC
-draft: "false"
+title: Semantisch netwerk over muziek, muziektheorie en hun context
+draft: false
 tags:
 ---
 **NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt (of vergroot je venster). :-)
