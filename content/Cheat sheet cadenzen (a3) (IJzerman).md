@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - cheatsheet
+---
 ## (a3)
 simple (eenvoudig, authentiek)
 ![[ijzerman example 3.5.jpg]]

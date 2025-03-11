@@ -1,4 +1,4 @@
-Een term van Christopher Small. Hij doelt daarmee op het proces van muziekmaken, musiceren, spelen/zingen.
+Een term afkomstig van Christopher Small. Hij doelt daarmee op het proces van muziekmaken, musiceren, spelen/zingen.
 Hij pleit ervoor om muziek minder als een "**ding**" te beschouwen maar veelmeer als een **proces**.
 Zouden we musicking een grotere plaats geven in ons theorieonderwijs, heeft dat grote gevolgen voor bijvoorbeeld gehoorvorming. 
 

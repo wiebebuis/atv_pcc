@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - cheatsheet
+---
 Galant met 65 op (4) en 64 53 op(5)
 ![[ijzerman example 6.4.jpg]]
 

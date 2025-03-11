@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 In algemene zin een werk voor een of meerdere (solo) zangstemmen met instrumentale begeleiding. In de barok was het een van de belangrijkste vormen van vocale muziek naast opera en oratorium. De geschiedenis van de cantate begint rond 1620 in Italië.
 Een rijvorm van contrasterende episodes, in de vroege 18e eeuw geëvolueerd tot afzonderlijke delen, vaak twee aria's, elk voorafgegaan door een recitatief.
 Tot de late 17e eeuw was de cantate een overwegend wereldlijk genre. 

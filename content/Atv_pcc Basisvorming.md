@@ -6,7 +6,7 @@ Er is een aantal **leersituaties** of "lessen" (die ik bewust **niet** benoem al
 - GV: Gehoorvorming
 - MC: Muziek- en Cultuurgeschiedenis
 - PP: Pianopracticum
-- Harmonieleer
+- HML: Harmonieleer/Contrapunt
 
 
 

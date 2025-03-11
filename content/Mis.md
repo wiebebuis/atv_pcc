@@ -4,3 +4,5 @@ Het ordinarium bestaat uit: Kyrie, Gloria, Credo, Sanctus, Agnus Dei.
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.45872 (KB)
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.45872 (Hanze)
+
+Kan ook betekenen: niet raak. :-)

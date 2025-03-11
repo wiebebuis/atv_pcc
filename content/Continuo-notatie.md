@@ -1,4 +1,4 @@
- *Voornamelijk* in gebruik bij barokmuziek: alleen de **baslijn** is gegeven. De bijkomende harmonie wordt door de continuospeler aangevuld. Deze heeft een behoorlijke mate van vrijheid m.b.t. de manier akkoorden "gelegd" worden. Continuo-notatie is een "short hand" notatie.
+ Voornamelijk in gebruik bij barokmuziek: alleen de **baslijn** is gegeven. De bijkomende harmonie wordt door de continuospeler aangevuld. Deze heeft een behoorlijke mate van vrijheid m.b.t. de manier akkoorden "gelegd" worden. Continuo-notatie is een "short hand" notatie.
  
  Een bastoon zonder toevoeging duidt op een **laddereigen drieklank** op de bastoon (1 3 5). De drieklank is het uitgangspunt. Door middel van Arabische cijfers, mollen, kruisen, streepjes worden de intervalopbouw van de akkoorden en eventuele "lijntjes" in de  stemvoering  aangegeven. 
  - Een bastoon zonder aanvullend teken betekent (1 3 5).

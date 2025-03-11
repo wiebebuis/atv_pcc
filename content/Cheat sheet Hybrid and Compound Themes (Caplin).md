@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - cheatsheet
+---
 
 ![[Cheat Sheet Hybrid and Compound Themes (Caplin).jpg]]
 

@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 Hoort bij een van de [[Harmonische coderingssystemen]].
 
 Vooral in gebruik in jazz, pop, lichte muziek: 

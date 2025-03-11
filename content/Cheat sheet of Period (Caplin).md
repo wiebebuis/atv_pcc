@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - cheatsheet
+---
 
 ![[Cheat Sheet Period (Caplin).jpg]]
 

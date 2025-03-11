@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 Analytisch luisteren draait om het doen van **feitelijke waarnemingen** over muziek. Luisterend, maar ook lezend/analyserend.
 
 Op deze manier kunnen **patronen** in muziek worden onderkend en benoemd, en onderliggende **principes** worden opgespoord.

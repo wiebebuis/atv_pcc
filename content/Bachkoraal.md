@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 Zie ook [[Koraal]]
 
 De door Bach gezette koralen die ons zijn overgeleverd zijn zeer gevarieerd. Eén sluitende definitie voor alle Bachkoralen is moeilijk te geven. Ulrich Kaiser (Der Vierstimmige Satz) geeft een bruikbare indeling in 4 typen:

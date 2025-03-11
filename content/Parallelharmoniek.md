@@ -4,7 +4,7 @@ Het meest bekende voorbeeld is de faux-bourdon techniek, waarbij (in de bovenste
 
 Andere vormen van parallelharmoniek vinden we bijvoorbeeld bij Debussy, Bartók en Ravel. 
 
-In de Bolero van Ravel vinden we een schrijfwijze waarbij de instrumenten worden gebruikt op dezelfde manier als orgelregisters; bovenstemmen die in (exact) gelijkblijvende intervallen meebewegen met een hoofdstem. 
+In de Bolero van Ravel vinden we tevens een schrijfwijze waarbij de instrumenten worden gebruikt op dezelfde manier als orgelregisters; bovenstemmen die in (exact) gelijkblijvende intervallen meebewegen met een hoofdstem. 
 
-Lintharmonisatie voor secties in big band muziek.
+Lintharmonisatie voor secties in big band muziek is er ook een voorbeeld van.
 

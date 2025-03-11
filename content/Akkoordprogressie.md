@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 Een samenhangende opeenvolging van akkoorden met een muzikaal/artistiek doel.
 Dat kan een [[Cadens]] zijn, maar ook een harmonisch schema:
 
