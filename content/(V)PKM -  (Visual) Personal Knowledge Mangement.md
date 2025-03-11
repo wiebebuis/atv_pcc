@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 (V)KPM richt zich op de manier van informatie verwerken, leren, kennis creëren en betekenis geven. Het heeft een sterke relatie met **conceptueel leren** en **leren door handelen**.
 
 Waar draait het om:

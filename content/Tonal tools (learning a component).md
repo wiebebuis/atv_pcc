@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - werkmodel
+---
 Voorbeeld: scalino up (pag. 24 en 25)
 
 1. alleen de bas: (7) (8)

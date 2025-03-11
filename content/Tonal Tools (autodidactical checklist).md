@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 1. Experiment with composition of components within a fixed and symmetrical time structure
 2. Research how to play components in another metre
 3. Change the component's downbeat/upbeat ratio

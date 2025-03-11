@@ -1,4 +1,4 @@
-Dat wil zeggen: de mensen de belangrijk zijn (geweest) bij het tot stand komen en de verdere ontwikkeling van dit Obsidian project. Dat zijn:
+Dat wil zeggen: de mensen de belangrijk zijn (geweest) bij het tot stand komen en de verdere ontwikkeling van mijn Obsidian project. Dat zijn:
 - filosofen
 - taalkundigen
 - leraren (niet per se onderwijskundigen...), 

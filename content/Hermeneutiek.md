@@ -1,6 +1,6 @@
 Interpretatie en verklaring van een (schriftelijke) bron, m.n. de bijbel.
 
-Een belangrijke naam die hieraan verbonden is uit de 19e eeuw: Friedrich Schleiermacher (1768-1834). Hij was theoloog & filosoof. Hij hield zich bezig met interpretatie en verklaring van teksten ("de" bijbel). De werkwijze van Schleiermacher begint met een globale lezing; daarna wordt er voortdurend gewisseld van perspectief. Daarbij wordt gewerkt met twee dimensies: 
+Een belangrijke naam die hieraan verbonden is uit de 19e eeuw: [[Schleiermacher, Friedrich (1768-1834)]]Friedrich Schleiermacher (1768-1834). Hij was theoloog & filosoof. Hij hield zich bezig met interpretatie en verklaring van teksten ("de" bijbel). De werkwijze van Schleiermacher begint met een globale lezing; daarna wordt er voortdurend gewisseld van perspectief. Daarbij wordt gewerkt met twee dimensies: 
 - geheel -deel (grammaticaal/linguïstisch)
 - subjectief - objectief (psychologisch).
 De uitkomst hiervan leidt idealiter tot "**Verstehen**", in de woorden van Gadamer "a real art of understanding instead of an aggregate of observations". Het "heen en weer bewegen" wordt door Schleiermacher aangeduid als de **hermeneutische cirkel**.

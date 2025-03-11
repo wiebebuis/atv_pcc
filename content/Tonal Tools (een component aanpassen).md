@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - werkmodel
+---
 Kan op twee manieren: m.b.t de LENGTE en m.b.t. de SHAPE (syntactic).
 Blz. 27
 
