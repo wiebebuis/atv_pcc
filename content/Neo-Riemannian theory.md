@@ -11,7 +11,7 @@ Triadic transformations (P, R, L):
 
 Secondary operations (N, S, H):
 - Nebenverwandt: van majeurdrieklank naar diens mineursubdominant (C - Fm)
-- Slide: verbinding tussen twee drieklanken de terts als gemeenschappelijke toon, bijv. : C - C#m
+- Slide: verbinding tussen een grote en een kleine drieklank met de terts als gemeenschappelijke toon, bijv. : C - C#m
 - Hexatonic pole, bijvoorbeeld C - Ab.
 
 Goed overzichtswerk: Oxford Handbook of Neo-Riemannian Music Theories (2011)
