@@ -1,8 +1,10 @@
 ---
 draft: false
-tags: 
+tags:
   - werkmodel
 ---
+
+Analysebenadering bedacht en geformuleerd door Lawrence Ferrara.
 
 Tien stappen bij een holistische analyse
 1. Verken de historische context van het werk
