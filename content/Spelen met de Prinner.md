@@ -3,6 +3,7 @@ tags:
   - werkmodel
   - 
 ---
+Zie ook: https://h5p.skole.nl/?p=781 en https://h5p.skole.nl/?p=798 voor instructievideo's.
 
 Uitgangspunt zijn de prototypen uit IJzerman (HACOPA)…
 Zie ook [[Prinner]].

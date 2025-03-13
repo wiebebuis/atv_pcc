@@ -8,7 +8,7 @@ Dit gaat (uiteraard) niet zonder bepaalde (W3C) standaarden, zoals:
 
 Deze zijn nodig om data en metadata te representeren, en er ook (softwarematig) mee te kunnen "redeneren" (met bijvoorbeeld een reasoning engine of een rules engine).
 
-Daarbij spelen taxonomiën en ontologieën een belangrijke rol. Gerelateerd aan bovenstaande voorbeelden, spreken we over **formele** taxonomieën (die bepaalde standaarden volgen).
+Daarbij spelen taxonomieën en ontologieën een belangrijke rol. Gerelateerd aan bovenstaande voorbeelden, spreken we over **formele** taxonomieën (die bepaalde standaarden volgen).
 
 Echter, in het menselijke verkeer worden ook **informele** taxonomieën gebruikt, die benoemd worden als **Folksonomies**. Deze praktijk wordt ook wel **collaborative tagging** of **social tagging** genoemd. 
 

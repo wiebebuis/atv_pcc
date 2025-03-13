@@ -1,4 +1,4 @@
-(Hermann Erpf)
+Term afkomstig van [[Erpf, Hermann (1891-1969)]].
 
 Er zijn in de loop van de westerse muziekgeschiedenis veel vormen ontstaan met regelmatige patronen en vormschema’s.
 

@@ -1,0 +1,1 @@
+Belangrijk op het terrein van [[(V)PKM -  (Visual) Personal Knowledge Mangement]]

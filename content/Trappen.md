@@ -13,7 +13,7 @@ VII Leidtoon
 
 #### Partimento
 In bronnen die gaan over partimento worden bastonen ook wel aangeduid met omcirkelde Arabische cijfers. Een voorbeeld hiervan is het boek van Job IJzerman - Harmony, Counterpoint, Partimento.
-![[number notation.jpeg]]
+![[number notation.jpeg|500]]
 
 Zie ook:
 [[Harmonische functies]]

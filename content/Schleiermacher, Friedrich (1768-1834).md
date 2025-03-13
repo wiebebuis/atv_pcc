@@ -5,3 +5,4 @@ tags:
   - filosoof
   - persoon
 ---
+Een van de grondleggers van de [[Hermeneutiek]].

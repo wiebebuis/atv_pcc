@@ -1,8 +1,8 @@
 Akkoorden die in de intervalopbouw vormen van symmetrie vertonen, zoals:
 
-- Verminderd septiemakkoord
-- Overmatige drieklank 
-- Hardverminderd septiemakkoord
+- Verminderd septiemakkoord (kleine tertsen)
+- Overmatige drieklank (grote tertsen)
+- Hardverminderd septiemakkoord (grote sekonde met aan weerszijden een grote terts).
 
 IJzerman 
 Ex. 9.17 (verminderd septiemakkoord)

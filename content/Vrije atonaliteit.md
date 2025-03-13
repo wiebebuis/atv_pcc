@@ -1,0 +1,1 @@
+Containerterm voor muziek die niet of niet meer tonaal is, maar ook niet een uitgewerkt vervangend toonsysteem kent. De term wordt vaak gekoppeld aan de vroeg atonale werken [[Schoenberg, Arnold (1874-1951)]], met name zijn Klavierstücke Op. 11 en Op. 19.

@@ -17,3 +17,5 @@ Van die (klassieke) deugden zijn er vier:
 - rechtvaardigheid (justitia)
 
 Ze worden _kardinale deugden_ genoemd; van "_cardus_", scharnier: datgene waar het om draait.
+
+Deze wijze van denken over taal en onderwijs is het uitgangspunt van het denken achter https://www.skole.nl.

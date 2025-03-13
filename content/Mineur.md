@@ -4,3 +4,4 @@ Term die kan worden gekoppeld aan:
 - aanduiding van een drieklank bestaande uit een grondtoon, kleine terts en een reine kwint
   
 - speelstuk uit het spel Stratego, dat bommen onschadelijk maakt :-D
+- een neerslachtige stemming of klimaat (de beurs was vandaag in mineur).

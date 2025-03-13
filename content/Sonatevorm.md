@@ -1,5 +1,20 @@
 In de tweede helft van de 18e eeuw komt in centraal Europa een compositievorm tot ontwikkeling die verbonden is met de zogenaamde **Weense Klassieken**, vertegenwoordigd door Haydn, Mozart en de jonge Beethoven. Dit is de **sonatevorm,** die ook wel hoofdvorm of sonate-allegro vorm wordt genoemd, bestaande uit de vormdelen ||:expositie :||(:) doorwerking - reprise (:)||
 
+Deze driedeling lijkt ook voor de hand te liggen als men vanuit een primair thematisch-motivisch perspectief kijkt, maar ook als men die vormdelen *harmonisch* karakteriseert als
+1. "(relatief) stabiel" (en beperkt modulerend; twee tonale gebieden)
+2. dynamisch en tonaal gezien minder stabiel (sterker modulerend)
+3. stabiel: terugkerend naar de "hoofdtoonsoort" of -tonaliteit.
+
+Kijken we echter met een primair **harmonische** bril naar de sonatevorm, dan is ook de volgende zienswijze plausibel:
+- de **tonale** **beweging** vanuit de hoofdtoonsoort naar een nieuw gebied; **HEEN**,
+- en vervolgens de beweging vanuit het nieuwe gebied terug naar de hoofdtoonsoort; **TERUG**,
+
+Nu dringt zich de suggestie van een **tweedeligheid** op. [[Erpf, Hermann (1891-1969)]] beschouwde dit "dubbele gezicht" van de sonatevorm als een bron van muzikale spanning.
+Ook [[George, Graham (-)]] dacht op deze manier met zijn tonale indeling van de (klassieke) sonatevorm:
+||:Home - Bright:||(:) S.O.T.R. - Home (:)||.
+
+(S.O.T.R. = Section of Opposite Tonal Relations).
+
 AHWM:
 ...
 
