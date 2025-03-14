@@ -1,1 +1,1 @@
-Term gelieerd aan de filologie en theologie. Wordt ook wel aangeduid met schriftverklaring en maakt deel uit van de [[Hermeneutiek]]. 
+Term gelieerd aan de filologie en theologie. Wordt ook wel aangeduid met Schriftverklaring of Schriftuitleg en maakt deel uit van de [[Hermeneutiek]]. 
