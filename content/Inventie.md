@@ -12,8 +12,8 @@ Ze zijn bedoeld als leerboek, geschreven voor Wilhelm Friedemann Bach. Gedateerd
 
 Volgens de Anleitung zijn de inventios en sinfonias: 
 
->[!quote]
-composities waarmee liefhebbers van het klavier, maar in het bijzonder de leergierigen onder hen, een duidelijk voorbeeld wordt getoond om niet alleen (1) met twee stemmen goed te leren spelen, maar ook bij verdere vooruitgang (progressie) (2) met drie obligate partijen/stemmen juist en goed om te gaan, waarbij het ontwikkelen van een cantabile speelwijze een belangrijk doel is. (3) Ook is het de bedoeling om een "voorsmaak" van de compositieleer aan te bieden.
+>[!quote] 
+>Composities waarmee liefhebbers van het klavier, maar in het bijzonder de leergierigen onder hen, een duidelijk voorbeeld wordt getoond om niet alleen (1) met twee stemmen goed te leren spelen, maar ook bij verdere vooruitgang (progressie) (2) met drie obligate partijen/stemmen juist en goed om te gaan, waarbij het ontwikkelen van een cantabile speelwijze een belangrijk doel is. (3) Ook is het de bedoeling om een "voorsmaak" van de compositieleer aan te bieden.
 
 
 Algemene aandachtspunten bij analyse van Bach inventies:
