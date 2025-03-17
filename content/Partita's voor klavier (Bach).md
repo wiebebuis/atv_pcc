@@ -18,5 +18,16 @@ Op de plaats van X vinden we:
 - V: Tempo di Menuetto - Passepied
 - VI: Air tussen C en S; Tempo di Gavotta tussen S en G.
 
+Andras Schiff:
+https://open.spotify.com/album/3ACiWkhk9MBhjIxL04hQbq?si=Fqhd_5jpThiZ8nkEIQwh7A
+
+Murray Perahia nr. 1, 5 en 6:
+
+https://open.spotify.com/album/0xIKZI6Fg8EYJTpL0x5JJt?si=ISIluwlaR1KOVCNWKDy9ew
+
+Igor Levit:
+
+https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76?si=_9INUF04S4OUXQ8e8irCkA
+
 
 
