@@ -24,10 +24,12 @@ https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.27091 (KB)
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.27091 (Hanze)
 
+andere bronnen:
+
 - MGG deel 12: Suite blz.1704-1723 (Musik in Geschichte und Gegenwart)
 - **Grove Music Online: Suite (zie link boven)**
-- The Oxford History of Western Music Volume 2 (Richard Taruskin ): 260-277, 286-289, 274-277; namen: Bach, Froberger, Handel, Schein.
-- **AHWM**: François Couperin, en de drie Binary Forms, fig. 16.12 blz. 356; F
+- The Oxford History of Western Music Volume 2 (Richard Taruskin ): 260-277, 286-289, 274-277; namen: Schein, Froberger, Bach, Händel, Fr. Couperin, 
+- **AHWM**: François Couperin, en de drie Binary Forms, fig. 16.12 blz. 356; 
 - Bärenreiter Basiswissen: Klaviermusik item 44 en 45.
 - Bärenreiter Basiswissen: Musikalische Formen: item 1 Einfache Reprisenformen.
 - Hermann Erpf - Form und Struktur in der Musik:  
