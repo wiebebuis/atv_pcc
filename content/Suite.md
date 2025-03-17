@@ -10,11 +10,12 @@ Nochtans wordt de term "classical suite" voorgesteld, gebruikt om een relatief s
 De term wordt afgezet tegen "non-classical suite", die kenmerkend wordt geacht voor solo- of kamermuziek gedurende de periode 1620-1645 en waaruit geen eenduidige opzet of patroon valt te destilleren.
 
 >[! opmerking]
+>
 >Voor gebruik in de (algemene) analyse is een gedetailleerde historische schets van de (internationale) ontwikkeling van de suite m.i. minder zinvol. Wel is het nuttig om naast de voorbeelden van Bach ook muziek van in ieder geval François Couperin (en eventueel Jean-Philippe Rameau), en Händel ter illustratie op te nemen. Aan de hand van Bach hebben we muziek van hoge kwaliteit om algemene concepten verbonden met suite en suitedeel te verduidelijken.
 
 
 - François Couperin: drie "soorten" verzamelingen: Ordres (Les Nations), Concerts royaux, 2 Concerts & Apothéoses
-- Georg Friederich Händel (of George Frideric Handel)
+- Georg Friederich Händel (of George Frideric Handel) eventueel
 - Johann Sebastian Bach
 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.27091 (KB)
