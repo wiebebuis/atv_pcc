@@ -6,7 +6,9 @@ Eerste indruk van dansen in de verzamelingen uit de late Renaissance/vroege baro
 Praetorius' *Terpsichore* is daarvoor heel geschikt; geeft ook de gelegenheid om de kleurrijke afwisseling van instrumentgroepen te illustreren.
 
 Spotify:
+
 ![[CD voorkant Praetorius Terpsichore.png|500]]
+
 https://open.spotify.com/album/6JU5RSBn88aRcbIwSXxZrE?si=PvmtT-fhQwaONb5eASiHqA
 
 Bij deze eerste voorbeelden gaat het om echte rijvormen met duidelijke groepering van maten en herhalingen waardoor een indruk van balans en evenwichtigheid ontstaat.
