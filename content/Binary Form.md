@@ -1,7 +1,7 @@
 In AHWM worden drie typen onderscheiden:
 - simple (gekoppeld aan Denis Gaultier en Elisabeth-Claude Jacquet de la Guerre)
 - balanced (gekoppeld aan François Couperin)
-- rounded (gekppeld aan Haydn(!) en Jacquet de la Guerre)
+- rounded (gekoppeld aan Haydn(!) en Jacquet de la Guerre)
 
 ![[AHWM fig 22.5 binary forms.png]]
 
