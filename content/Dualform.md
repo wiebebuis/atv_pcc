@@ -3,7 +3,9 @@ In het algemeen gaat het om twee vormdelen die beide worden herhaald.
 Tonaal gezien is er een "heen en terug": het eerste vormdeel moduleert naar een direct verwante toonsoort, het tweede vormdeel bevat de terugkeer naar de uitgangstoonsoort.
 
 In AHWM worden drie typen onderscheiden: simple, balanced en rounded.
-Het concept van de binary form is verbonden aan de ontwikkeling van de klassieke sonatevorm.
+Zie daarvoor  [[Binary Form]].
+
+Het concept van de binary form is verbonden aan de ontwikkeling van de "klassieke" sonatevorm, of type 3 volgens de indeling van Hepokoski & Darcy.
 
 [[Erpf, Hermann (1891-1969)]] geeft in Form und Struktur in der Musik een duidelijk overzicht van het evolueren van rijvormen naar evenwichtsvormen, waar het klassieke sonatevormschema ook toe behoort; de belangrijkste overweging is daarbij herhaling op afstand gescheiden door een contrasterend deel.
 

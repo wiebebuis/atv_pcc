@@ -4,3 +4,4 @@ antecedent phrase & consequent phrase bij de period
 presentation phrase & continuation phrase bij de sentence
 Zie ook [[Cheat sheet of Period (Caplin)]], [[Cheat sheet of Sentence (Caplin)]], [[Cheat sheet Hybrid and Compound Themes (Caplin)]].
 
+In de **uitvoeringspraktijk** heeft frasering betrekking op de manier waarmee al spelend de frases waarneembaar/duidelijk worden gemaakt voor de luisteraar.

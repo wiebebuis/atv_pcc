@@ -6,6 +6,10 @@ In de Renaissance zien we de publicatie van verzamelingen dansen, zoals "Terpsic
 Types: allemande, sarabande, courante, gigue, pavane, gaillarde, menuet, etc.
 Vanaf de negentiende de eeuw wordt de term suite ook gebruikt voor andere soorten stukken dan dansen, bijvoorbeeld uit een opera, ballet of toneelmuziek.
 
+In algemene zin is het relevant het onderscheid te maken tussen groepsdansen en stijldansen (voor 2 personen: dame en heer). De laatste vorm komt op in de 19e eeuw. 
+Groepsdansen komen veel voor als zogenaamde hofdansen in de late renaissance en de barok.
+Groepsdansen in de zin van volksdansen laat ik in deze context buiten beschouwing.
+
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.45795 (KB)
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.45795 (Hanze)
