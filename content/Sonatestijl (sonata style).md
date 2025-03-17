@@ -1,3 +1,3 @@
-Een term afkomstig van [[Rosen, Charles (1927-2012)]]  die van mening is dat de sonate(vorm) geen statische vorm is (zoals een menuet, een da capo aria of een Franse ouverture), maar veeleer een manier van schrijven, zoals de fuga. Gevoel voor proportie, richting en textuur zijn veel belangrijker dan alleen het patroon waarin e.e.a. zich afspeelt. Het proces, de weg die afgelegd wordt, is het belangrijkst.
+Een term afkomstig van [[Rosen, Charles (1927-2012)]]  die van mening is dat de sonate(vorm) geen statische vorm is (zoals een menuet, een da capo aria of een Franse ouverture), maar veeleer een manier van schrijven, zoals de fuga. Gevoel voor proportie, richting en textuur zijn veel belangrijker dan alleen het patroon waarin e.e.a. zich afspeelt. Het proces, de weg die afgelegd wordt, is het belangrijkst. Zijn benadering leunt aan tegen het narratieve denken over muziek. Zie ook [[Narrativiteit en muziek]].
 
 [[Sonate]] [[Sonatevorm]]

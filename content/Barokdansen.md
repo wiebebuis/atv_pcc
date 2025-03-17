@@ -29,3 +29,7 @@ https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.11123 (KB)
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.11123 (Hanze)
 
+en.wikipedia: Baroque dance:
+
+https://en.wikipedia.org/wiki/Baroque_dance
+

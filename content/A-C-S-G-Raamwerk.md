@@ -12,7 +12,7 @@ Zie voor Bach raamwerken:
 
 [[Engelse Suites (Bach)]]
 
-[[Cello suites (Bach)]]
+[[Cellosuites (Bach)]]
 
 [[Partita's voor klavier (Bach)]].
 

@@ -18,3 +18,9 @@ Overzichtsartikel in Oxford Music Online over **Dance**:
 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.45795 (KB)
 
+en ook interessant: Overzichtsartikel uit Oxford Music Online: met name over de periode 1630-1730.
+
+https://doi-org.access.authkb.kb.nl/10.1093/omo/9781561592630.013.90000382192 (KB)
+
+https://doi-org.nlhhg.idm.oclc.org/10.1093/omo/9781561592630.013.90000382192 (Hanze)
+

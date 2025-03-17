@@ -1,6 +1,7 @@
 In algemene zin een verzameling instrumentale stukken die als een geheel worden uitgevoerd.
 In de renaissance en de barok gaat het om een verzameling dansen in dezelfde toonsoort.
-Later kan het ook gaan om een aantal uit een groter werk zoals een ballet of opera.
+Later (in de 19e en 20e eeuw) kan het ook gaan om een aantal delen uit een groter werk zoals een ballet of opera.
+
 "Suite" in de betekenis van opeenvolging komt van het Franse "suivre"; volgen.
 
 Het artikel in Oxford Music Online, brengt goed in kaart wat de uitdagingen zijn om de oorsprong en ontwikkeling van het fenomeen suite en de daarin opgenomen dansen adequaat en eenduidig te beschrijven. 
@@ -13,17 +14,20 @@ De term wordt afgezet tegen "non-classical suite", die kenmerkend wordt geacht v
 >
 >Voor gebruik in de (algemene) analyse is een gedetailleerde historische schets van de (internationale) ontwikkeling van de suite m.i. minder zinvol. Wel is het nuttig om naast de voorbeelden van Bach ook muziek van in ieder geval François Couperin (en eventueel Jean-Philippe Rameau, en Händel) ter illustratie op te nemen. Aan de hand van Bach hebben we muziek van hoge kwaliteit om algemene concepten verbonden met suite en suitedeel te verduidelijken.
 
+#### Namen
 - François Couperin: drie "soorten" verzamelingen: Ordres (Les Nations), Concerts royaux, 2 Concerts & Apothéoses
 - Georg Friederich Händel (of George Frideric Handel) eventueel
 - Johann Sebastian Bach
 
+#### Suite
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.27091 (KB)
 
 https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.27091 (Hanze)
 
 - MGG deel 12: Suite blz.1704-1723 (Musik in Geschichte und Gegenwart)
 - **Grove Music Online: Suite (zie link boven)**
-- The Oxford History of Western Music Volume 2 (Richard Taruskin )
+- The Oxford History of Western Music Volume 2 (Richard Taruskin ): 260-277, 286-289, 274-277; namen: Bach, Froberger, Handel, Schein.
+- **AHWM**: François Couperin, en de drie Binary Forms, 
 - Bärenreiter Basiswissen: Klaviermusik item 44 en 45.
 - Bärenreiter Basiswissen: Musikalische Formen: item 1 Einfache Reprisenformen.
 - Hermann Erpf - Form und Struktur in der Musik:  
