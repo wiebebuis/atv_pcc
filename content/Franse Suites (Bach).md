@@ -1,4 +1,4 @@
-In totaal zes stuks.
+In totaal 6 stuks.
 
 Alle suites hebben de indeling A-C-S-X-G.
 

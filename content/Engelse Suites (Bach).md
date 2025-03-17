@@ -6,6 +6,6 @@ Verder het bekende A-C-S-X-G raamwerk, met op de plaats van X:
 - II: Bourrée I en II
 - III: Gavotte I en II (ou la musette)
 - IV: Menuet I en II
-- V: Passepied I en Rondeau - Passpied II
+- V: Passepied I en Rondeau - Passepied II
 - VI: Double - Gavotte I en II
 

@@ -1,10 +1,14 @@
-#### (Voor Karoun)
+
 Als startpunt een algemeen verhaaltje over dans en dansmuziek.
 Volksdans en "hof"dans (of groepsdans voor de hogere kringen).
 Eerste indruk van dansen in de verzamelingen uit de late Renaissance/vroege barok.
 Praetorius' *Terpsichore* is daarvoor heel geschikt; geeft ook de gelegenheid om de kleurrijke afwisseling van instrumentgroepen te illustreren.
+Spotify:
+![[CD voorkant Praetorius Terpsichore.png|500]]
+https://open.spotify.com/album/6JU5RSBn88aRcbIwSXxZrE?si=PvmtT-fhQwaONb5eASiHqA
+
 Bij deze eerste voorbeelden gaat het om echte rijvormen met duidelijke groepering van maten en herhalingen waardoor een indruk van balans en evenwichtigheid ontstaat.
-Ook is hierbij de link met choreografie en stappatronen (die ook patronen en regelmatigheden hebben) van belang. Zie bijvoorbeeld fig. 16.4 uit AHWM:
+Ook is hierbij de link met **choreografie** en **stappenplan** (letterlijk) (die ook patronen en regelmatigheden hebben) van belang. Zie bijvoorbeeld fig. 16.4 uit AHWM:
 
 ![[AHWM fig. 16.4.png]]
 
@@ -18,11 +22,35 @@ Bij Bach zijn er grote verschillen tussen de sets van 6 Suites / Partita's
 
 ![[Franse Suites (Bach)]]
 
-![[Engelse Suites (Bach)]]
-
 ![[Partita's voor klavier (Bach)]]
 
 ![[Cellosuites (Bach)]]
+
+![[Engelse Suites (Bach)]]
+
+
+Topics:
+[[Suite]]
+
+[[Suitedeel]]
+
+[[Barokdansen]]
+
+[[Dualform]] en [[Binary Form]]
+
+[[Harmonische achtergrond]]
+
+[[Tonaal plan, tonale structuur]]
+
+
+Naast A-C-S-G ook de setjes
+
+- Menuet-Trio-Menuet
+
+- Gavotte - Musette - Gavotte
+
+
+
 
 
 
