@@ -1,3 +1,4 @@
+Zie ook [[Suite]].
 
 Als startpunt een algemeen verhaaltje over dans en dansmuziek.
 Volksdans en "hof"dans (of groepsdans voor de hogere kringen).
