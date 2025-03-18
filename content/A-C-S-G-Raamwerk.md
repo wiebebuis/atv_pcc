@@ -7,6 +7,8 @@ Staat voor:
 - Sarabande
 - Gigue
 
+Vaak worden in deze structuur nog delen tussengevoegd met name tussen de Sarabande en de Gigue.
+
 Zie voor Bach raamwerken:
 [[Franse Suites (Bach)]]
 

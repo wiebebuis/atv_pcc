@@ -1,4 +1,4 @@
-Een kaart die **concepten** en hun onderlinge **relaties** representeert. De term lijkt afkomstig te zijn van [[Novak, Joseph D. (1930-2023)]], die ook betrokken was bij de ontwikkeling van het programma CMapTools. De term wordt ook toegeschreven aan het **constructivisme**, een stroming uit de onderwijskunde/leerpsychologie, die de nadruk legt op **leren** door **handelen**. Zie ook 
+Een kaart die **concepten** en hun onderlinge **relaties** representeert. De term lijkt afkomstig te zijn van [[Novak, Joseph D. (1930-2023)]], die ook betrokken was bij de ontwikkeling van het programma CMapTools. De term wordt ook toegeschreven aan het [[Constructivisme]], een stroming uit de onderwijskunde/leerpsychologie, die de nadruk legt op **leren** door **handelen**.
 
 **Concept Mapping** wordt soms verward met **Mind Mapping**. Deze laatste techniek is in belangrijke mate ontwikkeld door Tony Buzan. Concept Mapping is ontwikkeld door Joseph D. Novak.
 Met zowel **Concept Mapping** als **Mind Mapping** kun je je denkproces **visualiseren**. 
