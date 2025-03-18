@@ -13,6 +13,6 @@ Op de plaats van X worden voor de gigue andere delen ingevoegd:
 - V: Gavotte - Bourrée - Loure
 - VI: Polonaise - Menuet - Bourrée
 
-Murray Perahia: https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8?si=65a0b4bc0c304847
+Murray Perahia: https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8?si=65a0b4bc0c304847 (Spotify)
 
 

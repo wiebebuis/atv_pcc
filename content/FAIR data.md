@@ -5,7 +5,7 @@ tags:
 
 Afkorting die staat voor:
 - Findability
-- Accesability
+- Accessability
 - Interoperability
 - Reusability
 
