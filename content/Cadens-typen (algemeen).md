@@ -4,15 +4,16 @@ Doorsnee vaak gebruikte indeling:
 - volledig IV-V-I (of eigenlijk S-D-T, waarbij S vertegenwoordigd kan worden door trap II en IV)
 - bedrieglijk V-VI 
 ![[cadence types NL EN.png]]
+En uiteraard het halfslot of "half cadence", een open einde op de dominant-drieklank (V).
 
 Uitgebreide of extended cadence: I-VI-IV-II-V-I. In mineur met II6 ipv II door de verminderde drieklank op II.
 ![[uitgebreide_cadens.jpeg]]
 
 Uitgebreide cadens met Trugschluss gevolgd door definitieve afsluiting:
 ![[uitgebreide_cadens_met_trugschluss.jpeg]]
-Caplin: PAC, IAC, HC, DC
+Zie ook [[Cadenstypen (Caplin)]]: PAC, IAC, HC, DC.
 
-HACOPA (IJzerman): simple, compound, double, galant, neapolitan, discant. Half cadence.
+HACOPA (IJzerman): simple, compound, double, galant, neapolitan, discant, half cadence.
 
 OMO (Grove): historisch overzicht van slotformules (in article Cadence); medial cadence, interrupted cadence, imperfect cadence, perfect cadence, plagal cadence, mixed cadence, radical cadence, phrygian cadence, authentic cadence, Landini cadence, 
 
