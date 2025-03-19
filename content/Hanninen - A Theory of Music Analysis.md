@@ -15,6 +15,6 @@ De waarde van dit boek lijkt te liggen in de systematische inventarisatie van ke
 Als het gaat om (muziek)psychologische aspecten, hoe muziek *waargenomen* en *ervaren* wordt (ook in fenomenologische zin) lijkt dit boek mij nogal ver af te staan van "de mens". Waarom mensen zich bezig houden met muziek (actief of receptief), is vaak ten diepste verbonden met ervaringen van "schoonheid en troost". Dit geldt natuurlijk niet voor iedereen en voor elke soort muziek, maar naar mijn mening vaak wel voor (kunst)muziek. 
 
 >[!note] Opmerking
->Terzijde: Naast "schoonheid en troost" kan muziek als "spel" natuurlijk ook een (grote) bron van voldoening zijn. Een voorbeeld: de "beheersing" van een instrument. Een andere bron van voldoening kan zijn het deel uitmaken van een muzikale groep; hetgeen kan gelden voor een violist, die in een strijkkwartet "speelt". Zo zijn er meer voorbeelden te bedenken.
+>Naast "schoonheid en troost" kan muziek als "spel" natuurlijk ook een (grote) bron van voldoening zijn. Een voorbeeld: de "beheersing" van een instrument. Een andere bron van voldoening kan zijn het deel uitmaken van een muzikale groep; hetgeen kan gelden voor een violist, die in een strijkkwartet "speelt". Zo zijn er meer voorbeelden te bedenken.
 >
 
