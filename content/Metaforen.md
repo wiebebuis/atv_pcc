@@ -15,3 +15,4 @@ Algemeen werk over analogieën:
 D. Hofstadter & E. Sander - *Surfaces and Essences: Analogy as the Fuel and Fire of Thinking*, Basic Books 2013.
 
 D. Hofstadter - *Fluid Concepts and Creative Analogies: Computer models of the Fundamental Mechanisms of Thought.* BasicBooks 1995.
+
