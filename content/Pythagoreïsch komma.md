@@ -14,3 +14,5 @@ Zie ook: [[Syntonisch of Didymisch komma]]
 [[AKOESTIEK]]
 
 [[Temperament (stemming)]]
+
+https://skole.nl/index.php?option=com_content&view=article&id=148:pythagoreisch-komma&catid=111&lang=nl-nl&Itemid=399
