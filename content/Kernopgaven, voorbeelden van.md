@@ -3,3 +3,4 @@ Een kernopgave is een complexe samengestelde taak en doet in veel gevallen een b
 ![[kernopgaven_atv_pcc.png]]
 
 Zie ook [[ATV_PCC Concept Map Theoretische vorming]]
+en [[Taken, activiteiten]].
