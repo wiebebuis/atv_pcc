@@ -1,5 +1,7 @@
 Serial Composition and Atonality
 
+INHOUDSOPGAVE
+	
 I Tonality, Atonality, Dodecaphony
 
 II "Free" Atonality
