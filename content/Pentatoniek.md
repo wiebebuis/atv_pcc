@@ -4,5 +4,5 @@ Melodische intervallen van terts en sekonde zorgen voor de herkenbaarheid:
 C-D-E is minder karakteristiek dan C-D-F, bijvoorbeeld
 Pentatonische patronen komen voor in zeer verschillende muzikale tradities. Pentatoniek kan daarom worden beschouwd als een universeel gegeven (Chailley, Nettl).
 
-Soms wordt een nader onderscheid gemaakt tussen hemitonische (met halve toonsafstanden) en anhemitonische pentatotoniek (zonder).
+Soms wordt een nader onderscheid gemaakt tussen **hemitonische** (met halve toonsafstanden) en anhemitonische **pentatotoniek** (zonder).
 
