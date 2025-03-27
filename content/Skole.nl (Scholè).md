@@ -12,7 +12,9 @@ Wat kan zoal op mijn belangstelling en interesse rekenen?
 
 >[!note] Mijn sites
 >www.skole.nl (niet meer onderhouden, maar nog wel online) totdat de opvolger in het nieuwe tijdperk online gaat:
+>
 >www.new.skole.nl (de opvolger van skole.nl)
+>
 >www.h5p.skole.nl (de "sandbox" voor interactieve onderwijsdingen die te maken hebben met muziek en muziektheorie).
 
 
