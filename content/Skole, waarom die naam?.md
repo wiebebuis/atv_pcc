@@ -1,4 +1,4 @@
-Mijn domeinnaam www.**skole**.nl is afgeleid van het griekse woord **scholè.**
+Mijn domeinnaam www.skole.nl is afgeleid van het griekse woord **σκολε**.
 
 Ooit geweten dat het woord **school** afgeleid is van het Griekse woord **scholè**? En dat dat woord heel lang geleden, in dat verre land, **vrije ruimte** betekende? Ooit jezelf verwonderd afgevraagd waarom van die vrije ruimte in ons westerse onderwijs vaak zo weinig terug te vinden is?
 
@@ -16,8 +16,7 @@ Als we muziek plaatsen in haar context, erover willen communiceren en willen ler
 
 Deze drie staan ten dienste van een algemeen streven: het verwerven van **meesterschap**. 
 
-Het gaat hier niet slechts om vaardigheden, maar om _kunsten_: het zijn namelijk drie van de zeven **artes liberales**
-
+Het gaat hier niet slechts om vaardigheden, maar om _kunsten_: het zijn namelijk drie van de zeven **artes liberales**.
 ![[artes_liberales.jpg|600]]
 
 In de opleiding tot musicus speelt het begrip **virtuositeit** vaak een belangrijke rol. Ik pleit ervoor (gelukkig samen met vele anderen) het begrip virtuositeit niet alleen te koppelen aan (technische) beheersing van een instrument, maar aan **meesterschap**. Het woord virtuositeit gaat letterlijk terug op "virtus", deugd; het "met virtus" uitvoeren van een handeling. 
