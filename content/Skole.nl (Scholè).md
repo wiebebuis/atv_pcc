@@ -3,9 +3,10 @@ Wat kan zoal op mijn belangstelling en interesse rekenen?
 
 
 
-- Muziek (duh)
+- Muziek (duh) en muziekwetenschappen
 - Literatuur
 - Filosofie
+- Psychologie
 - Cultuur
 - Religie/spiritualiteit
 - Digitale ontwikkelingen (inclusief AI)
@@ -18,6 +19,11 @@ Wat kan zoal op mijn belangstelling en interesse rekenen?
 >www.new.skole.nl (de opvolger van skole.nl)
 >
 >www.h5p.skole.nl (de "sandbox" voor interactieve onderwijsdingen die te maken hebben met muziek en muziektheorie).
+>
+>Er komt ook nog een nieuwe versie van een Moodle leeromgeving; de oude heb ik opgeschoond, de nieuwe zal op termijn te vinden zijn onder www.moodle.skole.nl
+
+
+
 
 
 
