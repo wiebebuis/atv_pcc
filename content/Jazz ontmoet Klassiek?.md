@@ -48,5 +48,5 @@ Een losse opsomming van voorbeelden van gemeenschappelijk termen / aanknopingspu
 - baslijn
 - hoofdstem/nevenstem
 - ...
-
+#### Terminologie
 Vergelijkbare verschijnselen worden regelmatig met verschillende termen benoemd. Het zou mooi zijn als we daarin wat helderheid kunnen scheppen zodat bewoners van beide werelden helderder met elkaar kunnen communiceren.
