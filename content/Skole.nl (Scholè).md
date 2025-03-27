@@ -1,8 +1,6 @@
 Is mijn domeinnaam waaronder ik al een flink aantal jaren dingen deel die mij bezighouden in en rondom mijn werk als muziektheoreticus en onderwijsmens.
 Wat kan zoal op mijn belangstelling en interesse rekenen?
 
-
-
 - Muziek (duh) en muziekwetenschappen
 - Literatuur
 - Filosofie
@@ -21,9 +19,3 @@ Wat kan zoal op mijn belangstelling en interesse rekenen?
 >www.h5p.skole.nl (de "sandbox" voor interactieve onderwijsdingen die te maken hebben met muziek en muziektheorie).
 >
 >Er komt ook nog een nieuwe versie van een Moodle leeromgeving; de oude heb ik opgeschoond, de nieuwe zal op termijn te vinden zijn onder www.moodle.skole.nl
-
-
-
-
-
-
