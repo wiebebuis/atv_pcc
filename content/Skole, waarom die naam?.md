@@ -7,7 +7,9 @@ Kessels, Boers & Mostert omschrijven een school als
 _"... oorspronkelijk een vrije ruimte, een vrijplaats om na te denken, samen met anderen, over hoe de wereld in elkaar zit, wat ons en anderen te doen staat, wat "het goede leven" inhoudt."_
 
 Dit idee van vrije ruimte probeer ik, ondanks de tijdgeest en onze onderwijs-systemen(!), gestalte te geven in mijn manier van onderwijs verzorgen. Voor mij is het boek  *Vrije Ruimte in Organisaties* daarbij een belangrijke inspiratiebron en leidraad. 
+
 ![[vrije_ruimte_omslag.png]]
+
 Als we muziek plaatsen in haar context, erover willen communiceren en willen leren, dan hebben we daarvoor **taal** nodig. De drie componenten van het trivium doen een beroep op verschillende functies van taal:
 
 - **grammatica**: adequaat, correct en duidelijk onder woorden brengen
