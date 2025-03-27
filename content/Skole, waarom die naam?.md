@@ -1,6 +1,6 @@
 Mijn domeinnaam www.skole.nl is afgeleid van het griekse woord **σκολε**.
 
-Ooit geweten dat het woord **school** afgeleid is van het Griekse woord **scholè**? En dat dat woord heel lang geleden, in dat verre land, **vrije ruimte** betekende? Ooit jezelf verwonderd afgevraagd waarom van die vrije ruimte in ons westerse onderwijs vaak zo weinig terug te vinden is?
+Wist je dat dat woord heel lang geleden, in dat verre land, **vrije ruimte** betekende? Ooit jezelf verwonderd afgevraagd waarom van die vrije ruimte in ons westerse onderwijs vaak zo weinig terug te vinden is?
 
 Kessels, Boers & Mostert omschrijven een school als
 
