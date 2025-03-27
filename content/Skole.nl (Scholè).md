@@ -1,6 +1,8 @@
 Is mijn domeinnaam waaronder ik al een flink aantal jaren dingen deel die mij bezighouden in en rondom mijn werk als muziektheoreticus en onderwijsmens.
 Wat kan zoal op mijn belangstelling en interesse rekenen?
 
+
+
 - Muziek (duh)
 - Literatuur
 - Filosofie
