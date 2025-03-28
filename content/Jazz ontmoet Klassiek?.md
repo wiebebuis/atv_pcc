@@ -13,8 +13,9 @@ We willen met zijn drieën een **muziekinhoudelijk gesprek** voeren over een voo
 Leon en ik hebben veel gepraat over muziek in termen van **patronen** en **principes**. Zie voor nadere uitleg [[Patronen en principes]]. Dat lijkt een goed uitgangspunt om zinvol te praten over muziek in wezenlijk verschillende stijlen. 
 
 #### Frekwentie van de podcast
-Voorstel: om de drie weken een aflevering van max. 30 minuten.
-
+Voorstel: 1 x per maand een aflevering van max. 30 minuten?
+#### Titel?
+... 
 #### Mogelijke onderwerpen (willekeurige opsomming)
 - Voorbeelden van intro's en outro's
 - Een harmonisch schema als uitgangspunt voor een muziekwerk
