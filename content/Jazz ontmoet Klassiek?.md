@@ -21,10 +21,13 @@ Voorstel: om de drie weken een aflevering van max. 30 minuten.
 - Melodievorming en frasering (liedvormen)
 - De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging
 - Harmonisch ritme
+- Sequenzen
 - Afsluiten (cadensformules, -typen
 - Variatie, figuratie en diminutie
 - Improvisatie
+- Chromatiek
 - Lineaire harmonie
+- "Lijntjes" binnen meerstemmigheid
 - Muzikale vraagtekens, uitroeptekens, punten, komma's, ...
 - Texturen (homofonie, polyfonie, heterofonie, ...)
 - Vormen, vormtypen
