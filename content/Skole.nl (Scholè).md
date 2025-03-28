@@ -18,4 +18,3 @@ Wat kan zoal op mijn belangstelling en interesse rekenen?
 >
 >www.h5p.skole.nl (de "sandbox" voor interactieve onderwijsdingen die te maken hebben met muziek en muziektheorie).
 >
->Er komt ook nog een nieuwe versie van een Moodle leeromgeving; de oude heb ik opgeschoond, de nieuwe zal op termijn te vinden zijn onder www.moodle.skole.nl
