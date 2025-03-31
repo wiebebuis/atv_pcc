@@ -7,7 +7,7 @@ Peirce sprak zelf van **semiosis**  of **semeiosis**, met de belangrijke **triad
 - interpretation (interpretant)
 (Het presenteren van een theorie of systeem met groepjes van drie is heel oud, gaat terug op de scholastiek, Locke, Kant en Hegel.)
 
-Ten aanzien van de logica hanteert Peurce ook een triarichische indeling:
+Ten aanzien van de logica hanteert Peirce ook een triarichische indeling:
 - speculative grammar
 - logical inference
 - method of inquiry (methodeutic)
