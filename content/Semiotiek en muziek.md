@@ -23,13 +23,11 @@ Terugkerende "events" worden als representaties van een **paradigma** beschouwd 
 **M. Grabócz** past narratieve ordening toe op muziek van Liszt. 
 Hier is sprake van een analogie met processen in literatuur.
 
-**Gino Stefan**i beschrijft muzikale codes (o.i.v. Eco) in een aantal discrete typen.
+**Gino Stefani** beschrijft muzikale codes (o.i.v. Eco) in een aantal discrete typen.
 
 **Robert Samuels** kiest een meer flexibele benadering.
 
 **Kofi Agawu** richt zich op een meerdimensionele visie op "het teken"; met aandacht voor de wederzijdse afhankelijkheid van stylistische topoi en interne relaties.
-
-
 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.49388 (KB)
 

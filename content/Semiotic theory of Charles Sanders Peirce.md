@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce
+
 (Deze notitie put voornamelijk uit Knowledge Representation, a Practionary van Bergman.)
 
 Peirce sprak zelf van **semiosis**  of **semeiosis**, met de belangrijke **triade** van 
