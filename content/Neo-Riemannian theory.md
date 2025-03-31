@@ -1,5 +1,5 @@
 Verwijst naar een verzameling ideeën die worden gepresenteerd in het werk van David Lewin, Richard Cohn, Henry Klumpenhouwer, Brian Hyer.
-Akkoorden worden hierbij geprojesteerd op een raster van kwinten en tertsen (een Tonnetz):
+Akkoorden worden hierbij geprojecteerd op een raster van kwinten en tertsen (een Tonnetz):
 ![[content/Afbeeldingen/Tonnetz.png]]
 
 Triadic transformations (P, R, L):
