@@ -2,9 +2,10 @@ Model om competentieniveaus vast te stellen in het beroepsonderwijs.
 (Wordt ook gebruikt binnen Hanze in het kader van formuleren van leerwegonafhankelijke leeruitkomsten.)
 
 Het model kent twee dimensies:
-1. Zelfstandigheid (gerelateerd aan sturing, vrijheid van handelen, verantwoordelijkheid,rol)
+1. Zelfstandigheid (gerelateerd aan sturing, vrijheid van handelen, verantwoordelijkheid, rol)
 2. Complexiteit (gerelateerd aan taak en context)
 Elk van deze dimensies kent drie niveaus: A, B en C.
+Deze niveaus worden in het artikel aan de hand van voorbeelden verder uitgewerkt en toegelicht.
 
 ![[zelcom-model.jpg]]
 Afbeelding afkomstig uit artikel Petra Bulthuis:
