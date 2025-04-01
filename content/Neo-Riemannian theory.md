@@ -7,7 +7,7 @@ Triadic transformations (P, R, L):
 - Relative
 - Leading tone
 
-![[PLR family of C minor (Cohn).pdf]]
+![[PLR family of C minor (Cohn).jpg]]
 
 Secondary operations (N, S, H):
 - Nebenverwandt: van majeurdrieklank naar diens mineursubdominant (C - Fm)
@@ -15,5 +15,6 @@ Secondary operations (N, S, H):
 - Hexatonic pole, bijvoorbeeld C - Ab.
 
 Goed overzichtswerk: Oxford Handbook of Neo-Riemannian Music Theories (2011)
+
 https://en.wikipedia.org/wiki/Neo-Riemannian_theory
 Goed wikipedia-artikel.
