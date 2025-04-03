@@ -1,1 +1,0 @@
-Entrypoint voor MOC's.

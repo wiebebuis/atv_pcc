@@ -1,4 +1,5 @@
-De competenties worden verworvenin 4 "containers":
+Het woord competentie wordt niet meer genoemd; **Leeruitkomst** is het vervangende woord.
+De Leeruitkomsten (competenties) worden verworveni n 4 "containers":
 
 1. Artistieke vorming/Artistic development
 2. Theoretische vorming/Theoretical development
@@ -12,3 +13,6 @@ Binnen de **theoretische vorming** wordt aan de volgende competenties gewerkt en
 - 4.1.en 4.2
 - 5.2 en 5.3
 
+#### Niveaus
+Binnen Hanze wordt voor de bacheloropleidingen gewerkt met 3 niveau's. Niveaus kunnen worden geoperationaliseerd met behulp van het [[Zelcom-model]]:
+![[zelcom-model.jpg]]
