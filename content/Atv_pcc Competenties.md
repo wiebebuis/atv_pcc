@@ -11,3 +11,4 @@ Binnen de **theoretische vorming** wordt aan de volgende competenties gewerkt en
 - 1.1 en 1.2
 - 4.1.en 4.2
 - 5.2 en 5.3
+
