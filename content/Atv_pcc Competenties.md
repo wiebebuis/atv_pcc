@@ -16,3 +16,6 @@ Binnen de **theoretische vorming** wordt aan de volgende competenties gewerkt en
 #### Niveaus
 Binnen Hanze wordt voor de bacheloropleidingen gewerkt met 3 niveau's. Niveaus kunnen worden geoperationaliseerd met behulp van het [[Zelcom-model]]:
 ![[zelcom-model.jpg]]
+
+Zie voor het oude opleidingsprofiel 2017 [[Opleidingsprofiel Muziek 2017.pdf]]
+
