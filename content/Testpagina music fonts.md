@@ -1,4 +1,3 @@
 <div class="MusGlyphs">
-3/4
+3/4 
 </span>
-normale tekst
