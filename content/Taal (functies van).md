@@ -2,7 +2,8 @@ Als we muziek plaatsen in haar context, erover willen communiceren en willen ler
 
 - **grammatica**: adequaat, correct en duidelijk onder woorden brengen
 - **dialectica**: een dialoog voeren om te begrijpen/verstaan, te onderzoeken, te redeneneren/argumenteren
-- **retorica**: de kunst om overtuigend te spreken, "een verhaal hebben"
+- **retorica**: de kunst om overtuigend te spreken, "een verhaal te hebben"
+
 Deze drie staan ten dienste van een algemeen streven: het verwerven van **meesterschap**. 
 
 Het gaat hier niet slechts om vaardigheden, maar om _kunsten_: het zijn namelijk drie van de zeven **artes liberales**. De vier andere zijn: astronomie, meetkunde, rekenkunde en... muziek. Deze vier vormen samen het **quadrivium**. Zie ook [[Septem Artes Liberales]].
