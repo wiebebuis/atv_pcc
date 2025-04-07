@@ -1,5 +1,5 @@
 ---
-title: Semantisch netwerk over muziek en muziektheorie
+title: Semantisch Netwerk over Muziek en Muziektheorie
 draft: false
 tags:
 ---
