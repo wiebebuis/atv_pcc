@@ -9,5 +9,5 @@ Deelt men twee opeenvolgende getallen op elkaar dan wordt gaande weg de gulden s
 
 In de muziek wordt deze verhouding toegepast door: Bartók, Debussy, 
 
-
+Zie ook [[Assenkruis]].
 
