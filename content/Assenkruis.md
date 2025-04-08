@@ -15,6 +15,7 @@ Beschouwen we een positie op de kwintencirkel als Tonica dan wordt deze vergezel
 Ernö Lendvai legt ook de verbinding tussen assenkruisen en harmonische functies. Een harmonische functie kan in zijn visie worden gerepresenteerd door 4 tonaliteiten. Deze denkwijze krijgt in de literatuur kritiek (van o.a. Antokoletz).
 
 ![[kwintencirkel met TSD.jpeg]] 
+
 ![[functie assenkruisen.jpeg]]
 
 
