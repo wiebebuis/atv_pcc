@@ -19,17 +19,17 @@ Voorstel: 1 x per maand een aflevering van max. 30 minuten?
 #### Mogelijke onderwerpen (willekeurige opsomming)
 - Voorbeelden van intro's en outro's: de langzame inleiding bij Haydn, Beethoven, Mozart?
 - Een harmonisch schema als uitgangspunt voor een muziekwerk: Partimentopatronen Folia & Romanesca; Bachs Chaconne, Passacaglia, Goldbergvariaties; Brahms 4e deel 4e symfonie?
-- Melodievorming en frasering (liedvormen): gaat op voor de middeleeuwen tot en met de moderne tijd; misschien aande hand van liefdesliedjes, spotliedjes, 
-- De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging: dansen door de eeuwen heen; renaissance, barok, 19e eeuw, Zuid-amerikaans?
+- Melodievorming en frasering (liedvormen): gaat op voor de middeleeuwen tot en met de moderne tijd; misschien aan de hand van liefdesliedjes, spotliedjes, ballades?
+- De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging: dansen door de eeuwen heen; renaissance, barok, 19e eeuw, Zuid-Amerikaans?
 - Harmonisch ritme: barok, klassiek, romantiek (Bruckner!), standards?
-- Sequenzen: 
-- Afsluiten (cadensformules, -typen
-- Variatie, figuratie en diminutie: Sweelinck, van Eyck, virtuozenvariaties 19e eeuw, 
-- Improvisatie: partimento, cadenza's, functieomschrijving Kapelmeister 18e eeuw.
-- Chromatiek: Chopin, Brahms, Liszt, Wagner, Fauré
-- Modaliteit
-- Lineaire harmonie: Chopin (Mazurkas en Walsen), Brahms
-- "Lijntjes" binnen meerstemmigheid: Bach koralen verschillende harmonisaties van 1 melodie
+- Sequenzen: mer à boire....
+- Afsluiten (cadensformules, -typen) van Middeleeuwen tot en met jazz, koppelen aan stembewegingen en akkoordkleuren?
+- Variatie, figuratie en diminutie: Sweelinck, van Eyck, virtuozenvariaties 19e eeuw?
+- Improvisatie: partimento, cadenza's, functieomschrijving Kapelmeister 18e eeuw?
+- Chromatiek: Chopin, Brahms, Liszt, Wagner, Fauré? Jazz?
+- Modaliteit:
+- Lineaire harmonie: Chopin (Mazurkas en Walsen), Brahms?
+- "Lijntjes" binnen meerstemmigheid: Bach koralen verschillende harmonisaties van 1 melodie? Bach Partita's voor klavier?
 - Muzikale vraagtekens, uitroeptekens, punten, komma's, ...
 - Texturen (homofonie, polyfonie, heterofonie, ...)
 - Vormen, vormtypen
