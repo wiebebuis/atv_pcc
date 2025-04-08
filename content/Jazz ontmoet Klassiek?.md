@@ -17,18 +17,19 @@ Voorstel: 1 x per maand een aflevering van max. 30 minuten?
 #### Titel?
 ... 
 #### Mogelijke onderwerpen (willekeurige opsomming)
-- Voorbeelden van intro's en outro's
-- Een harmonisch schema als uitgangspunt voor een muziekwerk
-- Melodievorming en frasering (liedvormen)
-- De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging
-- Harmonisch ritme
-- Sequenzen
+- Voorbeelden van intro's en outro's: de langzame inleiding bij Haydn, Beethoven, Mozart?
+- Een harmonisch schema als uitgangspunt voor een muziekwerk: Partimentopatronen Folia & Romanesca; Bachs Chaconne, Passacaglia, Goldbergvariaties; Brahms 4e deel 4e symfonie?
+- Melodievorming en frasering (liedvormen): gaat op voor de middeleeuwen tot en met de moderne tijd; misschien aande hand van liefdesliedjes, spotliedjes, 
+- De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging: dansen door de eeuwen heen; renaissance, barok, 19e eeuw, Zuid-amerikaans?
+- Harmonisch ritme: barok, klassiek, romantiek (Bruckner!), standards?
+- Sequenzen: 
 - Afsluiten (cadensformules, -typen
-- Variatie, figuratie en diminutie
-- Improvisatie
-- Chromatiek
-- Lineaire harmonie
-- "Lijntjes" binnen meerstemmigheid
+- Variatie, figuratie en diminutie: Sweelinck, van Eyck, virtuozenvariaties 19e eeuw, 
+- Improvisatie: partimento, cadenza's, functieomschrijving Kapelmeister 18e eeuw.
+- Chromatiek: Chopin, Brahms, Liszt, Wagner, Fauré
+- Modaliteit
+- Lineaire harmonie: Chopin (Mazurkas en Walsen), Brahms
+- "Lijntjes" binnen meerstemmigheid: Bach koralen verschillende harmonisaties van 1 melodie
 - Muzikale vraagtekens, uitroeptekens, punten, komma's, ...
 - Texturen (homofonie, polyfonie, heterofonie, ...)
 - Vormen, vormtypen
