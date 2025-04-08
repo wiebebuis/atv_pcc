@@ -17,17 +17,18 @@ Voorstel: 1 x per maand een aflevering van max. 30 minuten?
 #### Titel?
 ... 
 #### Mogelijke onderwerpen (willekeurige opsomming)
-- Voorbeelden van intro's en outro's: de langzame inleiding bij Haydn, Beethoven, Mozart?
+- Voorbeelden van intro's en outro's: de langzame inleiding bij Haydn, Beethoven, Mozart; coda's en finales van symfonieën?
 - Een harmonisch schema als uitgangspunt voor een muziekwerk: Partimentopatronen Folia & Romanesca; Bachs Chaconne, Passacaglia, Goldbergvariaties; Brahms 4e deel 4e symfonie?
-- Melodievorming en frasering (liedvormen): gaat op voor de middeleeuwen tot en met de moderne tijd; misschien aan de hand van liefdesliedjes, spotliedjes, ballades?
+- Melodievorming en frasering (liedvormen): gaat op voor de middeleeuwen tot en met de moderne tijd; misschien aan de hand van liefdesliedjes, spotliedjes, ballades, chansons, kleinkunstliederen?
 - De metrisch ritmische dimensie: puls, tempo, rubato (en andere vrijheden), versnelling/vertraging: dansen door de eeuwen heen; renaissance, barok, 19e eeuw, Zuid-Amerikaans?
 - Harmonisch ritme: barok, klassiek, romantiek (Bruckner!), standards?
+- Complementair ritme: vergelijking tussen complementair ritme in "klassieke" contrapuntische muziek en vergelijkbare fenomenen in jazz (opties)?
 - Sequenzen: mer à boire....
 - Afsluiten (cadensformules, -typen) van Middeleeuwen tot en met jazz, koppelen aan stembewegingen en akkoordkleuren?
-- Variatie, figuratie en diminutie: Sweelinck, van Eyck, virtuozenvariaties 19e eeuw?
-- Improvisatie: partimento, cadenza's, functieomschrijving Kapelmeister 18e eeuw?
-- Chromatiek: Chopin, Brahms, Liszt, Wagner, Fauré? Jazz?
-- Modaliteit:
+- Variatie, figuratie en diminutie: Sweelinck, van Eyck, virtuozenvariaties 19e eeuw? afgezet tegen beroemde versies van beroemde standards?
+- Improvisatie: partimento, cadenza's, functieomschrijving Kapelmeister 18e eeuw? Hoe wordt het fenomeen improvisatie benaderd vanuit de klassieke optiek (organisten) en de jazz? 
+- Chromatiek: Chopin, Brahms, Liszt, Wagner, Fauré? Jazz? Lydian Chromatic Concept of Tonal Organization?
+- Modaliteit: Modale harmonie afgezet tegen modal interchange?
 - Lineaire harmonie: Chopin (Mazurkas en Walsen), Brahms?
 - "Lijntjes" binnen meerstemmigheid: Bach koralen verschillende harmonisaties van 1 melodie? Bach Partita's voor klavier?
 - Muzikale vraagtekens, uitroeptekens, punten, komma's, ...
