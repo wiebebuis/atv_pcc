@@ -2,7 +2,6 @@
 tags:
   - werkmodel
 ---
-
 Natuurlijk is de **melodie** belangrijk, maar: het **harmonische raamwerk** of **akkoordenschema** is net zo belangrijk en vormt altijd de **ruggengraat** van een standard. Zonder dat hangt de melodie "in de lucht".
 
 De te volgen **STAPPEN:**

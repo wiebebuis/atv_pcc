@@ -1,1 +1,1 @@
-![[KBPedia_four_components.png]]
+![[KBPedia_four_components.png|300]]

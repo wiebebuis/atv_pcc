@@ -6,3 +6,6 @@ Muzikale vorm is een psychologisch fenomeen en bestaat daarom alleen bij gratie 
 
 (Hermann Erpf)
 [[ANALYSE]]
+
+Zie ook [[ANALYSIS ACCORDING TO HERMANN ERPF.jpg]]
+

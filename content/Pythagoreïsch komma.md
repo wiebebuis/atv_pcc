@@ -3,7 +3,7 @@ Een reeks van _12 reine kwinten_ keert **niet** terug op een zuiver octaaf v
 
 In deze context blijkt dat enharmonisch "gelijke" tonen helemaal niet gelijk zijn. Ze verschillen een (Pythagoreïsch) **komma**.
 
-Dat is proefondervindelijk aan te tonen door zelf een reeks van zuivere kwinten en octaven te stemmen, maar ook door het uit te rekenen:
+Dit is proefondervindelijk aan te tonen door zelf een reeks van zuivere kwinten en octaven te stemmen, maar ook door het uit te rekenen:
 
 3/2 tot de macht 12 = 531441/4096 = **129,746338**
 

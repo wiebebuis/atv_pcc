@@ -1,4 +1,4 @@
-Een bekende getallenreeks bestaande uit
+Een bekende getallenreeks genoemd naar Leonardo van Pisa (ook bekend als Fibonacci) bestaande uit:
 
 2 3 5 8 13 21 34 55 89 ...
 

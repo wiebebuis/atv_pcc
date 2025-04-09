@@ -10,7 +10,7 @@ tags:
 ## Een semantisch netwerk
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in **Algemeen Theoretische Vakken** aan het Prins Claus Conservatorium in Groningen. Zoals de onderstaande afbeelding suggereert, gaat het om een (semantisch) netwerk. Het **idee** achter dit initiatief is:
 
-Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**. Ik heb een concept map gemaakt van de denkwijze achter atv_pcc: [[Gedachten over onderwijs]].
+Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**. Ik heb een concept map gemaakt van de denkwijze achter atv_pcc: [[Gedachten over atv-onderwijs]].
 
 Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik niet echt bruikbaar. De Obsidian plugin **Excalibrain** van Zsolt Viczian is wat mij betreft voorlopig de beste oplossing om daarin te voorzien. 
 

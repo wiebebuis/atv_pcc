@@ -1,4 +1,4 @@
-Universal cateogories: Firstness, secondness, thirdness
+Universal cateogories: firstness, secondness, thirdness
 
 Triple: s-p-o : subject - predicate - object.
 Also called a **proposition**.

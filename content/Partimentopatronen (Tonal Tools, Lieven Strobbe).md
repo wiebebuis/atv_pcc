@@ -1,5 +1,5 @@
 Zie ook [[Partimentopatronen (Galant Schemata)]]
-**NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... :-(
+**NB** Helaas is de iOS app die hierbij ontwikkeld werd, niet meer beschikbaar... ☹️.
 
 "A **schema** is a **prototype** of common patterns like blues, folia, Andalusian cadence."
 

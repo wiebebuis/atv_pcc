@@ -6,7 +6,7 @@ tags:
 
 Analysebenadering bedacht en geformuleerd door Lawrence Ferrara.
 
-Tien stappen bij een holistische analyse
+Hij onderscheidt tien stappen bij een holistische analyse:
 1. Verken de historische context van het werk
 2. Wat is de globale vorm, structuur en textuur van het werk?
 3. Zoom in op de syntax, hoe het werk geconstrueerd is.

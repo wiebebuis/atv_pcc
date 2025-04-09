@@ -9,9 +9,10 @@ SOLve polluti
 LAbii reatum
 (Sancte Joannes).
 
-![[content/Afbeeldingen/Ut_queant_laxis_Gregorian_notation_Benedictine_tradition.gif]]
+![[content/Afbeeldingen/Ut_queant_laxis_Gregorian_notation_Benedictine_tradition.gif|400]]
 
 In de huidige muziekpraktijk zijn er twee soorten solmisatie:
-Relatief of "movable DO" waarbij de finalistoon altijd de do is.
-Absoluut, waarbij de pitch-class C altijd de DO is, de pitchclass D altijd de RE is, etc.
-De manier van solmiseren in bijvoorbeeld de Italiaanse Solfeggi uit de partimentopraktijk van de 18e eeuw is een voorbeeld van een movable DO systeem.!
+- Relatief of "movable DO" waarbij de finalistoon altijd de do is.
+- Absoluut, waarbij de pitch-class C altijd de DO is, de pitchclass D altijd de RE is, etc.
+
+De manier van solmiseren in bijvoorbeeld de Italiaanse Solfeggi uit de partimentopraktijk van de 18e eeuw is een voorbeeld van een movable DO systeem.

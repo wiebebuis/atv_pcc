@@ -1,6 +1,9 @@
 Verwijst naar een verzameling ideeën die worden gepresenteerd in het werk van David Lewin, Richard Cohn, Henry Klumpenhouwer, Brian Hyer.
+
 Akkoorden worden hierbij geprojecteerd op een raster van kwinten en tertsen (een Tonnetz):
+
 ![[content/Afbeeldingen/Tonnetz.png]]
+Grote en kleine drieklanken zijn zichtbaar als driehoeken, verminderde en overmatige drieklanken als diagonalen.
 
 Triadic transformations (P, R, L):
 - Parallel

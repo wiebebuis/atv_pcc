@@ -4,4 +4,4 @@ tags:
   - psycholoog
 ---
 https://nl.wikipedia.org/wiki/Pjotr_Galperin
-
+Russische leerpsycholoog.

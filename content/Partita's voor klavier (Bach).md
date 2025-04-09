@@ -18,6 +18,8 @@ Op de plaats van X vinden we:
 - Suite V: Tempo di Menuetto - Passepied
 - Suite VI: Air tussen C en S; Tempo di Gavotta tussen S en G.
 
+Zie ook [[A-C-S-G-Raamwerk]].
+
 Andras Schiff:
 https://open.spotify.com/album/3ACiWkhk9MBhjIxL04hQbq?si=Fqhd_5jpThiZ8nkEIQwh7A
 
