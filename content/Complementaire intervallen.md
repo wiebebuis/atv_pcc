@@ -24,7 +24,7 @@ Dit kun je toepassen op alle intervallen:
 
 Of op deze manier:
 
-![[complementaire_intervallen_005.jpeg|600]]
+![[complementaire_intervallen_05.jpeg|600]]
 - kleine 2 wordt grote 7
 - grote 3 wordt kleine 6
 - overmatige 4 wordt verminderde 5
