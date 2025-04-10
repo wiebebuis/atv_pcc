@@ -1,6 +1,6 @@
 Twee tonen vormen een [[Interval]]. 
 
-Met twee tonen kun je altijd **twee** intervallen maken. We gebruiken de stamtonen ("witte toetsen") als voorbeeld). Dat wordt ook wel het interval "omkeren" genoemd.
+Met twee tonen kun je altijd **twee** intervallen maken.  Dat wordt ook wel het interval "omkeren" genoemd. We gebruiken de stamtonen ("witte toetsen") als voorbeeld).
 
 Neem de tonen D en F: die kunnen samen een **terts** vormen of samen een **sext**.
 
