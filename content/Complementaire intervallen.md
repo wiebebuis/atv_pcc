@@ -1,12 +1,12 @@
-Twee tonen vormen een [[Interval]]. 
+De afstand tussen twee tonen wordt een **interval** genoemd.
 
-Met twee tonen kun je altijd **twee** intervallen maken.  Dat wordt ook wel het interval "omkeren" genoemd. We gebruiken de stamtonen ("witte toetsen") als voorbeeld).
+Met twee tonen kun je altijd **twee** intervallen maken.  Dat wordt ook wel het interval "omkeren" genoemd. We gebruiken de stamtonen ("witte toetsen") als voorbeeld.
 
 Neem de tonen D en F: die kunnen samen een **terts** vormen of samen een **sext**.
 
 ![[complementaire_intervallen_02.jpeg|130]]
 
-Samen vullen ze elkaar aan tot een (rein) **octaaf**.:
+Samen vullen ze elkaar aan tot een (rein) **octaaf**:
 
 ![[complementaire_intervallen_03.jpeg|130]]
 
