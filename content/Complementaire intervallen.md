@@ -6,9 +6,11 @@ Neem de tonen D en F: die kunnen samen een **terts** vormen of samen een **sext*
 
 ![[complementaire_intervallen_02.jpeg|130]]
 
-Samen vullen ze elkaar aan tot een (rein) **octaaf**:
+Samen vullen ze elkaar aan tot een (rein) **octaaf** :
 
 ![[complementaire_intervallen_03.jpeg|130]]
+
+Deze combinaties van intervallen die elkaar *aanvullen* tot een rein octaaf, worden **complementaire intervallen** genoemd. 
 
 Dit kun je toepassen op alle intervallen:
 
