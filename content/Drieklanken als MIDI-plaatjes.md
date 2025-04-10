@@ -7,7 +7,7 @@ Eerste de MIDI-weergave van een verminderde, kleine, grote en overmatige driekla
 ![[midi-plaatje drieklank verm kl gr ov.png]]
 ![[midiplaatjes 4 drieklanken verm kl gr ov.mp3]]
 
-Het zijn er 6, steeds een halve toonsafstand hoger. Ze zijn dus **chromatisch** gerangschikt.
+Nu gaan we over tot de vergelijking van de 4 verschillende drieklanken, groot, klein, verminderd en overmatig. Het zijn er (per soort drieklank) 6, steeds een halve toonsafstand hoger. Ze zijn dus **chromatisch** gerangschikt.
  
 ---
 #### GROTE DRIEKLANKEN
