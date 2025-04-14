@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce
+Zie ook [[Peirce, Charles Sanders (1839-1914)]]
 
 (Deze notitie put voornamelijk uit Knowledge Representation, a Practionary van Bergman.)
 
