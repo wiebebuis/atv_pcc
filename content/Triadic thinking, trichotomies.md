@@ -8,10 +8,10 @@ Subject - Predicate - Object
 
 ### Universal Categories
 - Firstness (1ns)
-- Secondnes (2ns)
+- Secondness (2ns)
 - Thirdness (3ns)
 ### Three elements in semiosis
-- sign (reegisifnpresentamen)
+- sign (representamen)
 - (semiotic) object 
 - interpretant (interpretant sign)
 

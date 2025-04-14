@@ -40,7 +40,7 @@ Dus: in het gebied van **Secondness** beschrijven we de specifieke objecten/elem
 >In het semantische netwerk atv_pcc ben ik uitgegaan van de definities van **Novak** en **Bod**. De term **concept** van Novak komt overeen met de term **patroon** van Bod. In die zin kunnen concepten dus  voorkomen in alle drie de **universal categories**. 
 
 >[!example]Voorbeeld
->Het concept symfonie staat voor alle mogelijke muziekwerken met die titel (**Firstness**). De Vijfde Symfonie van Gustav Mahler is een concreet voorbeeld van een bestaande symfonie (**Secondness**). Als we symfonieën in de geschiedenis nader observeren zijn daarin patronen, regelmatigheden, en misschien wel wetten in te ontdekken, zoals het werken met thema's en motieven, het vormgeven van een (abstracte) narratieve plot, enz. (**Thirdness**). 
+>Het concept **symfonie** staat voor alle mogelijke muziekwerken met die titel (**Firstness**). De Vijfde Symfonie van Gustav Mahler is een concreet voorbeeld van een bestaande symfonie (**Secondness**). Als we symfonieën in de geschiedenis nader observeren zijn daarin patronen, regelmatigheden, en misschien wel wetten in te ontdekken, zoals het werken met thema's en motieven, het vormgeven van een (abstracte) narratieve plot, enz. (**Thirdness**). 
 
 >[!quote] Citaat van Bergman (blz. 122):
 >It took me a while to realize that Firstness, Secondness, and Thirdness are not a linear sequence, nor one in time.

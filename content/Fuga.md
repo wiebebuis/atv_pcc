@@ -1,3 +1,8 @@
+---
+draft: false
+tags: 1ns
+  - 
+---
 Een vorm van [[Contrapuntische muziek]] waarbij de eerste helft van de 18e eeuw en in het bijzonder het werk van Johann Sebastian Bach als het gouden tijdperk wordt bestempeld.
 De term kan verwijzen naar een compositorische/contrapuntische schrijfwijze, maar wordt later ook gebruikt om het compositiegenre fuga aan te duiden.
 Het is een 'containerterm': de term wordt gebruikt sinds de veertiende eeuw tot op heden.

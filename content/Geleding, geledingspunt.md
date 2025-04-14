@@ -1,3 +1,8 @@
+---
+draft: false
+tags: 1ns
+  - 
+---
 (Engels: segmentation, segmentation point).
 De manier waarop een geheel in samenstellende onderdelen kan worden ontleed.
 Een sonatevorm bijvoorbeeld kan worden ontleed in expositie-doorwerking-reprise.
