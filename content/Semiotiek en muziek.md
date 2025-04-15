@@ -15,11 +15,14 @@ Terugkerende "events" worden als representaties van een **paradigma** beschouwd 
 
 **D. Lidov** sluit ook aan bij Peirce en beïnvloedde **Vladimir Karbusicky**. Lidov is bekend vanwege de omkering van een veel gestelde onderzoeksvraag: "Is music a language?", die hij omkeert tot "Is language a music?".
 
+**Raymond Monelle**: Linguistics and Seniotics in Music; The Sense of Music: semiotic essays; The Musical Topic: hunt, miltary and pastoral.
+
 **R. Hatten** baseert zich op M. Shapiro en komt tot de definitie van stilistische categorieën of topoi in een compositie. Zie ook [[Topos, topoi]].
 
 **E. Tarasti** introduceert de term "**actoriality**" verwijzend naar naar antropomorfe kenmerken (zoals "wil", doelgerichtheid). 
 
 **A. Greimas** kiest een narratologische benadering, hij beïnvloedt Tarasti.
+
 **M. Grabócz** past narratieve ordening toe op muziek van Liszt. 
 Hier is sprake van een analogie met processen in literatuur.
 
@@ -27,7 +30,7 @@ Hier is sprake van een analogie met processen in literatuur.
 
 **Robert Samuels** kiest een meer flexibele benadering.
 
-**Kofi Agawu** richt zich op een meerdimensionele visie op "het teken"; met aandacht voor de wederzijdse afhankelijkheid van stylistische topoi en interne relaties.
+**Kofi Agawu** richt zich op een meerdimensionele visie van "het teken"; met aandacht voor de wederzijdse afhankelijkheid van stylistische topoi en interne relaties.
 
 https://doi-org.access.authkb.kb.nl/10.1093/gmo/9781561592630.article.49388 (KB)
 
