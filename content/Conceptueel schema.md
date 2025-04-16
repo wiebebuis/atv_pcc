@@ -1,6 +1,6 @@
 Is te zien als een overzicht of een "kaart" van een kennisgebied of kennisdomein. 
 Zo'n schema is een weerspiegeling van **concepten** en hun **relaties**.
-Zie ook [[Patronen en principes]], [[Concept]], [[Concept Map]], [[Topic Map]]
+Zie ook [[Patronen en principes]], [[Concepten]], [[Concept Map]], [[Topic Map]]
 
 ## Complexiteit 
 Concepten en patronen variëren in complexiteit en detaillering.

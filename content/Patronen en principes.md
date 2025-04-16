@@ -10,7 +10,7 @@ Uit onderzoek van de [[Gestaltpsychologie]] weten we dat wij mensen altijd onze 
 
 Een **patroon** is een waargenomen regelmatigheid die een element van herhaling in zich bergt die niet noodzakelijk onveranderlijk is.  (Denk aan een stadsplattegrond, bijvoorbeeld van Amsterdam: het stratenpatroon van het centrum met de grachtengordel. Vergelijk dit eens met de stadsplattegrond van Den Haag.)
 
-Een patroon wordt ook wel een [[Concept]]  genoemd (Joseph D. Novak).
+Een patroon wordt ook wel een [[Concepten]]  genoemd (Joseph D. Novak).
 
 Patronen hebben ook een zekere **voorspellende kracht**.
 
