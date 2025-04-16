@@ -7,7 +7,7 @@ tags:
 
 ![[quote murphy concepts.png]]
 
->[!info] 
+>[!note] Opmerking  
 >Vragen of opmerkingen?
 >Mail me op wiebe[.]buis[at]gmail[.]com || Neem ook eens een kijkje op https://h5p.skole.nl of op mijn "oude" site https://skole.nl. De opvolger staat ook al klaar om "gevuld te worden".
 >![[look van de nieuwe skole site.png]]
