@@ -9,7 +9,8 @@ tags:
 
 >[!info] 
 >Vragen of opmerkingen?
->Mail me op wiebe[.]buis[at]gmail[.]com || Neem ook eens een kijkje op https://h5p.skole.nl of op mijn "oude" site https://skole.nl
+>Mail me op wiebe[.]buis[at]gmail[.]com || Neem ook eens een kijkje op https://h5p.skole.nl of op mijn "oude" site https://skole.nl. De opvolger staat ook al klaar om "gevuld te worden".
+>![[look van de nieuwe skole site.png]]
 >
 ## Een semantisch netwerk
 Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor de *kennisdomeinen* van het onderwijs in **Algemeen Theoretische Vakken** aan het Prins Claus Conservatorium in Groningen. Zoals de onderstaande afbeelding suggereert, gaat het om een (semantisch) netwerk. Het **idee** achter dit initiatief is:
