@@ -13,7 +13,6 @@ In kennisconstructie en competentieverwerving spelen voor de muziek relevante **
 - weten 
 - begrijpen
 - doen
-
 ### Niveaus, Zelfstandigheid en Complexiteit (NZC)
 Twee belangrijke dimensies in het kader van toetsen en beoordelen
 van leren zijn **zelfstandigheid** en **complexiteit**.

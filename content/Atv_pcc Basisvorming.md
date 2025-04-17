@@ -7,6 +7,7 @@ Er is een aantal **leersituaties** of "lessen".
 - MC: Muziek- en Cultuurgeschiedenis
 - PP: Pianopracticum
 - HML: Harmonieleer/Contrapunt
+- Electives
 Zie ook en vooral [[ATV_PCC Concept Map Theoretische vorming]]
 
 
