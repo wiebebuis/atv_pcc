@@ -13,12 +13,17 @@ In kennisconstructie en competentieverwerving spelen voor de muziek relevante **
 - weten 
 - begrijpen
 - doen
-### Niveaus en complexiteit
+### Niveaus: Zelfstandigheid en Complexiteit (NZC)
 Twee belangrijke dimensies in het kader van toetsen en beoordelen
 van leren zijn **zelfstandigheid** en **complexiteit**.
-
-Binnen Hanze wordt daarvoor wel het [[Zelcom-model]] gebruikt.
-
+Binnen de Hanzehogeschool wordt daarvoor (soms?) het [[Zelcom-model]] gebruikt.
+### NZC weerspiegeld in taken?
+In de [[ATV_PCC Concept Map Theoretische vorming]] heb ik een voorzet gegeven van verschillende soorten taken:
+1. Oefeningen (opbouwen routines) voor zelfstudie
+2. Opdrachten/taken ('huiswerk") voor leersituaties/"vakken"
+3. Kernopgaven voor het demonstreren van competenties
+Ik heb daarvan in het zelfde schema een aantal mogelijke voorbeelden gegeven:
+![[ATV_PCC "de student aan het werk".png]]
 
 
 
