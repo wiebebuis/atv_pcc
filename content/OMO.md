@@ -1,1 +1,1 @@
-Afkorting van Oxford Music Online.
+Oxford Music Online.

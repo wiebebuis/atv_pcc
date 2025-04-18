@@ -14,7 +14,7 @@ In kennisconstructie en competentieverwerving spelen voor de muziek relevante **
 - begrijpen
 - doen
 ### Niveaus, Zelfstandigheid en Complexiteit (NZC)
-Twee belangrijke dimensies in het kader van toetsen en beoordelen
+Twee belangrijke dimensies in het kader van leren, toetsen en beoordelen
 van leren zijn **zelfstandigheid** en **complexiteit**.
 Binnen de Hanzehogeschool wordt daarvoor (soms?) het [[Zelcom-model]] gebruikt.
 ### NZC weerspiegeld in taken?
