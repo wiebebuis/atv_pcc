@@ -1,3 +1,5 @@
+### Context
+Curriculum van het PCC Groningen.
 ### Algemene zaken
 Het onderwijs in algemeen theoretische vakken put uit diverse [[Kennisdomeinen]].
 

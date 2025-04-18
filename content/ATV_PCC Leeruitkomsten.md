@@ -9,9 +9,15 @@ De Leeruitkomsten (competenties) worden verworveni n 4 "containers":
  ![[competenties:leeruitkomsten bachelor muziek 2022.jpg]]
 
 Binnen de **theoretische vorming** wordt aan de volgende competenties gewerkt en deze worden  ook in die context getoetst en beoordeeld (dus formatief en summatief):
-- 1.1 en 1.2
-- 4.1.en 4.2
-- 5.2 en 5.3
+- 1.1 en 1.2 ("Music als Ambachtsmens")
+- 4.1.en 4.2 ("Musicus als Onderzoeker") 
+- 5.2 en 5.3 (" Musicus als Uitvoerder, Presentator, Communicator")
+Uiteraard moet de manier waarop dit waarneembaar en toetsbaar wordt in de "container muziektheoretische vorming" vanuit het perspectief van algemeen theoretische vakken worden ingekleurd. 
+
+Dat "inkleuren" gebeurt door:
+- te putten uit diverse [[Kennisdomeinen]] en 
+- te werken vanuit  [[Conceptgebaseerd leren]]; werken met **muzikale concepten** in hun onderlinge **samenhang** in een **context**.
+- binnen diverse leersituaties ("vakken").
 
 #### Niveaus
 Binnen Hanze wordt voor de bacheloropleidingen gewerkt met 3 niveau's. Niveaus kunnen worden geoperationaliseerd met behulp van het [[Zelcom-model]]:
