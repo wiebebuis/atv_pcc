@@ -9,3 +9,11 @@ In de zin van een geroosterde leersituatie:
 - HML2 (harmonieleer gevorderd en/of contrapunt) (3)
 
 - Electives voor vrije studiepunten
+
+### NB: In jaar 2 en volgende loopt nog het "oude programma"
+
+- Contextuele studies, 
+- pianopracticum jaar 2
+- gehoorvorming, 
+- HML 1 en 2 (in jaar 2 en 3...)
+- Practice Based Research (jaar 4)
