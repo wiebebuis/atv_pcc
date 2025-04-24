@@ -1,5 +1,5 @@
 ### Concept Map
-{het plaatje}
+Toelichting bij {het plaatje}
 ### Context
 Curriculum van het PCC Groningen.
 ### Algemene zaken
@@ -26,8 +26,8 @@ In de [[ATV_PCC Concept Map Theoretische vorming]] heb ik een voorzet gegeven va
 1. Oefeningen (opbouwen routines) voor zelfstudie
 2. Opdrachten/taken ('huiswerk") voor leersituaties/"vakken"
 3. Kernopgaven voor het demonstreren van competenties: van deze laatste 
-heb ik in hetzelfde schema een aantal mogelijke voorbeelden gegeven met oplopende complexiteit/oplopend niveau:
-![[ATV_PCC "de student aan het werk".png]]
+heb ik in hetzelfde schema een aantal mogelijke voorbeelden gegeven met oplopende complexiteit/oplopend niveau.
+
 
 
 
