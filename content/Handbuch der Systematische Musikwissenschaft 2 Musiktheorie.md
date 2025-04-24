@@ -1,5 +1,5 @@
 
-Hoofdstukken
+Hoofdstukken:
 1. Universelle Harmonien als musikalische Proportionen
 2. Ars combinatoria - Rhetorik - Sprachcharakter der Musik
 3. Struktur und Form
