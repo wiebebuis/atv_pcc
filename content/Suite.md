@@ -4,7 +4,7 @@ Later (in de 19e en 20e eeuw) kan het ook gaan om een aantal delen uit een grote
 
 "Suite" in de betekenis van opeenvolging komt van het Franse "suivre"; volgen.
 
-Het artikel in Oxford Music Online, brengt goed in kaart wat de uitdagingen zijn om de oorsprong en ontwikkeling van het fenomeen suite en de daarin opgenomen dansen adequaat en eenduidig te beschrijven. 
+Het artikel in Oxford Music Online brengt goed in kaart wat de uitdagingen zijn om de oorsprong en ontwikkeling van het fenomeen suite en de daarin opgenomen dansen adequaat en eenduidig te beschrijven. 
 
 Nochtans wordt de term "classical suite" voorgesteld, gebruikt om een relatief stabiel patroon van danskarakters aan te geven: A-C-S-(G). 
 
@@ -15,7 +15,7 @@ De term "classical suite" wordt afgezet tegen "non-classical suite", die kenmerk
 
 >[!Note] Opmerking
 >
->Voor gebruik in de (algemene) analyse is een gedetailleerde historische schets van de (internationale) ontwikkeling van de suite m.i. minder zinvol. Wel is het nuttig om naast de voorbeelden van Bach ook muziek van in ieder geval François Couperin (en eventueel Jean-Philippe Rameau, en Händel) ter illustratie op te nemen. Aan de hand van Bach hebben we muziek van hoge kwaliteit om algemene concepten verbonden met suite en suitedeel te verduidelijken.
+>Voor gebruik in de (algemene) analyse is een gedetailleerde historische schets van de (internationale) ontwikkeling van de suite m.i. minder zinvol. Wel is het nuttig om naast de voorbeelden van Bach ook muziek van in ieder geval François Couperin (en eventueel Jean-Philippe Rameau en Händel) ter illustratie op te nemen. Aan de hand van Bach hebben we muziek van hoge kwaliteit om algemene concepten verbonden met suite en suitedeel te verduidelijken.
 
 #### Namen
 - Elisabeth-Claude Jacquet de la Guerre (1665-1729)

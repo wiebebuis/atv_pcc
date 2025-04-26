@@ -8,5 +8,5 @@ Hierin spreekt men ook wel van
 
 Bron: Leren door handelen - Carel van Parreren
 
-Andere belangrijke namen: Gal'perin, Vygotsky 
+Andere belangrijke namen:  [[Galperin, Pjotr (1902-1988)]] en [[Vygotsky, Lev (1896-1934)]].
 ...

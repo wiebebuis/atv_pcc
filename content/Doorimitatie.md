@@ -2,4 +2,4 @@ Contrapuntische techniek waarbij een muzikaal idee (melodisch fragment of een mo
 Het is een zeer algemeen toegepast principe in [[Contrapuntische muziek]].
 In overvloed te vinden in [[Ricercare]], [[Fuga]], [[Motet]]. 
 
-[[CONTRAPUNT]]
+Zie ook[[CONTRAPUNT]].
