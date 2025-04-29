@@ -7,7 +7,7 @@ In AHWM worden drie typen onderscheiden:
 
 A History of Western Music (10e druk)  blz. 500.
 
-Het plaatje is onvolledig; het gaat kennelijk uit van binary forms in majeur. Bij een mineur hoofdtoonsoort is ook modulatie naar de (majeur)parallel mogelijk. De meest linkse van de rounded binary komt het dichtst in de buurt van het latere "klassieke" sonatevormtype. 
+De meest linkse van de rounded binary komt het dichtst in de buurt van het latere "klassieke" sonatevormtype. 
 
 >[!note] Terzijde
 >

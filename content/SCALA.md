@@ -1,6 +1,6 @@
 https://www.huygens-fokker.org/scala/
 
-SCALA is software om te experimenteren met toonladders en stemmingen/temperamenten. Bevat ook micro-tonale varianten en niet westerse ladderpatronen.
+SCALA is software om te experimenteren met toonladders en stemmingen/temperamenten. Bevat ook micro-tonale varianten en niet-westerse ladderpatronen.
 
 Scala is gemaakt door Manuel Op de Coul in Nederland.
 
