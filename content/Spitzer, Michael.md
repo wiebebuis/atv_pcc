@@ -5,6 +5,8 @@ tags:
   - musicoloog
   - muziektheoreticus
 ---
+MTiR voor de VvM in oktober 2025.
+
 https://www.liverpool.ac.uk/people/michael-spitzer#tabbed-content
 
 Belangrijke titels:
