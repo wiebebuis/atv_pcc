@@ -8,7 +8,9 @@ Voorstel voor een mogelijk codering:
 Bij de toepassing van kleurrijke tertsgerelateerde akkoorden in het algemeen (dus niet beperkt tot alteraties van III en VI) spreken we van mediantverhoudingen. 
 
 Het gebruik van consonante drieklanken in een chromatische toonruimte, zonder afhankelijkheid van een duidelijk tooncentrum of een tonica wordt door Richard Cohn beschreven in zijn boek 
-*Audacious Euphony - Chromaticism and the Triad's Second Nature* (OUP, 2012). Hij introduceert de term [[Pan-triadic harmony]].
+*Audacious Euphony - Chromaticism and the Triad's Second Nature* (OUP, 2012). Hij introduceert de term [[Pan-triadic harmony]]. 
+
+Ook het boek *Hollywood Harmony: Musical Wonder and the Sound of Cinema* van Frank Lehman is zeer de moeite waard.
 
 Componisten die hiervan gebruik maken: Schubert, Fauré, Grieg, R. Strauss.
 Daarnaast wordt het veel gebruik in filmmuziek geworteld in de "Hollywood-traditie" sinds de dertiger jaren van de twintigste eeuw. 
