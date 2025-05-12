@@ -9,7 +9,7 @@ De Leeruitkomsten (competenties) worden verworveni n 4 "containers":
  ![[competenties:leeruitkomsten bachelor muziek 2022.jpg]]
 
 Binnen de **theoretische vorming** wordt aan de volgende competenties gewerkt en deze worden  ook in die context getoetst en beoordeeld (dus formatief en summatief):
-- 1.1 en 1.2 ("Music als Ambachtsmens")
+- 1.1 en 1.2 ("Musicus als Ambachtsmens")
 - 4.1.en 4.2 ("Musicus als Onderzoeker") 
 - 5.2 en 5.3 (" Musicus als Uitvoerder, Presentator, Communicator")
 Uiteraard moet de manier waarop dit waarneembaar en toetsbaar wordt in de "container muziektheoretische vorming" vanuit het perspectief van algemeen theoretische vakken worden ingekleurd. 

@@ -10,6 +10,7 @@ Nochtans wordt de term "classical suite" voorgesteld, gebruikt om een relatief s
 
 AHWM geeft op blz. 356 het volgende overzicht van A-C-S-G:
 ![[AHWM Fig. 16.11.jpg]]
+Zie ook [[A-C-S-G-Raamwerk]].
 
 De term "classical suite" wordt afgezet tegen "non-classical suite", die kenmerkend wordt geacht voor solo- of kamermuziek gedurende de periode 1620-1645 en waaruit geen eenduidige opzet of patroon valt te destilleren.
 
