@@ -35,16 +35,18 @@ Bij Bach zijn er grote verschillen tussen de sets van 6 Suites / Partita's
 
 ## Topics:
 
-Het onderstaande verwijst naar pagina's binnen 
+Het onderstaande verwijst naar pagina's binnen deze site
 1. [[Suite]]
 2. [[Barokdansen]]
-3. [[Suitedeel]]
-4. [[Dualform]] en [[Binary Form]]
-5. [[Harmonische achtergrond]]
-6. [[Tonaal plan, tonale structuur]]
+3. Het [[A-C-S-G-Raamwerk]]
+4. [[Suitedeel]]
+5. [[Dualform]] en [[Binary Form]]
+6. [[Harmonische achtergrond]]
+7. [[Tonaal plan, tonale structuur]]
+8. Karakteristieke aspecten van textuur in Bach Suites.
    en eventueel:
-7. Textuur in Bach's suitedelen
-8. Bach's suggestie van meerstemmigheid en contrapunt in eenstemmige werken (cellosuites, vioolpartita's).
+9. Textuur in Bach's suitedelen (zie ook [[Inventie]])
+10. Bach's suggestie van meerstemmigheid en contrapunt in eenstemmige werken (cellosuites, vioolpartita's).
 
 #### Analysevoorbeelden:
 
@@ -55,7 +57,6 @@ https://skole.nl/index.php?option=com_content&view=article&id=458:bach-franse-su
 
 Van Franse Suite in G deel 1 een tweestemmig  "uittreksel"
 ![[harmonic outline french suite in G part 1 without harmonic analysis.pdf]]
-
 
 
 Naast A-C-S-G ook de setjes
