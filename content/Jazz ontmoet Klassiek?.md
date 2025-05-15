@@ -5,7 +5,6 @@ Leon Mennen en ik werken al een tijdje samen om de mate van verwantschap te onde
 Leon is klassiek en jazz gitarist, Felix is jazz pianist en ondergetekende (Wiebe) is muziektheoreticus en klassiek geschoold pianospeler (een "echte" pianist wil ik mezelf niet noemen; bescheidenheid blijft een deugd, ook in het huidige tijdsgewricht). 
 
 Met ons werk proberen we ook een brug te slaan tussen **spelers** van beide werelden en de eraan verbonden ideeën over **theoretische vorming**. 
-
 #### Aanpak
 We willen met zijn drieën een **muziekinhoudelijk gesprek** voeren over een vooraf gekozen **onderwerp**, en daar bij onze ideeën **illustreren**. Dat illustreren kan met opnames maar we willen dat vooral ook **spelend** doen. Leon illustreert klassiek en jazz gitaar, Felix jazz piano en Wiebe klassiek-romantisch piano. Op die manier kunnen we een onderwerp vanuit drie invalshoeken benaderen en de overeenkomsten en verschillen proberen duidelijk te maken.
 
