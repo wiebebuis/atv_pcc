@@ -1,7 +1,7 @@
 ### Felix
 ### Leon
 ### Wiebe
-Eerst maar even terug naar de oorspronkeleijke betekenissen van de term.
+Eerst maar even terug naar de oorspronkelijke betekenissen van de term.
 
 ![[Modus]]
 
