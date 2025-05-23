@@ -12,8 +12,8 @@ In de zin van een geroosterde leersituatie:
 
 ### NB: In jaar 2 en volgende loopt nog het "oude programma"
 
-- Contextuele studies, 
+- Contextuele studies, jaar 2 en 3
 - pianopracticum jaar 2
-- gehoorvorming, 
+- gehoorvorming jaar 2
 - HML 1 en 2 (in jaar 2 en 3...)
 - Practice Based Research (jaar 4)
