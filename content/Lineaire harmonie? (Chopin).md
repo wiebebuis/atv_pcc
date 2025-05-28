@@ -21,18 +21,18 @@ We maken als het ware een ritje op een aantrekkelijke glijbaan die lineair gezie
 - schijnbaar bekende dissonantbehandelingen (voorhoudingen) door de overbinding van de derde naar de eerste tel in de bovenstem
 - een overvloed aan tertsparallellen (ook tussen de buitenstemmen)
 #### Reducties 
-Om de bovenstaande patronen te verduidelijken, zal ik reducties presenteren van het fragment. Daarvoor is het noodzakelijk dat ik enkele aanpassingen doe in de **metrische** plaatsing van patronen en ook haal ik de figuratieve elementen weg. Naar mijn mening is een van de redenen waarom dit soort passages bij Chopin zo "ongrijpbaar" zijn, mee het gevolg van metrische verplaatsing van traditionele patronen. Ook hebben sommige tonen in de veelheid van patronen meerdere functies, waardoor men als luisteraar op verschillende sporen kan zitten. Chopin's schrijfwijze is geraffineerd; door metrische verschuivingen en figuraties vermijdt hij bijvoorbeeld "ongewenste" open parallellen. Dit is op zich niet nieuw: ook Bach gebruikte dit soort handigheidjes ook al in zijn koraalzettingen.
+Om de bovenstaande patronen te verduidelijken, zal ik reducties presenteren van het fragment. Daarvoor is het noodzakelijk dat ik enkele aanpassingen doe in de **metrische** plaatsing van patronen en ook haal ik de figuratieve elementen weg. Naar mijn mening is een van de redenen waarom dit soort passages bij Chopin zo "ongrijpbaar" zijn, mee het gevolg van metrische verplaatsing van traditionele patronen. Ook hebben sommige tonen in de veelheid van patronen meerdere functies, waardoor men als luisteraar op verschillende sporen kan zitten. Chopin's schrijfwijze is geraffineerd; door metrische verschuivingen en figuraties vermijdt hij bijvoorbeeld "ongewenste" open parallellen. Dit is op zich niet nieuw: ook Bach gebruikte dit soort handigheidjes al in zijn koraalzettingen.
 #### Sequenspatroon
 We nemen een reductie van de bovenstem als voorbeeld:
 ![[Chopin Op. 6 nr. 1 004.jpeg]]
 ![[Chopin Op. 6 nr. 1 004.mp3]]
 Aan de sequens doen alle stemmen mee.
 #### Parallelle tertsen tussen buitenstemmen
-Omdat de chromatiek het toelaat, zien we dat in de buitenstemmen alleen grote tertsen worden gebruikt; diatonische parallelle sexten volgen het patroon van de toonladder; daarmee ontstaat als vanzelf een afwisseling tussen grote en kleine tertsen en sexten. Door dit raamwerk in de buitenstemmen wordt de indruk van een tonaliteit bemoeilijkt.
+Omdat de chromatiek het toelaat, zien we dat in de buitenstemmen alleen grote tertsen worden gebruikt; diatonische parallelle tertsen en sexten volgen het patroon van de toonladder; daarmee ontstaat als vanzelf een afwisseling tussen grote en kleine tertsen en sexten. Door dit raamwerk in de buitenstemmen wordt de indruk van een tonaliteit bemoeilijkt.
 ![[Chopin Op. 6 nr. 1 001.jpeg]]
 ![[Chopin Op. 6 nr. 1 001.mp3]]
 #### 4-3 patroon
-Tussen de buitenstemmen is er ook (indirect) een eeuwenoud patroon aanwezig: een zogenaamd 4-3 lijntje (een kwart-voorhouding), dat steeds de volgorde [[P-S-R]] heeft. Dit patroon gaat terug op de principes van dissonantbehandeling in het [[Modaal contrapunt]] van de renaissance.
+Tussen de buitenstemmen wordt ook (indirect) een eeuwenoud patroon gesuggereerd: een zogenaamd 4-3 lijntje (een kwart-voorhouding), dat steeds de volgorde [[P-S-R]] heeft. Dit patroon gaat terug op de principes van dissonantbehandeling in het [[Modaal contrapunt]] van de renaissance.
 ![[Chopin Op. 6 nr. 1 002.jpeg]]
 ![[Chopin Op. 6 nr. 1 002.mp3]]
 #### Dominantseptiem-akkoorden
@@ -45,6 +45,7 @@ In deze context verliest het dominantseptiem-akkoord zijn traditioneel harmonisc
 #### Vierstemmige reductie
 We sluiten af met een vierstemmige reductie:
 ![[Chopin Op. 6 nr. 1 005.jpeg]]
+![[Chopin Op. 6 nr. 1 005.mp3]]
 Alle stemmen hebben (in deze reductie) een kort-lang of lang-kort patroon (kwart-halve of halve kwart). Het zijn er drie in totaal. Net zoals de tonaliteit is het metrum en ritme voor meerdere uitleg vatbaar, afhankelijk welke stem we als luisteraar met het richten van onze aandacht een leidende rol toekennen.
 #### Slot
-We hebben slechts 5 maten geanalyseerd, en toch is er sprake van een grote variëteit en creativiteit. Mazurkas mogen op het eerste gehoor eenvoudig en vanzelfsprekend klinken, maar deze schijn kan ons, zeker bij Chopin, gemakkelijk bedriegen. We hebben met dit korte voorbeeld gezien en gehoord dat er meerdere betekenislagen mogelijk zijn. Chopin was als componist niet alleen een "romanticus" en "gevoelsmens"; hij was tevens een kundige en een nauwgezette ontwerper. 
+We hebben slechts 5 maten geanalyseerd, en toch is er sprake van een grote variëteit en creativiteit. Mazurkas mogen op het eerste gehoor eenvoudig en vanzelfsprekend klinken, maar deze schijn kan ons, zeker bij Chopin, gemakkelijk bedriegen. We hebben met dit korte voorbeeld gezien en gehoord dat er meerdere betekenislagen mogelijk zijn. Chopin was als componist niet alleen een "romanticus" en een  "gevoelsmens"; hij was tevens een kundige en  nauwgezette **ontwerper**. 
