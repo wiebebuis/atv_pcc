@@ -31,7 +31,7 @@ Omdat de chromatiek het toelaat, zien we dat in de buitenstemmen alleen grote te
 ![[Chopin Op. 6 nr. 1 001.jpeg]]
 ![[Chopin Op. 6 nr. 1 001.mp3]]
 #### 4-3 patroon
-Tussen de buitenstemmen wordt ook (indirect) een eeuwenoud patroon gesuggereerd: een zogenaamd 4-3 lijntje (een kwart-voorhouding), dat steeds de volgorde [[P-S-R]] heeft. Dit patroon gaat terug op de principes van dissonantbehandeling in het [[Modaal contrapunt]] van de renaissance.
+Tussen de buitenstemmen wordt ook (indirect) een eeuwenoud patroon gesuggereerd: een zogenaamd 4-3 lijntje (een kwart-voorhouding of vertraging), dat steeds de volgorde [[P-S-R]] heeft. Dit patroon gaat terug op de principes van dissonantbehandeling in het [[Modaal contrapunt]] van de renaissance.
 ![[Chopin Op. 6 nr. 1 002.jpeg]]
 ![[Chopin Op. 6 nr. 1 002.mp3]]
 #### Dominantseptiem-akkoorden
@@ -49,8 +49,8 @@ Alle stemmen hebben (in deze reductie) ritmisch gezien een kort-lang of lang-kor
 #### Slot
 We hebben slechts 5 maten geanalyseerd, en toch is er sprake van een grote variëteit en creativiteit. Mazurka's mogen op het eerste gehoor eenvoudig en vanzelfsprekend klinken, maar deze schijn kan ons, zeker bij Chopin, gemakkelijk bedriegen. 
 
-We keren nog even terug naar de vraag Harmonie en/of Contrapunt? 
+We keren nog even terug naar de vraag: Harmonie en/of Contrapunt? 
 
-Persoonlijk geniet ik bij Chopin zowel van het mooie lijnenspel als van de akkoorden die ons voorgeschoteld worden. Hij lijkt mooie dingen uit beide werelden te combineren. Zijn lijnenspel is harmonisch aantrekkelijk, zijn harmonieën bevatten smaakvolle "lijntjes".
+Persoonlijk geniet ik bij Chopin zowel van het mooie lijnenspel als van de harmonieën die ons voorgeschoteld worden. Zijn lijnenspel is harmonisch aantrekkelijk, zijn harmonieën bevatten smaakvolle "lijntjes". Hij lijkt mooie dingen uit beide werelden te combineren. 
 
 We hebben met dit korte voorbeeld gezien en gehoord dat er meerdere betekenislagen mogelijk zijn. Chopin was als componist niet alleen een "romanticus" en een  "gevoelsmens"; hij was tevens een kundige en  nauwgezette **ontwerper**. 
