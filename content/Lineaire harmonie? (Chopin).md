@@ -4,7 +4,7 @@ tags:
 ---
 #### Voorbeeld: Mazurka Op. 6 nr. 1 : maat 1 - 9.
 ![[Chopin Mazurka Op. 6.1 maa6 1-9 score.png]]
-De eerste 15 seconden van https://youtu.be/BIpi0k_Fs2E?si=zVZE7xMf7nsHrt4W (Rubinstein).
+De eerste 15 seconden van https://youtu.be/BIpi0k_Fs2E?si=zVZE7xMf7nsHrt4W (Artur Rubinstein).
 Toonsoort F# mineur.
 De harmonische essentie van de eerste 4 maten is: C#7-F#m | E7-A|.
 
