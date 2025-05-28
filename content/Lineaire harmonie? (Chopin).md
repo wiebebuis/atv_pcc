@@ -40,11 +40,17 @@ Regelmatig klinkt er een dominantseptiem-akkoord (op elke tweede tel vanaf maat 
 ![[Chopin Op. 6 nr. 1 003.mp3]]
 In deze context verliest het dominantseptiem-akkoord zijn traditioneel harmonische werking. Alle stemmen bewegen stapsgewijs (inclusief de baslijn). Geen enkele tritonus lost op.
 
-**Aardig detail**: kijken we (met de ogen van Jean-Philippe Rameau) naar de grondtoonopeenvolging van de akkoorden (de zgn. [[Basse fondamentale]]) dan zien we een kwartsprong/kwintval-patroon. Een verborgen dominantenketen dus.
+**Aardig detail**: kijken we (met de ogen van Jean-Philippe Rameau) naar de grondtoonopeenvolging van de akkoorden (de zgn. [[Basse fondamentale (Eng. Fundamental bass)]]) dan zien we een kwartsprong/kwintval-patroon. Een verborgen dominantenketen dus.
 #### Vierstemmige reductie
 We sluiten af met een vierstemmige reductie:
 ![[Chopin Op. 6 nr. 1 005.jpeg]]
 ![[Chopin Op. 6 nr. 1 005.mp3]]
-Alle stemmen hebben (in deze reductie) een kort-lang of lang-kort patroon (kwart-halve of halve kwart). Het zijn er drie in totaal, die op een verschillende tel starten. Net zoals de tonaliteit is het metrum en ritme voor meerdere uitleg vatbaar, afhankelijk van welke stem we als luisteraar met het richten van onze aandacht een leidende rol toekennen.
+Alle stemmen hebben (in deze reductie) ritmisch gezien een kort-lang of lang-kort patroon (kwart-halve of halve-kwart). Het zijn er drie in totaal, die op een verschillende tel starten. Net zoals de tonaliteit is het metrum en ritme voor meerdere uitleg vatbaar, afhankelijk van welke stem we als luisteraar met het richten van onze aandacht een leidende rol toekennen.
 #### Slot
-We hebben slechts 5 maten geanalyseerd, en toch is er sprake van een grote variëteit en creativiteit. Mazurkas mogen op het eerste gehoor eenvoudig en vanzelfsprekend klinken, maar deze schijn kan ons, zeker bij Chopin, gemakkelijk bedriegen. We keren nog even terug naar de vraag Harmonie en/of Contrapunt? Persoonlijk geniet ik zowel van het mooie lijnenspel als van de akkoorden die ons voorgeschoteld worden. Chopin lijkt mooie dingen uit beide werelden te combineren. "Harmonisch" contrapunt en "Contrapuntische" harmonie, dus 😉 🙂. We hebben met dit korte voorbeeld gezien en gehoord dat er meerdere betekenislagen mogelijk zijn. Chopin was als componist niet alleen een "romanticus" en een  "gevoelsmens"; hij was tevens een kundige en  nauwgezette **ontwerper**. 
+We hebben slechts 5 maten geanalyseerd, en toch is er sprake van een grote variëteit en creativiteit. Mazurka's mogen op het eerste gehoor eenvoudig en vanzelfsprekend klinken, maar deze schijn kan ons, zeker bij Chopin, gemakkelijk bedriegen. 
+
+We keren nog even terug naar de vraag Harmonie en/of Contrapunt? 
+
+Persoonlijk geniet ik bij Chopin zowel van het mooie lijnenspel als van de akkoorden die ons voorgeschoteld worden. Hij lijkt mooie dingen uit beide werelden te combineren. Zijn lijnenspel is harmonisch aantrekkelijk, zijn harmonieën bevatten smaakvolle "lijntjes".
+
+We hebben met dit korte voorbeeld gezien en gehoord dat er meerdere betekenislagen mogelijk zijn. Chopin was als componist niet alleen een "romanticus" en een  "gevoelsmens"; hij was tevens een kundige en  nauwgezette **ontwerper**. 
