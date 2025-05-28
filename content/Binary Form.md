@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - 
+---
 In AHWM worden drie typen onderscheiden:
 - simple (gekoppeld aan Denis Gaultier en Elisabeth-Claude Jacquet de la Guerre)
 - balanced (gekoppeld aan François Couperin)

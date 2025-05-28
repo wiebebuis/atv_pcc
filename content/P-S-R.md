@@ -1,0 +1,1 @@
+Deze afkorting staat voor Preparation - Suspension - Resolution. Dit patroon is afkomstig uit het [[Modaal contrapunt]]. De voorbereiding is consonant, de voorhouding (of vertraging) is dissonant, de oplossing consonant. Deze afkorting wordt ook gebruikt in IJzerman (HACOPA).
