@@ -4,6 +4,9 @@ Een orgelpunt kan ook voorkomen in bovenstemmen (zie Requiem Duruflé: Lux Aeter
 In middeleeuwse muziek was het gebruikelijk om een finalistoon te laten doorklinken tijdens het hele muziekwerk, soms samen met de kwint en octaaf (1-5-8). Dan wordt gesproken van een [[Bourdon (Eng. Drone)]] Zie als voorbeeld Dufay -Saltarello.
 
 Tegenwoordig wordt het principe ook nog wel gebruikt in volksmuziek, waarbij van bijvoorbeeld instrumenten als een doedelzak of een draailier gebruik wordt gemaakt, of strijkinstrumenten waarbij open snaren als toegevoegde toon worden gebruikt (in zogenaamde "reels", bijvoorbeeld).
+Soms heeft een orgelpunt ook een rol bij de articulatie van een vormtype of compositiegenre:
+1. Binnen de sonatevorm als aankondiging van de reprise
+2. Binnen de fugue d'école als verplicht textuurkenmerk.
 
 Zie ook: [[Textuur]]
 
