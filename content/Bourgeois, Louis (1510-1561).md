@@ -1,0 +1,1 @@
+Bekend als componist van vele psalmmelodieën van het [[Geneefs Psalter]].

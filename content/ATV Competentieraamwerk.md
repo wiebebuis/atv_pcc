@@ -25,8 +25,7 @@ Binnen de Hanzehogeschool wordt daarvoor (soms?) het [[Zelcom-model]] gebruikt.
 In de [[ATV_PCC Concept Map Theoretische vorming]] heb ik een voorzet gegeven van verschillende soorten taken:
 1. Oefeningen (opbouwen routines) voor zelfstudie
 2. Opdrachten/taken ('huiswerk") voor leersituaties/"vakken"
-3. Kernopgaven voor het demonstreren van competenties: van deze laatste 
-heb ik in hetzelfde schema een aantal mogelijke voorbeelden gegeven met oplopende complexiteit/oplopend niveau.
+3. Kernopgaven voor het demonstreren van competenties: van deze laatste heb ik in hetzelfde schema een aantal mogelijke voorbeelden gegeven met oplopende complexiteit/oplopend niveau.
 
 
 
