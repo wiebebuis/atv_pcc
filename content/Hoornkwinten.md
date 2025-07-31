@@ -11,7 +11,7 @@ Charles Rosen verwijst naar dit fenomeen met de term "Horn call".
 
 ![[hoornkwint.png]].
 
-De (verbekende) sonate in C majeur van Scarlatti (K 159) is gebaseerd op een "horn call".
+De (overbekende) sonate in C majeur van Scarlatti (K 159) is gebaseerd op een "horn call".
 
 https://open.spotify.com/track/2jUwpkL6ybREn0A68p4zfD?si=3bc43265440345b7
 
