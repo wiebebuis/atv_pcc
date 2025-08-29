@@ -58,7 +58,7 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 - **Betekenis** **geven** aan muziek (ook in relatie met andere kunsten).
 
 Leren draait volgens mij in essentie om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. Als het gaat om betekenis geven aan muziek of kunst in het algemeen, is de [[Hermeneutiek]] en de [[Fenomenologie]] zeer bruikbaar; deze twee perspectieven zijn een belangrijke aanvulling op het analytische muziektheoretische perspectief, omdat daarmee drie wezenlijke houdingen c.q. gezichtspunten worden gecombineerd:
-1. Analytisch: Hoe "werkt" deze muziek, hoe is deze "gemaakt", wat gebeurt er in deze muziek"?
+1. Analytisch: Hoe "werkt" deze muziek, hoe is deze "gemaakt", wat gebeurt er in deze muziek?
 2. Hermeneutisch: Wat betekent deze muziek, in algemene zin maar ook en vooral persoonlijk "voor mij"?
 3. Fenomenologisch: welke ervaringen hebben we bij het luisteren naar/ spelen van deze muziek? Kortom: wat gebeurt er "met mij"?
 
