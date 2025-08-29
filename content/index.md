@@ -77,7 +77,7 @@ In de westerse samenlevingen hebben we de afgelopen decennia een **verschuiving*
 
 Iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn vaak heel  bruikbaar.
 
-De redelijk recente opkomst van het fenomeen Infographics pas in dit plaatje. Je zou de 
+De redelijk recente opkomst van het fenomeen Infographics pas in dit plaatje. Je zou de "Book on a Page" voorbeelden van Szolt Vicizian kunnen bekijken om een indruk te krijgen: https://www.youtube.com/@VisualPKM.
 
 ## Visualiseren door te DOEN
 Het maken van Concept Maps (Novak) en Mind Maps (Buzan) is goede manier voor **kennisconstructie** met behulp van **visualisering**; ze vullen elkaar aan.  Zie [[Concept Map]] voor een vergelijking. Ze leiden tot internalisering van kennis, en ze voorkomen dat kennis snel "verdampt"...
