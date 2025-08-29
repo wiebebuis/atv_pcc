@@ -17,7 +17,7 @@ Op deze plaats deel ik mijn **Obsidian** vault die ik aan het opbouwen ben voor 
 
 Het opbouwen en delen van een ***evoluerend semantisch netwerk***, dat het onderwijs en denken over onderwijs kan ondersteunen in aanvulling op gebruikelijke hulpmiddelen (zoals websites en een leeromgeving zoals Moodle). Het netwerk is opgebouwd uit muziekgerelateerde **concepten** en hun **relaties**. Ik heb een concept map gemaakt van de denkwijze achter atv_pcc: [[Gedachten over atv-onderwijs]].
 
-Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik niet echt bruikbaar. De Obsidian plugin **Excalibrain** van Zsolt Viczian is wat mij betreft voorlopig de beste oplossing om daarin te voorzien. 
+Kies een **term** in de explorer en kijk welke verbanden er zichtbaar worden in de (local) graph view, en (back)links in de hoofdtekst. Of begin te **typen** in de zoekdoos (search box) en je ziet een lijstje met concepten verschijnen waaruit je kunt kiezen... Over elke link is (even, of wat langer...) nagedacht. Rechtsboven in het **graph view** venstertje kun je schakelen naar de complete graph view. Maar die vind ik niet echt bruikbaar. De Obsidian plugin **Excalibrain** van Zsolt Viczian is wat mij betreft voorlopig de beste oplossing om daarin te gaan voorzien. 
 
 ![[excalibrain.jpg]]. 
 
@@ -57,11 +57,12 @@ Het is een uitvloeisel van dingen die ik de afgelopen jaren geleerd heb op het g
 - **Principes** opsporen, 
 - **Betekenis** **geven** aan muziek (ook in relatie met andere kunsten).
 
-Leren draait volgens mij om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. Als het gaat om betekenis geven aan muziek of kunst in het algemeen, is de [[Hermeneutiek]] en de [[Fenomenologie]] zeer bruikbaar; deze twee perspectieven zijn een belangrijke aanvulling op het analytische muziektheoretische perspectief, omdat daarmee drie wezenlijke houdingen c.q. gezichtspunten worden gecombineerd:
+Leren draait volgens mij in essentie om **weten**, **begrijpen** en **doen**. Ook in de muziek. Daarbij kunnen concepten, patronen en principes in de vorm van **schema's** behulpzaam zijn. Ook dat is niet nieuw; de **Partimento**-traditie heeft dat bewezen en biedt (in aangepaste vorm) kansen voor het muziekvakonderwijs. Als het gaat om betekenis geven aan muziek of kunst in het algemeen, is de [[Hermeneutiek]] en de [[Fenomenologie]] zeer bruikbaar; deze twee perspectieven zijn een belangrijke aanvulling op het analytische muziektheoretische perspectief, omdat daarmee drie wezenlijke houdingen c.q. gezichtspunten worden gecombineerd:
 1. Analytisch: Hoe "werkt" deze muziek, hoe is deze "gemaakt", wat gebeurt er in deze muziek"?
 2. Hermeneutisch: Wat betekent deze muziek, in algemene zin maar ook en vooral persoonlijk "voor mij"?
 3. Fenomenologisch: welke ervaringen hebben we bij het luisteren naar/ spelen van deze muziek? Kortom: wat gebeurt er "met mij"?
 
+## Inspiratie
 Belangrijke inspiratiebronnen voor lerend studeren en studerend leren zijn (ik noem slechts zeven van tientallen boeken):
 - Joseph D. Novak - *Learning, Using and Creating Knowledge* (voor zijn visie op onderwijs en (conceptueel) leren en natuurlijk vele anderen die ook constructivistisch denken over leren
 - Sönke Ahrens - *How to Take Smart Notes* (voor zijn visie op lerend studeren en studerend leren) en het belang van **taal** daarbij (zelf verwoorden en opschrijven). Ahrens werd op zijn beurt weer geïnspireerd door Niklas Luhmann (1927-1998)
@@ -76,10 +77,12 @@ In de westerse samenlevingen hebben we de afgelopen decennia een **verschuiving*
 
 Iedereen weet dat bij het communiceren over muziek visuele, ruimtelijke (en tactiele) **analogieën** veel gebruikt worden. Ook **metaforen** zijn vaak heel  bruikbaar.
 
+De redelijk recente opkomst van het fenomeen Infographics pas in dit plaatje. Je zou de 
+
 ## Visualiseren door te DOEN
 Het maken van Concept Maps (Novak) en Mind Maps (Buzan) is goede manier voor **kennisconstructie** met behulp van **visualisering**; ze vullen elkaar aan.  Zie [[Concept Map]] voor een vergelijking. Ze leiden tot internalisering van kennis, en ze voorkomen dat kennis snel "verdampt"...
 ### Gebruik Obsidian
-Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de **Excalidraw** plugin in combinatie met Obsidian **canvas** goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
+Alhoewel Obsidian primair als een **notitie**tool is bedacht, is er inmiddels dankzij de community achter Obsidian zeer veel aanvullende functionaliteit ontwikkeld in de vorm van **plugins**. Erg belangrijk is de mogelijkheid om te **visualiseren**, waarvoor de **Excalidraw** plugin in combinatie met Obsidian **Canvas** goede mogelijkheden biedt. Op die manier kan zowel **tekst**georiënteerd als **beeld**georiënteerd worden gewerkt. Een aanrader is het YT-kanaal van Zsolt Viczian: https://www.youtube.com/@VisualPKM. Hij heeft veel te bieden op het gebied van Visual PKM: Visual Personal Knowledge Management. En je vindt er legio verwijzingen allerlei ander relevante bronnen, ideeën, mensen. Check vooral zijn "Book on a Page"-besprekingen.
 
 ## Technische info
 Deze "vault" (kenniskluis) wordt bijgehouden met **Obsidian**  (www.obsidian.md) , gegenereerd tot html-files met **Quartz** gemaakt door  Jacky Zhao (https://quartz.jzhao.xyz/) en gehost op op www.github.com m.b.v. **Github Pages**.
