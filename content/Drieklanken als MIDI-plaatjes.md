@@ -7,19 +7,19 @@ Eerst de MIDI-weergave van een verminderde, kleine, grote en overmatige drieklan
 ![[midi-plaatje drieklank verm kl gr ov.png]]
 ![[midiplaatjes 4 drieklanken verm kl gr ov.mp3]]
 
-Nu gaan we over tot de vergelijking van de 4 verschillende drieklanken, groot, klein, overmatig en verminderd. Het zijn er (per soort drieklank) 6, steeds een halve toonsafstand hoger. Ze zijn dus **chromatisch** gerangschikt.
- 
 ---
+Nu gaan we over tot de vergelijking van de 4 verschillende drieklanken, groot, klein, overmatig en verminderd. Het zijn er (per soort drieklank) 6, steeds een halve toonsafstand hoger. Ze zijn dus **chromatisch** gerangschikt.
 #### GROTE DRIEKLANKEN
 
 ![[midi-plaatje drieklank groot.png]]
+je ziet in één oogopslag dat het zes keer hetzelfde akkoord is; dat is in notenschrift een stuk lastiger...
 
 ![[midiplaatjes 4 drieklanken groot.mp3]]
 
 ![[Finale midiplaatjes 4 drieklanken groot.jpeg]]
 
 Het = teken geeft aan dat deze twee drieklanken **enharmonisch gelijk** zijn. Kort gezegd: je schrijft ze verschillend, maar het gaat om dezelfde toetsen op het klavier.... 
-Zie ook [[Enharmoniek]].
+Zie ook [[Enharmoniek]]. 
 
 ---
 #### KLEINE DRIEKLANKEN
