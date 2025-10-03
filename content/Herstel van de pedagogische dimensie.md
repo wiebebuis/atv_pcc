@@ -4,7 +4,7 @@ Max van Manen: Phenomenology of Practice, Weten wat te doen wanneer je niet weet
 
 Sabine Seichter: Pedagogische Liebe
 
-Ernst Bloch: Dar Prinzip Hoffnung
+Ernst Bloch: Das Prinzip Hoffnung
 
 Andries Baart: Een theorie van de presentie
 
