@@ -1,5 +1,3 @@
 Een interval dat letterlijk houvast biedt, in de context van tonale/modale muziek.
 
-In de praktijk gaat het om intervallen die de indruk van stabiliteit wekken (grondtonigheid): rein octaaf en reine kwint. Ankerintervallen zijn essentieel voor tonale oriëntatie. 
-
-De  [[Bourdon (Eng. Drone)]] maakt gebruik van deze tonen.
+In de praktijk gaat het om intervallen die de indruk van stabiliteit wekken (grondtonigheid): rein octaaf en reine kwint. Ankerintervallen zijn essentieel voor tonale oriëntatie. Dat geldt in melodische zin (tonen waarnaartoe bewogen wordt, zoals een finalistoon), maar ook in harmonische zin. Dat kan zijn door het toepassen van een [[Orgelpunt]] of een [[Bourdon (Eng. Drone)]].

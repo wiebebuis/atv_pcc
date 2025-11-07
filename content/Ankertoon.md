@@ -1,8 +1,8 @@
-In modaal-tonale context duidt dit op de **eerste** en **vijfde** toon van de geldende ladder. Mesquita en Vogt (Gehörbildung) spreken van een **Achsenton**. Het zijn "sterke" tonen.
+In modaal-tonale context duidt dit vooral op de **eerste** en **vijfde** toon van de geldende ladder. Mesquita en Vogt (Gehörbildung) spreken van een **Achsenton**. Het zijn "sterke" tonen van een tonaliteit of toonsoort.
 
 In relatie tot de partimento-praktijk is ook de **vierde** toon van de ladder belangrijk.
 
-De octaafindeling 1-4-5-8 is symmetrisch.
+De octaafindeling 1-4-5-8 is symmetrisch. Deze 4 tonen kunnen ook als ankertonen van een tonaliteit beschouwd worden, ze representeren de functies tonica, subdominant en dominant.
 
 In de [[Regel van het Octaaf (Rule of the Octave)]] wordt de ladder onderverdeeld in een pentachord ( 1-2-3-4-5) en tetrachord (5-6-7-8). 
 
