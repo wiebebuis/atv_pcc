@@ -4,6 +4,9 @@ Daarnaast wordt het begrip ook gebruikt in [[Neo-Riemannian theory]], waarbij de
 
 ![[Tonnetz.png]]
 
-Driehoeken vormen een grote of kleine drieklank; akkoordprogressies van drieklanken kunnen worden weergegeven als bewegingen over dit raamwerk.
+Driehoeken vormen een grote of kleine drieklank; akkoordprogressies van drieklanken kunnen worden weergegeven als bewegingen over dit raamwerk. 
+
+Op zich is dit niet zo nieuw; in de negentiende eeuw presenteerde [[Ellis, Alexander John (1814-1890)]] in een Appendix bij zijn vertaling zijn Duodenarium (een raamwerk van reine kwinten en grote tertsen). Hij baseerde dat op een schema voor toonsoortverwantschappen van Gottfried Webers *Theorie der Tonsetzkunst*.
+
 
 
