@@ -8,3 +8,4 @@ Karakteristiek is de **tweedeling**: het tweede deel kan even lang als, of lange
 Het eerste deel **moduleert**: in majeur naar de dominant, in mineur meestal naar de parallel, minder vaak naar de majeurdominant, zelden naar de mineurdominant.
 
 De (tweedelige) tonale beweging ("heen en terug") is bepalend voor de indruk van de vorm.
+

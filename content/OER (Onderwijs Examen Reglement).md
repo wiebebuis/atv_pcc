@@ -1,0 +1,1 @@
+Gidsdocument voor onderwijs binnen Hanze (en PCC).
