@@ -3,6 +3,7 @@ Westerse voorbeelden van pitch systems zijn bijvoorbeeld:
 [[Modaliteit]]
 [[Tonaliteit]]
 [[Diatoniek]]
+[[Chromatiek]]
 [[Dodecafonie (twaalftoonsmuziek)]]
 [[Pentatoniek]]
 [[Hexatoniek]]
