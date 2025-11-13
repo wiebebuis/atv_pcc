@@ -1,5 +1,5 @@
 Een term uit de psychologie, die draait om het patronen ontdekken in wat we waarnemen. 
-Door patronen te ontdekken kan informatie worden gegroepeerd, waardoor deze gemakkelijker te onthouden is. Op die manier kunnen we meer dingen "bergen" in ons werkgeheugen, dat beperkt is (the magic number 7 + of - 2).
+Door patronen te ontdekken kan informatie worden gegroepeerd, waardoor deze gemakkelijker te onthouden is. Op die manier kunnen we meer dingen "bergen" in ons werkgeheugen, dat beperkt is (the magic number 7 + or - 2).
 
 Bij een reeks getallen: 17891848191720142003.
 Het zijn jaartallen met een betekenis: 
@@ -14,3 +14,4 @@ Het onderliggende patroon is
 Een ander voorbeeld is het onthouden van een telefoonnummer of bankrekeningnummer. Losse cijfers groeperen tot getallen maakt dat een rijks cijfers gemakkelijker te onthouden is: 912654007 is moeilijker dan 91 26 54 007.
 
 Muzikaal: noten die gegroepeerd worden in een [[Motief]], een [[Akkoord]], een [[Thema]] of een [[Tonaal plan, tonale structuur]].  Al deze dingen zijn behulpzaam bij het memoriseren van muziek. 
+
