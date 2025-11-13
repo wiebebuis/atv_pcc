@@ -1,5 +1,5 @@
 Een term uit de psychologie, die draait om het patronen ontdekken in wat we waarnemen. 
-Door patronen te ontdekking kan informatie worden gegroepeerd, waardoor deze gemakkelijker te onthouden is. Op die manier kunnen we meer dingen "bergen" in ons werkgeheugen, dat beperkt is. 
+Door patronen te ontdekken kan informatie worden gegroepeerd, waardoor deze gemakkelijker te onthouden is. Op die manier kunnen we meer dingen "bergen" in ons werkgeheugen, dat beperkt is (the magic number 7 + of - 2).
 
 Bij een reeks getallen: 17891848191720142003.
 Het zijn jaartallen met een betekenis: 
