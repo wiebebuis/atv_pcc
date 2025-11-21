@@ -13,7 +13,7 @@ Modi komen voor in:
 - Gregoriaans 
 - Meerstemmige (kerk)muziek tot in de 17e eeuw (maar ook: Geneefs psalter; Claude Goudimel)
 - Franse (rooms-katholieke) kerkmuziek in de 18e, 19e en begin 20e eeuw
-- Franse romantiek m.n. invloed van de Ecole Niedermeyer op bijvoorbeeld Gabriel Fauré, Maurice Duruflé. 
+- Franse romantiek m.n. door invloed van de Ecole Niedermeyer op bijvoorbeeld Gabriel Fauré, Maurice Duruflé. 
 - Blijvende aanwezigheid van modale patronen in volksliederen/volksmuziek
 - Tegenwoordig ook in folk music (Celtic Folk)
 - ...
