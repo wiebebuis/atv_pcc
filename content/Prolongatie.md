@@ -9,4 +9,4 @@ Schenker-analyses zijn gelaagd: er wordt een onderscheid gemaakt tussen Vordergr
 
 Alhoewel de Schenker analyse goede diensten kan bewijzen bij het onderscheiden van hoofd-en bijzaken in composities, is er ook de nodige kritiek op geleverd. Deze kritiek richt zich bijvoorbeeld op de vormgeving van de tijdsdimensie in een compositie. De structurele 3, 2 en 1 uit de Urlinie kunnen zeer verwijderd zijn van elkaar, waardoor de vraag gesteld kan worden of deze analysetechniek aansluit bij de waarneming, en meer specifiek de tijdsbeleving in de metrische ritmische vormgeving van een compositie. 
 
-Een belangrijke criticus in dit opzicht is Eugene Narmour (Beyond Schenkerism, 1980).
+Een belangrijke vertegenwoordiger van de kritiek op Schenker in dit opzicht is Eugene Narmour (Beyond Schenkerism, 1980).
