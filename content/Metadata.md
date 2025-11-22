@@ -1,4 +1,3 @@
-
 Een format waarin "informatie over informatie" wordt vastgelegd.
 Dingen die m.b.v. metadata kunnen worden vastgelegd:
 * beschrijvend
