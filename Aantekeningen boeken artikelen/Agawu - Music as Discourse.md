@@ -6,10 +6,6 @@ Ten Propositions about Language and Music (20)
 
 Criteria for Analysis
 
-
-
-
-
 How to guide the musical analysis
 - Topics or Topoi
 - Beginnings, Middles, Endings
