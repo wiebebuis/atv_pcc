@@ -15,17 +15,17 @@ Dus bijvoorkeur niet alleen ebooks en niet alleen typen in plaats van schrijven;
 
 ### Wat absoluut te VERMIJDEN is
 - "Achtergrond"-muziek
-- Telefoon.
-- Alle vormen van mogelijke afleiding (alle bliepjes, pop-ups, tingeltjes, alerts verbonden met online zijn.)
+- Telefoon
+- Alle vormen van mogelijke afleiding (alle bliepjes, pop-ups, tingeltjes, alerts verbonden met online zijn)
 - Blijven geloven in de mythe van "multitasken"; het is bewezen dat multitasken eigenlijk niet bestaat. Het wordt verward met (voortdurend) schakelen tussen verschillende activiteiten. Dat schakelen vertraagt de processen en zorgt ervoor dat zaken niet beklijven. Wat je doet levert minder op en duurt langer.
 ### Wat wel te doen tijdens het lezen
 ##### Markeer kernzinnen en sleutelwoorden
-Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna schrijf ik achter in het boek het paginanummer, gevolgd door een sleutelwoord of een kernachtige beschrijving waarom ik die punt of die emoticon heb gebruikt. 🙂 Voor een grappige opmerking, bijvoorbeeld.) Maar ook handig als je later wilt citeren.
+Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna schrijf ik achter in het boek het paginanummer, gevolgd door een sleutelwoord of een kernachtige opmerking waarom ik die punt of die emoticon heb gebruikt. Ik gebruik 🙂 voor een grappige opmerking, bijvoorbeeld.) Maar ook handig als je later wilt citeren.
 #### Formuleer informatierijke zinnen
 Maak op basis van paragrafen en de sleutelwoorden die erin voorkomen, informatierijke zinnen die als een kort verhaaltje de essentie weergeven. Je kunt die zinnen later gebruiken om er een visualisering/tekening van te maken, of een [[Concept Map]]. 
 #### Doe iets met je informatierijke zinnen
 Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een stift of onderstrepen is zinloos als het niet gevolgd wordt door een of andere manier van verwerken. Wat je denkt te weten verdampt snel als je er niets mee doet. Kijk eens naar de werkwijze van Zsolt Viczian. Hij heeft een verwerkingsmanier bedacht die hij Book on a Page noemt: https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1-mbCYc3T7mr-unmsIXpEG. Deze YT-playlist geeft een aantal voorbeelden van gelezen en besproken boeken. Het is een voorbeeld van [[(V)PKM - (Visual) Personal Knowledge Management]].
-
+Behalve een concept map kun je ook een serie **flash cards** maken, bijvoorbeeld samen met anderen (minder werk en sneller klaar). Flash cards kun je maken met kernwoorden/termen, maar ook met plaatjes. 
 ### SCHRIJVEN om te LEREN
 
 Goede boeken:
