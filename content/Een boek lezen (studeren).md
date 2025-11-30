@@ -11,7 +11,7 @@ Echt lezen van een boek vergt tegenwoordig wilskracht en doorzettingsvermogen.
 - Tijd
 - Stilte
 - Schrijven (en tekenen) als activiteit om het gelezene te verankeren
-Dus bijvoorkeur niet alleen ebooks en niet typen in plaats van schrijven; onderzoek heeft aangetoond dat schrijven meer beklijft dan typen (check o.a. Ahrens voor onderbouwing).
+Dus bijvoorkeur niet alleen ebooks en niet alleen typen in plaats van schrijven; onderzoek heeft aangetoond dat schrijven meer beklijft dan typen (check o.a. Ahrens voor onderbouwing).
 
 ### Wat absoluut te VERMIJDEN is
 - "Achtergrond"-muziek
@@ -24,7 +24,7 @@ Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna 
 #### Formuleer informatierijke zinnen
 Maak op basis van paragrafen en de sleutelwoorden die erin voorkomen, informatierijke zinnen die als een kort verhaaltje de essentie weergeven. Je kunt die zinnen later gebruiken om er een visualisering/tekening van te maken, of een [[Concept Map]]. 
 #### Doe iets met je informatierijke zinnen
-Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een stift of onderstrepen is zinloos als het niet gevolgd wordt door een of andere manier van verwerken. Wat je denkt te weten verdampt snel als je er niets mee doet. Kijk eens naar de werkwijze van Zsolt Viczian. Hij heeft een verwerkingsmanier bedacht die hij Book on a Page noemt: deze YT-playlist https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1-mbCYc3T7mr-unmsIXpEG geeft een aantal voorbeelden van gelezen en besproken boeken. Het is een voorbeeld van [[(V)PKM - (Visual) Personal Knowledge Mangement]].
+Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een stift of onderstrepen is zinloos als het niet gevolgd wordt door een of andere manier van verwerken. Wat je denkt te weten verdampt snel als je er niets mee doet. Kijk eens naar de werkwijze van Zsolt Viczian. Hij heeft een verwerkingsmanier bedacht die hij Book on a Page noemt: https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1-mbCYc3T7mr-unmsIXpEG. Deze YT-playlist geeft een aantal voorbeelden van gelezen en besproken boeken. Het is een voorbeeld van [[(V)PKM - (Visual) Personal Knowledge Management]].
 
 ### SCHRIJVEN om te LEREN
 

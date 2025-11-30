@@ -6,4 +6,4 @@ https://youtu.be/JnS3g68zCXw?si=yZ0g7nysAXup_eA0.
 
 Ook de Book On a Page video van Zsolt Viczian over het boek van Sönke Ahrens is het bekijken waard!  https://www.youtube.com/watch?v=o49C8jQIsvs&t=152s.
 
-Zie ook: [[(V)PKM - (Visual) Personal Knowledge Mangement]]
+Zie ook: [[(V)PKM - (Visual) Personal Knowledge Management]]

@@ -7,7 +7,7 @@ Bergman (www.mkbergman.com) is een van de koplopers op het gebied van KBAI (Know
 
 ## Relevantie voor onderwijs in muziek(theorie)
 
-Het boek van Bergman is een belangrijke aanvulling op dingen die ik geleerd heb op het gebied van conceptgebaseerd leren, [[(V)PKM - (Visual) Personal Knowledge Mangement]],  [[Novak, Joseph D. (1930-2023)]], [[Ahrens, Sönke]], [[Peirce, Charles Sanders (1839-1914)]], [[Bod, Rens (1965- )]].
+Het boek van Bergman is een belangrijke aanvulling op dingen die ik geleerd heb op het gebied van conceptgebaseerd leren, [[(V)PKM - (Visual) Personal Knowledge Management]],  [[Novak, Joseph D. (1930-2023)]], [[Ahrens, Sönke]], [[Peirce, Charles Sanders (1839-1914)]], [[Bod, Rens (1965- )]].
  
 Ik houd de bespreking in dit item zo kort en pragmatisch als het enigszins kan. 
 Kennis is echt een "veelkoppig monster". Kijk bijvoorbeeld ook even bij de items [[Kennis in soorten]], [[Kennisconstructie]] ("leren") en [[Kennisdomeinen]].
