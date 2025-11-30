@@ -1,5 +1,5 @@
-Wie doet dat nog? Een boek echt lezen, aandachtig (en helemaal!) lezen, is vandaag de dag allerminst vanzelfsprekend. 
-Sinds de opkomst van internet, YouTube, smartphones en "sociale" media groeien huidige generaties  op in een omgeving zonder "gehelen", met een overdaad aan prikkels, in een cultuur waarin alles liefst snel, gemakkelijk, eenvoudig, niet te moeilijk en niet te kritisch moet zijn.
+Wie doet dat nog? Een boek echt lezen, aandachtig (en helemaal!), is vandaag de dag allerminst vanzelfsprekend. 
+Sinds de opkomst van internet, YouTube, smartphones en "sociale" media groeien huidige generaties  op in een omgeving met een overdaad aan prikkels, in een cultuur waarin alles liefst snel, gemakkelijk, eenvoudig, niet te moeilijk en niet te kritisch moet zijn.
 Een bestaan waarin feiten en fictie, en werkelijkheid en illusie vaak moelijk te scheiden zijn. 
 Een werkelijkheid die zich bovendien gefragmenteerd aandient, en waarin patronen en samenhang ontdekken een opgave geworden is. En dan hebben we het over betekenis en zingeving nog niet eens gehad.
 
@@ -16,11 +16,11 @@ Dus bijvoorkeur niet alleen ebooks en niet alleen typen in plaats van schrijven;
 ### Wat absoluut te VERMIJDEN is
 - "Achtergrond"-muziek
 - Telefoon.
-- Alle vormen van mogelijke afleiding.
+- Alle vormen van mogelijke afleiding (alle bliepjes, pop-ups, tingeltjes, alerts verbonden met online zijn.)
 - Blijven geloven in de mythe van "multitasken"; het is bewezen dat multitasken eigenlijk niet bestaat. Het wordt verward met (voortdurend) schakelen tussen verschillende activiteiten. Dat schakelen vertraagt de processen en zorgt ervoor dat zaken niet beklijven. Wat je doet levert minder op en duurt langer.
 ### Wat wel te doen tijdens het lezen
 ##### Markeer kernzinnen en sleutelwoorden
-Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna schrijf ik achter in het boek het paginanummer, gevolgd door een sleutelwoord of een kernachtige beschrijving waarom ik die punt of die emoticon heb gebruikt. 🙂 Voor een grappige opmerking, bijvoorbeeld.) 
+Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna schrijf ik achter in het boek het paginanummer, gevolgd door een sleutelwoord of een kernachtige beschrijving waarom ik die punt of die emoticon heb gebruikt. 🙂 Voor een grappige opmerking, bijvoorbeeld.) Maar ook handig als je later wilt citeren.
 #### Formuleer informatierijke zinnen
 Maak op basis van paragrafen en de sleutelwoorden die erin voorkomen, informatierijke zinnen die als een kort verhaaltje de essentie weergeven. Je kunt die zinnen later gebruiken om er een visualisering/tekening van te maken, of een [[Concept Map]]. 
 #### Doe iets met je informatierijke zinnen
