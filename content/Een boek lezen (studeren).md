@@ -28,7 +28,7 @@ Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een sti
 
 ### SCHRIJVEN om te LEREN
 
-Must reads:
+Goede boeken:
 
 - Joseph D. Novak  - Learning, Creating, and Using Knowledge: Concept Maps as Facilitative Tools in Schools and Corporations
 - Sönke Ahrens - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
@@ -37,10 +37,10 @@ Must reads:
 
 ### TEKENEN om te LEREN
 
-Must reads:
+Goede boeken:
 
-David Hyerle - Visual Tools for Transforming Information into Knowledge
-David Hyerle - Thinking Maps: Tools for Learning
-Lisa Rothstein - Drawing Out Your Genius
-Szolt Viczian - Sketch Your Mind: Nurture a Playful and Creative Brain
+- David Hyerle - Visual Tools for Transforming Information into Knowledge
+- David Hyerle - Thinking Maps: Tools for Learning
+- Szolt Viczian - Sketch Your Mind: Nurture a Playful and Creative Brain
+- Lisa Rothstein - Drawing Out Your Genius
 
