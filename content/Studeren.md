@@ -1,1 +1,1 @@
-Studeren vs. "oefenen"
+Studeren vs. "oefenen" en "doorspelen".

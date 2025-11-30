@@ -1,3 +1,7 @@
+---
+tags:
+  - werkmodel
+---
 Wie doet dat nog? Een boek echt lezen, aandachtig (en helemaal!), is vandaag de dag allerminst vanzelfsprekend. 
 Sinds de opkomst van internet, YouTube, smartphones en "sociale" media groeien huidige generaties  op in een omgeving met een overdaad aan prikkels, in een cultuur waarin alles liefst snel, gemakkelijk, eenvoudig, niet te moeilijk en niet te kritisch moet zijn.
 Een bestaan waarin feiten en fictie, en werkelijkheid en illusie vaak moelijk te scheiden zijn. 
@@ -25,7 +29,8 @@ Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna 
 Maak op basis van paragrafen en de sleutelwoorden die erin voorkomen, informatierijke zinnen die als een kort verhaaltje de essentie weergeven. Je kunt die zinnen later gebruiken om er een visualisering/tekening van te maken, of een [[Concept Map]]. 
 #### Doe iets met je informatierijke zinnen
 Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een stift of onderstrepen is zinloos als het niet gevolgd wordt door een of andere manier van verwerken. Wat je denkt te weten verdampt snel als je er niets mee doet. Kijk eens naar de werkwijze van Zsolt Viczian. Hij heeft een verwerkingsmanier bedacht die hij Book on a Page noemt: https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1-mbCYc3T7mr-unmsIXpEG. Deze YT-playlist geeft een aantal voorbeelden van gelezen en besproken boeken. Het is een voorbeeld van [[(V)PKM - (Visual) Personal Knowledge Management]].
-Behalve een concept map kun je ook een serie **flash cards** maken, bijvoorbeeld samen met anderen (minder werk en sneller klaar). Flash cards kun je maken met kernwoorden/termen, maar ook met plaatjes. 
+Behalve een concept map kun je ook een serie **flash cards** maken, bijvoorbeeld samen met anderen (minder werk en sneller klaar). Flash cards kun je maken met kernwoorden/termen, maar ook met plaatjes.
+
 ### SCHRIJVEN om te LEREN
 
 Goede boeken:

@@ -6,3 +6,4 @@ In [[ATV_PCC Concept Map Theoretische vorming]] is een drietal taken genoemd die
 
 ![[de_student_aan_het_werk.png]]
 
+Zie ook [[Kernopgaven, voorbeelden van]]
