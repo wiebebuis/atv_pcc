@@ -8,4 +8,9 @@ Als voorbeeld geef ik componistengroepjes:
 3. Josquin, Obrecht, Isaac (Renaissance polyfonie)
 4. Schoenberg, Berg, Webern (atonaliteit)
 5. Wagner, Liszt, Berlioz ("Neudeutsche Schule")
-6. 
+
+Uit Communities of Practice:
+1. Learning, meaning, identity
+
+Uit Concept Based Learning:
+1. weten, begrijpen, doen

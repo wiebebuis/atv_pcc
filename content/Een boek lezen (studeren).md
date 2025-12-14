@@ -8,7 +8,6 @@ Een bestaan waarin feiten en fictie, en werkelijkheid en illusie vaak moelijk te
 Een werkelijkheid die zich bovendien gefragmenteerd aandient, en waarin patronen en samenhang ontdekken een opgave geworden is. En dan hebben we het over betekenis en zingeving nog niet eens gehad.
 
 Echt lezen van een boek vergt tegenwoordig wilskracht en doorzettingsvermogen.
-
 ### Wat absoluut NOODZAKELIJK is
 - Een lichte werkplek (bureau/tafel en een goede stoel waar je recht op zit)
 - Papier, pen, potlood, gum
@@ -29,14 +28,13 @@ Markeer kernzinnen (ik doe het met een punt of een emoticon in de marge; daarna 
 Maak op basis van paragrafen en de sleutelwoorden die erin voorkomen, informatierijke zinnen die als een kort verhaaltje de essentie weergeven. Je kunt die zinnen later gebruiken om er een visualisering/tekening van te maken, of een [[Concept Map]]. 
 #### Doe iets met je informatierijke zinnen
 Essentieel is dat je iets **doet** met wat je leest. Alleen markeren met een stift of onderstrepen is zinloos als het niet gevolgd wordt door een of andere manier van verwerken. Wat je denkt te weten verdampt snel als je er niets mee doet. Kijk eens naar de werkwijze van Zsolt Viczian. Hij heeft een verwerkingsmanier bedacht die hij Book on a Page noemt: https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1-mbCYc3T7mr-unmsIXpEG. Deze YT-playlist geeft een aantal voorbeelden van gelezen en besproken boeken. Het is een voorbeeld van [[(V)PKM - (Visual) Personal Knowledge Management]].
-Behalve een concept map kun je ook een serie **flash cards** maken, bijvoorbeeld samen met anderen (minder werk en sneller klaar). Flash cards kun je maken met kernwoorden/termen, maar ook met plaatjes.
-
+Behalve een concept map kun je ook een serie **flash cards** maken, bijvoorbeeld samen met anderen (minder werk en sneller klaar). Flash cards kun je maken met kernwoorden/termen, maar ook met plaatjes. Daarnaast kun je ook digitale flash cards maken met audio, en video .
 ### SCHRIJVEN om te LEREN
 
 Goede boeken:
 
 - Joseph D. Novak  - Learning, Creating, and Using Knowledge: Concept Maps as Facilitative Tools in Schools and Corporations
-- Sönke Ahrens - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
+- Sönke Ahrens - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking (zie ook[[Het schrijven van een paper, essay...]])
 - Mortimer J. Adler & Charles van Doren - How to Read a Book: The Classical Guide to Intelligent Reading.
 - William Zinsser - Writing to Learn: How to Write - and Think - Clearly About Any Subject at All
 

@@ -1,6 +1,6 @@
 "**Meditativo**" can be seen as a synonym of "musingly". It indicates *thinking*, maybe *meditative exploration* of musical material coming from the Dowland song. It also made me think of "*ricercare le corde*", according to GROOVE the root meaning of the **ricercare** genre. This was a current genre in Dowland's time, a genre which departs from a musical idea or "**soggetto**" (subject).  
 
-My  impression of this movement is one of searching, sometimes hesitant, without a clear focus or direction. The dynamic is overall (very) soft: it varies from ppp to pp. 
+My impression of this movement is one of searching, sometimes hesitant, without a clear focus or direction. The dynamic is overall (very) soft: it varies from ppp to pp. 
 
 What could be the intention/purpose of this movement? 
 I propose the following:

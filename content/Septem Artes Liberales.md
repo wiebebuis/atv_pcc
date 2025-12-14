@@ -14,6 +14,6 @@ Zie ook [[Taal (functies van)]].
 - Geometria
 - Musica
 
-De onderstaande afbeelding  komt uit het
-![[549px-Septem-artes-liberales_Herrad-von-Landsberg_Hortus-deliciarum_1180.jpg]]
 
+![[549px-Septem-artes-liberales_Herrad-von-Landsberg_Hortus-deliciarum_1180.jpg]]
+Socrates en Plato zitten aan de voeten van Philosophia.

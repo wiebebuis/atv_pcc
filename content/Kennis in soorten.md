@@ -8,7 +8,7 @@ Het maakt dus nogal wat uit welke "bril" we opzetten:
 - van de cognitieve (neuro)psychologie?
 - van de embodied cognition?
 - ...
-
+### Intelligentie
 Ook aan visies op **intelligentie** is er geen gebrek: enkele mogelijke benaderingen:
 - psychometrisch
 - cognitief-psychologisch
@@ -18,7 +18,7 @@ Ook aan visies op **intelligentie** is er geen gebrek: enkele mogelijke benaderi
 
 Enkele theorieën:
 - triarchisch: analytisch, creatief-synthetisch, praktisch; (Sternberg)
-- ontwikkelingsgericht (Piaget)
+- ontwikkelingsgericht (Piaget, Eriksson)
 - meervoudige intelligenties (Howard Gardner)
 - ...
 

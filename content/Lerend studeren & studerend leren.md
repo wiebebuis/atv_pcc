@@ -1,4 +1,4 @@
-De behoefte van de hedendaagse student aan PKM (Personal Knowledge Management)
+De behoefte van de hedendaagse student aan (V)PKM: (Personal Knowledge Management)
 
 Het actuele informatielandschap
 
