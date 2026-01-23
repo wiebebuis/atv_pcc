@@ -25,4 +25,4 @@ Dus: geen magie hier. Gebruik je grijze cellen en de volgende tips:
 - Oxford Music Online (= GROVE), via hanze.nl en kb.nl
 - Encyclopaedia Britannica , via Hanze.nl (Britannica Academic)
 - Musik in Geschichte und Gegenwart (MGG) (achter slot en grendel in magazijn PCC...)
-- De serie over **Music & Theatre** in **Cambridge Histories Online** (kb.nl) digitaal abonnementje nodig (kost je twee capucino's per jaar)
+- De serie over **Music & Theatre** in **Cambridge Histories Online** (kb.nl) digitaal abonnementje nodig (kost je nog minder dan twee cappucinootjes per jaar)
