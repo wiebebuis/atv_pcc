@@ -1,4 +1,4 @@
-Doorsnee vaak gebruikte indeling:
+Doorsnee vaak gebruikte indeling in het Nederlandse taalgebied:
 - authentiek V-I
 - plagaal IV-I
 - volledig IV-V-I (of eigenlijk S-D-T, waarbij S vertegenwoordigd kan worden door trap II en IV)

@@ -3,7 +3,6 @@ draft: false
 tags:
   - werkmodel
 ---
-
 Analysebenadering bedacht en geformuleerd door Lawrence Ferrara.
 
 Hij onderscheidt tien stappen bij een holistische analyse:

@@ -7,5 +7,3 @@
 - Mars (barok, ..., 19e en 20e eeuw blaasmuziek)
 - Dans (renaissance, barok)
 - Muziek in galante stijl 
-- .
-- 

@@ -8,6 +8,6 @@ Door Hiepko H. Boer is in zijn *Kleine Theorie van de Werkbehandeling* een bruik
 Er worden hierbinnen nog allerlei onderverdelingen gegeven: deze zijn te vinden in het schema op blz. 10.
 
 In de literatuur vinden we ook beschrijvingen van luisterhoudingen:
-1. Howards End - E.M. Forster
+1. Howard's End - E.M. Forster
 2. The Bell - Iris Murdoch
 3. En ook regelmatig in Peanuts van Harry Schulz  🙂🙃.

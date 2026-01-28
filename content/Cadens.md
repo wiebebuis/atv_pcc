@@ -8,7 +8,7 @@ Niet te verwarren met de solistencadens of [[Cadenza]].
 [[ANALYSE]]
 [[HARMONIE]]
 [[HARMONIELEER]]
-[[Cadens-typen (algemeen)]]
+[[Cadenstypen (algemeen)]]
 [[Cadenstypen (Caplin)]]
 [[Cadenstypen (IJzerman)]]
 [[Cadenstypen 16e en 17e eeuw]]

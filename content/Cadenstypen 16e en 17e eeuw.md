@@ -13,5 +13,5 @@ Samenvattend: de meest karakteristieke stembewegingen zijn dus:
 - tenorizans: dalende stap naar (1)
 - bassizans: kwart- of kwintsprong naar (1)
 
-Ligt de tenorizans in de laagste stem dan is er sprake van de "tenor cadence".
-Ligt de cantizans in de laagste stem dan is er sprake van de "soprano cadence".
+Ligt de tenorizans in de laagste stem dan spreekt men van de "tenor cadence".
+Ligt de cantizans in de laagste stem dan spreekt men van de "soprano cadence".
