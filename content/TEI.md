@@ -1,4 +1,4 @@
 Afkorting voor Text Encoding Initiative
 https://tei-c.org/
 
-Zie ook [[Music EMEI]]
+Zie ook [[MEI]] en [[Verovio]].
