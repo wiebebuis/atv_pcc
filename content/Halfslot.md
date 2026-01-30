@@ -1,1 +1,1 @@
-Cadenstype waarbij tijdelijk wordt afgesloten op de dominant van een majeur- of mineurtoonsoort. Maakt ook deel uit van de zogenaamde phrygische cadens (Phrygian cadence). Zie ook [[Cadens]] en [[Cadenstypen (algemeen)]].
+Cadenstype waarbij tijdelijk wordt afgesloten op de dominant (drieklank), trap V, van een majeur- of mineurtoonsoort. Maakt ook deel uit van de zogenaamde phrygische cadens (Phrygian cadence). Zie ook [[Cadens]] en [[Cadenstypen (algemeen)]].
