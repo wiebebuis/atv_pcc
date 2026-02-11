@@ -8,8 +8,12 @@ De volgende termen worden daarbij vaak gebruikt:
 - polyfonie
 - heterofonie
 
-Begeleidingsfiguur zoals Albertijnse bas.
-Nevenstem of tegenstem.
-Hauptstimme / Nebenstimme (Berg/Schoenberg)
+Het kan ook gaan om muzikale patronen, bijvoorbeeld:
+* Begeleidingsfiguur zoals Albertijnse bas.
+- Nevenstem of tegenstem.
+- Hauptstimme / Nebenstimme (Berg/Schoenberg)
+- (door)imitatie
+- ...
+
 
 [[ANALYSE]]
