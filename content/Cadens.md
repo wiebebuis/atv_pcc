@@ -2,7 +2,7 @@ Is een ander woord voor *slotformule*, een manier om een (deel van een) muziekst
 
 Er zijn de geschiedenis door veel verschillende patronen voor gebruikt die sterk samenhangen met de stijl en het idioom van de betreffende muziek.
 
-Tegenwoordig verstaat men onder een cadens een akkoordopeenvolging die een toonsoort duidelijk bevestigt of markeert.
+Tegenwoordig verstaat men onder een cadens een (functionele) akkoordopeenvolging die een toonsoort duidelijk bevestigt of markeert.
 Niet te verwarren met de solistencadens of [[Cadenza]].
 
 [[ANALYSE]]
@@ -12,6 +12,7 @@ Niet te verwarren met de solistencadens of [[Cadenza]].
 [[Cadenstypen (Caplin)]]
 [[Cadenstypen (IJzerman)]]
 [[Cadenstypen 16e en 17e eeuw]]
+[[Cadenstypen OMO]]
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523)(Hanze)
 
