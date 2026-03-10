@@ -1,9 +1,10 @@
 - Dies irae-motief 
 - L'Homme armé-motief
 - "Noodlot"-motief (Beethoven V, Verdi: Forza)
-- Tristan-motief
+- Wagners Tristan-motief
 - Het Ring motief uit LotR (Fm-E), Fm met tritonus voorhouding die naar de kwint oplost,  https://youtu.be/Dw6BCAZqkaQ?si=L6vgYhc_jUYx13U0
 - Het ostinate ritme van de Boléro van Ravel
+- De openingsakkoorden van Mozarts Don Giovanni
 - ...
 Er is ook een vrij uitgebreide verzameling van algemene stijlgebonden motieven in 18e eeuwse klassieke muziek, zoals de "Mannheimer Rakete", en het "Hamer"-motief.
 

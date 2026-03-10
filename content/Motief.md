@@ -2,3 +2,5 @@ In algemene zin een muzikaal idee.  Dat idee kan melodisch, harmonisch, ritmisch
 Soms is een motief zo iconisch dat het een eigen naam krijgt, bijvoorbeeld het Tristan-motief van Wagner uit Tristan und Isolde, of het "noodlot"-motief van Beethovens vijfde symfonie, of het "dies irae" motief.
 Zie ook [[Motieven, beroemde]].
 
+Het concept motief kent tegenwoordig een moderne tegenhanger in de vorm van een [[Meme]]
+
