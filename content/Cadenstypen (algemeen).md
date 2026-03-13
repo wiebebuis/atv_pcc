@@ -8,9 +8,10 @@ En uiteraard het halfslot of "half cadence", een open einde op de dominant-driek
 
 Uitgebreide of extended cadence: I-VI-IV-II-V-I. In mineur met II6 ipv II door de verminderde drieklank op II.
 ![[uitgebreide_cadens.jpeg]]
-
+![[uitgebreide_cadens.m4a]]
 Uitgebreide cadens met Trugschluss gevolgd door definitieve afsluiting:
 ![[uitgebreide_cadens_met_trugschluss.jpeg]]
+![[uitgebreide_cadens_met-trugschluss.m4a]]
 Zie ook [[Cadenstypen (Caplin)]]: PAC, IAC, HC, DC.
 
 HACOPA (IJzerman): simple, compound, double, galant, neapolitan, discant, half cadence.
