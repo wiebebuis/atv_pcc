@@ -2,7 +2,7 @@ Er zijn nogal wat termen in omloop met betrekking tot cadenzen, cadensformules, 
 
 Daarom is het verstandig om uit te gaan van algemeen geaccepteerde benamingen, die tevens duidelijk maken dat "harmonische" cadenzen een contrapuntische oorsprong hebben in de vorm van karakteristieke stembewegingen (cantizans, tenorizanz, e.d.)
 Dat zijn:
-1. [[Cadenstypen (algemeen)]] (Nederlandse termen)
+1. Cadenstypen algemeen (Nederlandse terminologie en (dit artikel))
 2. [[Cadenstypen (Caplin)]]
 3. [[Cadenstypen (IJzerman)]]
 4. [[Cadenstypen 16e en 17e eeuw]] (zie ook de bijbehorende video: http://www.earlymusicsources.com/youtube/cadences
