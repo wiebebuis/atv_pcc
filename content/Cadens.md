@@ -5,14 +5,16 @@ Er zijn de geschiedenis door veel verschillende patronen voor gebruikt die sterk
 Tegenwoordig verstaat men onder een cadens een (functionele) akkoordopeenvolging die een toonsoort duidelijk bevestigt of markeert.
 Niet te verwarren met de solistencadens of [[Cadenza]].
 
-[[ANALYSE]]
-[[HARMONIE]]
-[[HARMONIELEER]]
-[[Cadenstypen (algemeen)]]
-[[Cadenstypen (Caplin)]]
-[[Cadenstypen (IJzerman)]]
-[[Cadenstypen 16e en 17e eeuw]]
-[[Cadenstypen OMO]]
+- [[Cadenstypen (algemeen)]]
+- [[Cadenstypen (Caplin)]]
+- [[Cadenstypen (IJzerman)]]
+- [[Cadenstypen 16e en 17e eeuw]]
+- [[Cadenstypen OMO]]
 
 [https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523](https://doi-org.nlhhg.idm.oclc.org/10.1093/gmo/9781561592630.article.04523)(Hanze)
 
+Zie ook
+
+- [[ANALYSE]]
+- [[HARMONIE]]
+- [[HARMONIELEER]]
