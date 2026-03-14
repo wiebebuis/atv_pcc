@@ -17,5 +17,19 @@ Muzikale taal is te verbinden aan stijl en idioom: [[Stijl]] blijft een wat prob
 
 ### Zinnen en zinsbouw in muziek en taal
 
-![[Thema]]
+[[Thema]]
 
+### Liederen, ballads, songs
+
+[[Small binary (Caplin)]]
+
+[[Small ternary (Caplin)]]
+
+### Klassieke manieren van zinsbouw
+[[Sentence (Caplin)]]
+
+Zie ook de cheatsheet: [[Cheat Sheet Sentence (Caplin).jpg]]
+
+[[Period (Caplin)]]
+
+Zie ook de cheat sheet: [[Cheat Sheet Period (Caplin).jpg]]
