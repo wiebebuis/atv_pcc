@@ -25,11 +25,11 @@ Muzikale taal is te verbinden aan stijl en idioom: [[Stijl]] blijft een wat prob
 
 [[Small ternary (Caplin)]]
 
-### Klassieke manieren van zinsbouw
+### Klassieke manieren van zinsbouw (naar Caplin)
 [[Sentence (Caplin)]]
 
-Zie ook de cheatsheet: [[Cheat Sheet Sentence (Caplin).jpg]]
+Zie ook: [[Cheat Sheet Sentence (Caplin).jpg]]
 
 [[Period (Caplin)]]
 
-Zie ook de cheat sheet: [[Cheat Sheet Period (Caplin).jpg]]
+Zie ook: [[Cheat Sheet Period (Caplin).jpg]]
