@@ -19,7 +19,7 @@ Muzikale taal is te verbinden aan stijl en idioom: [[Stijl]] blijft een wat prob
 
 [[Thema]]
 
-### Liederen, ballads, songs
+### Liederen, ballads, songs, chansons
 
 [[Small binary (Caplin)]]
 
