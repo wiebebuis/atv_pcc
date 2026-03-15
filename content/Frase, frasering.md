@@ -1,6 +1,4 @@
 Een aanduiding van een muzikale zin van niet al te grote lengte. (Langer dan een motief, maar korter dan een Periode). Een vuistregel bij frasering in muziek houdt verband met punten waarop je muzikaal gezien "ademt". 
-
-
 ### Phrase als bouwsteen
 Bij Caplin is bijvoorbeeld de "phrase" bouwsteen van [[Sentence (Caplin)]] en [[Period (Caplin)]]: hij onderscheidt:
 - antecedent phrase & consequent phrase bij de period
