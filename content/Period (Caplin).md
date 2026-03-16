@@ -1,6 +1,7 @@
 Een van de door William Caplin onderscheiden Conventional Theme Types. Afkomstig van de Duitse term "Periode".
 
 >[Definition from Caplin ACF]
+>
 >"The period (like the sentence) is an 8-m. theme built out of two phrases: a 4-m. antecedent phrase, followed by a 4-m. consequent phrase.
 The labels for these phrases also refer to the two formal functions of the period: an initiating antecedent and a concluding consequent. 
 Antecedent Phrase

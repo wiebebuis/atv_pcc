@@ -1,8 +1,7 @@
 ---
 tags:
 ---
-Deze Map Of Content (MOC) is een voorbeeld van hoe je rondom een **onderwerp** met bijbehorende **kernbegrippen** onderwijs kunt vormgeven. Het is **niet** bedoeld als een lineair verhaal. Als je wilt kun je met elk kernwoord beginnen om van daaruit een verhaal (narratief) te bouwen. Het geeft je dus enerzijds **vrijheid** in de weg die je aflegt met behulp van deze kaart en anderzijds heb je **houvast**, omdat het aantal kernbegrippen beperkt is. In de titel van deze MOC wordt [[Tonaliteit]] niet genoemd, maar het is evident dat deze kernbegrippen, die hun oorsprong hebben in de klassieke periode, sterk verbonden zijn aan tonale samenhang.
-
+Deze Map Of Content (MOC) is een voorbeeld van hoe je rondom een **onderwerp** met bijbehorende **kernbegrippen** onderwijs kunt vormgeven. Het is **niet** bedoeld als een lineair verhaal. Als je wilt kun je met elk kernwoord beginnen om van daaruit een verhaal (narratief) te bouwen. Het geeft je dus enerzijds **vrijheid** in de weg die je aflegt met behulp van deze kaart en anderzijds heb je **houvast**, omdat het aantal kernbegrippen beperkt is. In de titel van deze MOC wordt [[Tonaliteit]] niet genoemd, maar het is evident dat deze kernbegrippen, die hun oorsprong hebben in de klassieke periode, sterk verbonden zijn aan tonale samenhang en de cadenspatronen die zinsdelen a.h.w. markeren.
 
 ### Algemeen: De analogie met taal
 Is music a language or is language a music?
@@ -17,6 +16,8 @@ Muzikale "taal" is te verbinden aan stijl en idioom: [[Stijl]] blijft een wat pr
 
 ### Thema en motief
 [[Thema]]
+
+[[Thema's, beroemde]]
 
 [[Motief]]
 
