@@ -40,11 +40,3 @@ Een heel oude liedvorm is de [[Bar-vorm (Du. Barform)]] schematisch weergegeven 
 
 Het tegenwoordig veel voorkomende schema A-A-B-A lijkt daarop.
 
-### Klassieke manieren van zinsbouw (naar Caplin)
-Caplin onderscheidt 3 Theme Types:
-
-1. [[Sentence (Caplin)]] Zie ook: [[Cheat Sheet Sentence (Caplin).jpg]]
-2. [[Period (Caplin)]] Zie ook: [[Cheat Sheet Period (Caplin).jpg]]
-3. Hybrid and compound themes[[Cheat sheet Hybrid and Compound Themes (Caplin)]]
-
-Sentence en Period zijn de belangrijkste; het goed kennen en begrijpen van deze twee is een voorwaarde om het werken met hybrid themes te kunnen volgend.
