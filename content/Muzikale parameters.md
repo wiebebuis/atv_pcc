@@ -4,7 +4,7 @@ Muzikale **klank** is te beschrijven in termen van deelgebieden of parameters.
 
 **NB** Het beschrijven van muzikale klank dient uiteraard ingebed te worden in de indruk van van **vorm/structuur** en **textuur** van de muziek.
 
-Bij [[Textuur]] gaat het om de verhouding tussen diverse stemmen/partijen in een compositie; het "klankweefsel". Vaak is sprake van een zekere **rolverdeling:** (melodie met begeleiding, combinatie melodische lijnen, nevenstemmen en dergelijke).
+Bij [[Textuur]] gaat het om de verhouding tussen diverse stemmen/partijen in een compositie; het "klankweefsel". Vaak is sprake van een zekere **rolverdeling:** (melodie met begeleiding, combinatie melodische lijnen, nevenstemmen, (door)imitatie en dergelijke).
 
 De parameters of deelgebieden van muzikale klank zijn de volgende:
 
