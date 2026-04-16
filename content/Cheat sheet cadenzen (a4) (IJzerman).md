@@ -17,5 +17,5 @@ discant cadence met (1) (7) (1)
 
 ![[ijzerman example 6.20.jpg]]
 
-[[hacopa example 6.20.mp3]]
+![[hacopa example 6.20.mp3]]
 
