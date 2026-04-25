@@ -3,7 +3,7 @@ title: Semantisch Netwerk over Muziek en Muziektheorie
 draft: false
 tags:
 ---
-**NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt (of vergroot je venster). :-)
+**NB**: Je moet op deze pagina aan de linkerkant een **Verkenner/Explorer** zien. Zie je die niet? Zoom dan **uit** met je browser naar een waarde < 100% totdat de explorer verschijnt (of vergroot je venster, of gebruik het hamburgermenu links boven). :-)
 
 ![[quote murphy concepts.png]]
 
