@@ -1,0 +1,1 @@
+Verzameling psalmen en gezangen voor het gebruik in de eredienst. Ontstaan uit een initiatief van de NederlandseHervormde Kerk. Hierbij kreeg het Geneefs Psalter een nieuwe berijming die de oude berijming van 1773 verving.

@@ -10,3 +10,4 @@ De door Bach gezette koralen die ons zijn overgeleverd zijn zeer gevarieerd. Eé
 2. "lopende bas" in achtsten beweging tegen een overwegende kwartenbeweging in de andere stemmen
 3. over A, T en B verdeelde achtstenbeweging, met spaarzame korte zestiendenbewegingen
 4. koraal met tussenvoeging van contrapuntische segmenten.
+
