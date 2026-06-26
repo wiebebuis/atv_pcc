@@ -4,8 +4,7 @@ In de **Calvinistische** protestantse kerk werden aanvankelijk **metrische berij
 
 In de **Anglicaanse** protestantse kerk waren dat de **chants**, melodische formules in een gereciteerd (spraak)ritme met eenvoudige akkoordbegeleiding.
 
-Naast deze voorbeelden is er nog:
-het kerklied (in de Engelse context hymn)
+Naast deze voorbeelden is er nog het kerklied (in de Engelse context hymn)
 
 Zie ook [[Bachkoraal]].
 
