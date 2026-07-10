@@ -1,4 +1,4 @@
-Is een ander woord voor *slotformule*, een manier om een (deel van een) muziekstuk (tussentijds) af te sluiten. Het kan een melodische formule zijn, een contrapuntisch fragment, een akkoordopeenvolging, of de oplossing van een dissonante klank. 
+Is een ander woord voor *slotformule*, een manier om een (deel van een) muziekstuk (tussentijds) af te sluiten. Het kan een melodische formule zijn, een contrapuntisch fragment, een akkoordopeenvolging, of de oplossing van een (meer of minder) dissonante klank. 
 
 Er zijn de geschiedenis door veel verschillende patronen voor gebruikt die sterk samenhangen met de stijl en het idioom van de betreffende muziek.
 
