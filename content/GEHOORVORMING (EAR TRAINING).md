@@ -14,7 +14,7 @@ Didactisch gezien hebben we een aantal aanknopingspunten of **werkmodellen** nod
 
  Werkmodelen zijn gelukkig ook voorhanden in (bijvoorbeeld) de Partimento-traditie. Een traditie die zeker niet beperkt is tot 18e eeuwse en vroeg 19e eeuwse stijlen. 
  
- De partimentopatronen zijn zo stevig verankerd in de tonaliteit dat ze eigenlijk algemeen toepasbaar zijn in tonale muziek, inclusief jazz, popmuziek, en (in Nederland) de traditie van de kleinkunst met namen als Jules de Corte, Harry Bannink. En niet te vergeten het Franstalige chanson, met namen als Brel, Brassens, Piaf, Ferré. 
+ De partimentopatronen zijn zo stevig verankerd in de tonaliteit dat ze eigenlijk algemeen toepasbaar zijn in tonale muziek, inclusief jazz, popmuziek, en (in Nederland) de traditie van de kleinkunst met namen als Jules de Corte, Harry Bannink, Ramses Shaffy. En niet te vergeten het Franstalige chanson, met namen als Brel, Brassens, Piaf, Ferré. 
  
  De verwijzingen in Tonal Tools (Lieven Strobbe) geven ettelijke voorbeelden van partimentopatronen die te vinden zijn buiten de klassiek-romantische muziek. Zie [[Partimentopatronen (Tonal Tools, Lieven Strobbe)]].
 

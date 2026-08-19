@@ -1,4 +1,4 @@
-Boventonen zijn tonen die als het ware "opgesloten" zijn in de totaalklank van een instrument en die met een (basis)toon meeklinken of resoneren. Ook de tonen die hoorbaar worden door "overblazen" op bijvoorbeeld een koperblaasinstrument noemen we boventonen of harmonischen. Van een dergelijke reeks verhouden de frekwenties zich tot elkaar als 1:2:3:4 enz.
+WBBoventonen zijn tonen die als het ware "opgesloten" zijn in de totaalklank van een instrument en die met een (basis)toon meeklinken of resoneren. Ook de tonen die hoorbaar worden door "overblazen" op bijvoorbeeld een koperblaasinstrument noemen we boventonen of harmonischen. Van een dergelijke reeks verhouden de frekwenties zich tot elkaar als 1:2:3:4 enz.
 Deze reeks wordt [[Boventoonreeks]] genoemd.
 
 ![[Afbeeldingen/boventoonreeks.jpeg]]
