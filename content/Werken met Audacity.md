@@ -1,4 +1,5 @@
 Werken met Audacity is erg eenvoudig en "het kost gratis".     
+https://www.audacityteam.org/
 
 Een audiobestand importeren:
 File >> Import >>Audio
