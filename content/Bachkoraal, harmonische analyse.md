@@ -1,3 +1,5 @@
+Dit item geeft een handreiking om een Bachkoraal harmonisch te analyseren.
+
 Algemene info over  Bachkoralen: [[Bachkoraal]].
 
 Voorbeeld: BWV 248/12 Brich an du schönes Morgenlicht (Weihnachtsoratorium).
