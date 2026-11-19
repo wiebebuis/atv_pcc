@@ -1,6 +1,5 @@
-Algemene info over  Bachkoralen:[[Bachkoraal]].
+Algemene info over  Bachkoralen: [[Bachkoraal]].
 
-### Aanpak 
 Voorbeeld: BWV 248/12 Brich an du schönes Morgenlicht (Weihnachtsoratorium).
 
 PDF: [[bachkoraal 9.pdf]] JPG: [[bachkoraal 9.jpg]].
@@ -12,7 +11,9 @@ https://skole.nl/index.php/en/bach-koralen-bach-chorales
 In het algemeen volgt het harmonisch ritme van een Bachkoraal de puls of tel (kwartnoot). Zie ook [[Harmonisch ritme]].
 #### Werkwijze
 **Print** het koraal, pak alvast een **potlood** en een **gum**.
-We werken met akkoordsymbolen (boven het systeem), trappenbecijfering (onder het systeem), haakjes om "versieringstonen" te markeren) en afkortingen om "versieringstonen" te benoemen. Zie ook [[Versieringstonen]].
+
+We werken met akkoordsymbolen (boven het systeem), trappenbecijfering (onder het systeem), haakjes () om "versieringstonen" te markeren en afkortingen om "versieringstonen" te benoemen. Zie ook [[Versieringstonen]].
+
 1. Beluister het koraal aandachtig enkele malen *in zijn geheel* en speel minimaal de buitenstemmen van het koraal (S en B) op een klavierinstrument. (Dit is geen tijdverspilling, maar een goede muzikale gewoonte...).
 2. Beluister het koraal aandachtig *regel voor regel* en let daarbij op:
    a. de afronding van elke regel; er is sprake van een vorm van cadensering. Verschillende soorten daarvan zijn er mogelijk (zie ook [[Cadens]] en de verwijzing naar diverse cadenstypen).
