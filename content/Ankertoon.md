@@ -1,4 +1,4 @@
-In modaal-tonale context duidt dit vooral op de **eerste** en **vijfde** toon van de geldende ladder. Mesquita en Vogt (Gehörbildung) spreken van een **Achsenton**. Het zijn "sterke" tonen van een tonaliteit of toonsoort.
+In modaal-tonale context duidt dit vooral op de **eerste** en **vijfde** toon van de geldende Versieringsladder. Mesquita en Vogt (Gehörbildung) spreken van een **Achsenton**. Het zijn "sterke" tonen van een tonaliteit of toonsoort.
 
 In relatie tot de partimento-praktijk is ook de **vierde** toon van de ladder belangrijk.
 
