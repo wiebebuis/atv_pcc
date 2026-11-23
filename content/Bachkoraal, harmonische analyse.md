@@ -29,6 +29,6 @@ We werken met akkoordsymbolen (boven het systeem), trappenbecijfering (onder het
    d. het gebruik van "versieringstonen"; zet deze desnoods tussen "haakjes" (). 
    (Regelmatig lukt het niet om echt alle "versieringstonen" eenduidig te benoemen, dat is geen ramp maar een gevolg van deze theoretische denkwijze. Bij [[Versieringstonen]] wordt dat toegelicht.
 1. Lokaliseer karakteristieke (continuo)-"lijntjes" (**stembewegingen**) boven bastonen, zoals 4-3, 7-6, 6-5, 9-8, maar ook de minder gangbare 2-3 met stapsgewijs dalende bas...
-2. De toevallige voortekens zijn een aanknopingspunt om te ontdekken hoe er wordt bewogen tussen verschillende toonsoorten. Werk bij modulaties met twee regels trapcijfers (één voor de uitgangstoonsoort en één voor de doeltoonsoort) en geef aan welk akkoord als spilakkoord beschouwd kan worden (bijvoorbeeld I in G majeur = IV in D majeur).
+2. De toevallige voortekens zijn een aanknopingspunt om te ontdekken hoe er wordt bewogen tussen verschillende toonsoorten. Werk bij modulaties met twee regels trapcijfers (één voor de uitgangstoonsoort en één voor de doeltoonsoort) en geef aan welk akkoord als **spilakkoord** beschouwd kan worden (bijvoorbeeld I in G majeur = IV in D majeur).
 3. Bij trappenbecijfering is het een goede gewoonte eerst te kijken naar het **einde** van elke regel: "waar gaan we naar toe?" en ook "waar komen we vandaan?"
 
