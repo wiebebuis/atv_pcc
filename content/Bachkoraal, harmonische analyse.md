@@ -2,15 +2,27 @@ Dit item geeft een handreiking om een Bachkoraal (BWV 248.12) harmonisch te anal
 
 Algemene info over  Bachkoralen: [[Bachkoraal]].
 
-Voorbeeld: BWV 248.12 Brich an du schönes Morgenlicht (Weihnachtsoratorium).
-
-PDF: [[bachkoraal 9.pdf]] JPG: [[bachkoraal 9.jpg]].
-
-Je vindt het koraal met soundclips per regel via de volgende link:
-
-https://skole.nl/index.php/en/bach-koralen-bach-chorales
-
 In het algemeen volgt het harmonisch ritme van een Bachkoraal de puls of tel (kwartnoot). Zie ook [[Harmonisch ritme]].
+
+#### Enkele opmerkingen vooraf
+Het werken met Bachkoralen op deze manier is een oefening voor:
+- het herkennen van akkoorden en deze als akkoordsymbool noteren
+- het relateren van akkoorden aan toonsoorten d.m.v. trappenbecijfering
+- het herkennen van "versieringstonen" en andere karakteristieke stembewegingen die weergegeven kunnen worden continuo-notatie.  
+Deze manieren van observeren vullen elkaar aan.
+
+#### Waar is het goed voor?
+Iemand die zichzelf musicus wil noemen moet dit soort dingen vlot en trefzeker kunnen. We noemen dat **fluency**.  Leer je dit niet dan blijf je steken op het niveau van "spellend lezen".
+Niet professioneel dus. 
+
+Je zult ook ontdekken dat je meestal niet alle noten uit een koraal kunt "verklaren". Dat is verdedigbaar want we gebruiken deze coderingen als **middel** en niet als **doel**. Bovendien zijn systemen bijna nooit helemaal sluitend.
+
+Het is ook verklaarbaar, want in barokmuziek werd aanvankelijk alleen continuo-notatie gebruikt als speelhulp in telegramstijl voor een continuo-speler die alleen een baslijn kreeg met cijfertjes. Hij moest zijn hersens **en** zijn oren gebruiken. 
+
+Het werken met trappenbecijfering is van latere datum, dit werd pas ontwikkeld in de latere 18e eeuw, en baseerde zich (ten dele) op Rameau zijn theorie over harmonische functies die hij had geformuleerd rond 1720. Verder zijn belangrijke namen in dit verband: Georg Joseph Vogler, Johann Philipp Kirnberger, (Jacob) Gottfried Weber.
+
+Akkoordsymbolen zijn van een nog latere datum, deze ontstonden in de de praktijk van jazz muziek.
+
 #### Werkwijze
 **Print** het koraal, pak alvast een **potlood** en een **gum**.
 
@@ -28,7 +40,7 @@ We werken met akkoordsymbolen (boven het systeem), trappenbecijfering (onder het
    
    d. het gebruik van "versieringstonen"; zet deze desnoods tussen "haakjes" (). 
    (Regelmatig lukt het niet om echt alle "versieringstonen" eenduidig te benoemen, dat is geen ramp maar een gevolg van deze theoretische denkwijze. Bij [[Versieringstonen]] wordt dat toegelicht.
-1. Lokaliseer karakteristieke (continuo)-"lijntjes" (**stembewegingen**) boven bastonen, zoals 4-3, 7-6, 6-5, 9-8, maar ook de minder gangbare 2-3 met stapsgewijs dalende bas...
-2. De toevallige voortekens zijn een aanknopingspunt om te ontdekken hoe er wordt bewogen tussen verschillende toonsoorten. Werk bij modulaties met twee regels trapcijfers (één voor de uitgangstoonsoort en één voor de doeltoonsoort) en geef aan welk akkoord als **spilakkoord** beschouwd kan worden (bijvoorbeeld I in G majeur = IV in D majeur).
-3. Bij trappenbecijfering is het een goede gewoonte eerst te kijken naar het **einde** van elke regel: "waar gaan we naar toe?" en ook "waar komen we vandaan?"
+3. Lokaliseer karakteristieke (continuo)-"lijntjes" (**stembewegingen**) boven bastonen, zoals 4-3, 7-6, 6-5, 9-8, maar ook de minder gangbare 2-3 met stapsgewijs dalende bas...
+4. De toevallige voortekens zijn een aanknopingspunt om te ontdekken hoe er wordt bewogen tussen verschillende toonsoorten. Werk bij modulaties met twee regels trapcijfers (één voor de uitgangstoonsoort en één voor de doeltoonsoort) en geef aan welk akkoord als **spilakkoord** beschouwd kan worden (bijvoorbeeld I in G majeur = IV in D majeur).
+5. Bij trappenbecijfering is het een goede gewoonte eerst te kijken naar het **einde** van elke regel: "waar gaan we naar toe?" en ook "waar komen we vandaan?"
 
